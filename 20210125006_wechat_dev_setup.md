@@ -1,6 +1,7 @@
 ---
 id: 20210125006_wechat_dev_setup
 title: 微信公众号开发的相关配置
+subtitle: 基于微信公众号开发所需的公共号管理控制台相关配置
 subject: WeReady
 category: 指导手册
 tags: 

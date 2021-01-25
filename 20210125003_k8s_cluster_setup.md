@@ -1,6 +1,7 @@
 ---
 id: 20210125003_k8s_cluster_setup
 title: Kubernetes (k8s) 集群安装部署
+subtitle: 在 CentOS 服务器环境下，K8S 一主一从的集群安装
 subject: 云原生
 category: 指导手册
 tags: 

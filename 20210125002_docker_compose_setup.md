@@ -1,6 +1,7 @@
 ---
 id: 20210125002_docker_compose_setup
 title: Docker Compose 的安装设置
+subtitle: CentOS 下 Docker 和 Docker Compose 的安装配置
 subject: 开发环境
 category: 指导手册
 tags: 
