@@ -1,4 +1,5 @@
 ---
+id: 20210123000_readme
 title: 关于 notebook
 subject: WeReady
 category: 声明公告
@@ -8,7 +9,6 @@ cover:
 author: Chis Wei
 created_when: 2021-01-23
 updated_when: 2021-01-23
-ID: 20210123000
 ---
 
 # Title

@@ -1,4 +1,5 @@
 ---
+id: 20210125001_win_dev_env_setup
 title: Windows开发环境的安装设置
 subject: 开发环境
 category: 指导手册
@@ -8,7 +9,6 @@ cover:
 author: Chis Wei
 created_when: 2021-01-25
 updated_when: 2021-01-25
-ID: 20210125001_win_dev_env_setup
 ---
 
 # Windows开发环境的安装设置

@@ -1,4 +1,5 @@
 ---
+id: 20210125002_docker_compose_setup
 title: Docker Compose 的安装设置
 subject: 开发环境
 category: 指导手册
@@ -8,7 +9,6 @@ cover:
 author: Chis Wei
 created_when: 2021-01-25
 updated_when: 2021-01-25
-ID: 20210125002_docker_compose_setup
 ---
 
 # Docker Compose 的安装设置

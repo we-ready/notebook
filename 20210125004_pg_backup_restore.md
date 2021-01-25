@@ -1,4 +1,5 @@
 ---
+id: 20210125004_pg_backup_restore
 title: 'postgres 数据库的备份与恢复'
 subject: 运维
 category: 指导手册
@@ -8,7 +9,6 @@ cover:
 author: Chis Wei
 created_when: 2021-01-25
 updated_when: 2021-01-25
-ID: 20210125004_pg_backup_restore
 ---
 
 # postgres 数据库的备份与恢复

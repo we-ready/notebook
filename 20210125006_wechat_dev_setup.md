@@ -1,4 +1,5 @@
 ---
+id: 20210125006_wechat_dev_setup
 title: 微信公众号开发的相关配置
 subject: WeReady
 category: 指导手册
@@ -8,7 +9,6 @@ cover:
 author: Chis Wei
 created_when: 2021-01-25
 updated_when: 2021-01-25
-ID: 20210125006_wechat_dev_setup
 ---
 
 # 微信公众号开发的相关配置

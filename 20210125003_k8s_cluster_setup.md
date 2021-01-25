@@ -1,4 +1,5 @@
 ---
+id: 20210125003_k8s_cluster_setup
 title: Kubernetes (k8s) 集群安装部署
 subject: 云原生
 category: 指导手册
@@ -8,7 +9,6 @@ cover:
 author: Chis Wei
 created_when: 2021-01-25
 updated_when: 2021-01-25
-ID: 20210125003_k8s_cluster_setup
 ---
 
 # Kubernetes (k8s) 集群安装部署
