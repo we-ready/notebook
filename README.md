@@ -1,5 +1,4 @@
 ---
-id: 20210123000_readme
 title: 关于 notebook
 subject: WeReady
 category: 声明公告
