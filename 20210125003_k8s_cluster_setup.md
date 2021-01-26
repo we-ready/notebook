@@ -6,7 +6,7 @@ subject: 云原生
 category: 指导手册
 tags: 
 keywords: kubernetes;k8s;LENS;Ingress
-cover: 
+cover: http://qiniuargus.weready.online/blog/tech_logos.png
 author: Chis Wei
 created_when: 2021-01-25
 updated_when: 2021-01-25

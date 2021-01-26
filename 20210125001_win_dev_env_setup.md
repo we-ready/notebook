@@ -6,7 +6,7 @@ subject: 开发环境
 category: 指导手册
 tags: 
 keywords: Windows;Development Environment
-cover: 
+cover: http://qiniuargus.weready.online/blog/Coder_desk.png
 author: Chis Wei
 created_when: 2021-01-25
 updated_when: 2021-01-25
