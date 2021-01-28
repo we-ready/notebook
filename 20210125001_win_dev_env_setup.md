@@ -4,8 +4,9 @@ title: Windows开发环境的安装设置
 subtitle: Windows系统下，基于Nodejs做全栈开发的系统设置
 subject: 开发环境
 category: 指导手册
-tags: 
+tags: nodejs;fullstack
 keywords: Windows;Development Environment
+level: 100
 cover: http://qiniuargus.weready.online/blog/Coder_desk.png
 author: Chis Wei
 created_when: 2021-01-25

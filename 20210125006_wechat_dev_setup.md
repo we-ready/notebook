@@ -6,7 +6,8 @@ subject: WeReady
 category: 指导手册
 tags: 
 keywords: 微信;公众号
-cover: 
+level: 200
+cover: http://qiniuargus.weready.online/blog/desktop.jpg
 author: Chis Wei
 created_when: 2021-01-25
 updated_when: 2021-01-25

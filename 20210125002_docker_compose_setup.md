@@ -4,8 +4,9 @@ title: Docker Compose 的安装设置
 subtitle: CentOS 下 Docker 和 Docker Compose 的安装配置
 subject: 开发环境
 category: 指导手册
-tags: 
-keywords: Docker;Docker Compose;集成环境
+tags: Docker Compose
+keywords: Docker;淘宝镜像;基本命令
+level: 100
 cover: http://qiniuargus.weready.online/blog/app_logos.png
 author: Chis Wei
 created_when: 2021-01-25

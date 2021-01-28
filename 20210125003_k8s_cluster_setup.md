@@ -4,8 +4,9 @@ title: Kubernetes (k8s) 集群安装部署
 subtitle: 在 CentOS 服务器环境下，K8S 一主一从的集群安装
 subject: 云原生
 category: 指导手册
-tags: 
-keywords: kubernetes;k8s;LENS;Ingress
+tags: kubernetes;k8s;Ingress;calico;LENS
+keywords: kubeadm;k8s集群
+level: 200
 cover: http://qiniuargus.weready.online/blog/tech_logos.png
 author: Chis Wei
 created_when: 2021-01-25
