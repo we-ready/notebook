@@ -7,7 +7,7 @@ category: 实战技巧
 tags: css
 keywords: rem;em;px
 level: 300
-cover: 
+cover: http://qiniuargus.weready.online/blog/coder.jpg
 author: Chis Wei
 created_when: 2021-01-28
 updated_when: 2021-01-28

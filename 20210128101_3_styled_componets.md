@@ -7,7 +7,7 @@ category: 概念理解
 tags: react;css;styled-components
 keywords: fullstack
 level: 100
-cover: 
+cover: https://styled-components.com/logo.png
 author: Chis Wei
 created_when: 2021-01-28
 updated_when: 2021-01-28
