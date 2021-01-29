@@ -3,7 +3,7 @@ id: 20210128001_css_responsible_rem
 title: font-size，em，rem在响应式布局中的应用
 subtitle: 响应式布局，不再以所谓“像素的精准”为追求目标，而是追求页面能够自适应不同屏幕的尺寸
 subject: 响应式布局
-category: 实战技巧
+category: 经验技巧
 tags: css
 keywords: rem;em;px
 level: 300

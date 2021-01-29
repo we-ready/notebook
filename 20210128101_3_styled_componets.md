@@ -23,7 +23,10 @@ updated_when: 2021-01-28
 
 ## styled-components 是什么
 
-> 将 `css` 样式和 `html` 标签封装成 `react` 组件
+#### 将 `css` 样式和 `html` 标签封装成 `react` 组件
+
+- `react` 将 `HTML` 和 `JS` 做了整合，形成了 `jsx`
+- `styled-components` 进一步的将 `css` 做了进一步整合，纳入了 `jsx` 体系
 
 ## 入门
 
