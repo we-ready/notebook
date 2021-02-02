@@ -1,7 +1,6 @@
 # This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
 # For more information see: https://help.github.com/actions/language-and-framework-guides/publishing-nodejs-packages
 
-
 name: Build All
 
 on:
@@ -28,7 +27,7 @@ jobs:
       env:
         REPO_TARGET: github.com/we-ready/we-ready.github.io.git
       run: |
-        git clone --depth=1 -b master - https://${REPO_TARGET} ./weready
+        git clone --depth=1 -b master https://${REPO_TARGET} ./weready
         cd ./weready
         rm -rf *.*
 
@@ -36,7 +35,7 @@ jobs:
       env:
         REPO_TARGET: github.com/we-ready/blog.git
       run: |
-        git --depth=1 -b main clone https://${REPO_TARGET} ./blog
+        git clone --depth=1 -b main https://${REPO_TARGET} ./blog
 
     - name: 3.2 Build blog ...
       env:
@@ -57,7 +56,7 @@ jobs:
         REPO_TARGET: github.com/we-ready/argus.git
         GIT_ACCOUNT_TOKEN: ${{ secrets.GIT_ACCESS_TOKEN_OF_WE_READY }}
       run: |
-        git clone --depth=1 -b main - https://${GIT_ACCOUNT_TOKEN}@${REPO_TARGET} ./argus
+        git clone --depth=1 -b main https://${GIT_ACCOUNT_TOKEN}@${REPO_TARGET} ./argus
 
     - name: 4.2 Build argus/storybook ...
       env:
