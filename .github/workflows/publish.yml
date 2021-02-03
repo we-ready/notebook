@@ -81,7 +81,7 @@ jobs:
         git clone --depth=1 -b master https://${GIT_ACCOUNT_TOKEN}@${REPO_TARGET} ./weready
         cd ./weready
         find ! -regex '^./.git\(/.*\)?' -delete
-        cp ../output/. ./
+        cp -r ../output/. ./
         git config --global user.email "yunzhi.wei@qq.com"
         git config --global user.name "we-ready"
         git add -A
