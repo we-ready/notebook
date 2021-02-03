@@ -29,8 +29,8 @@ jobs:
         GIT_ACCOUNT_TOKEN: ${{ secrets.GIT_ACCESS_TOKEN_OF_WE_READY }}
       run: |
         git clone --depth=1 -b master https://${REPO_TARGET} ./weready
-        git remote add origin https://${GIT_ACCOUNT_TOKEN}@${REPO_TARGET}
         cd ./weready
+        git remote add origin https://${GIT_ACCOUNT_TOKEN}@${REPO_TARGET}
         rm -rf *.*
 
     - name: 3.1 Checkout blog source code ...
