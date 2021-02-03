@@ -1,6 +1,8 @@
 # This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
 # For more information see: https://help.github.com/actions/language-and-framework-guides/publishing-nodejs-packages
 
+# git remote add origin https://${GIT_ACCOUNT_TOKEN}@${REPO_TARGET}
+
 name: Build All
 
 on:
@@ -23,15 +25,9 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
 
-    - name: 2 Checkout weready source code ...
-      env:
-        REPO_TARGET: github.com/we-ready/we-ready.github.io.git
-        GIT_ACCOUNT_TOKEN: ${{ secrets.GIT_ACCESS_TOKEN_OF_WE_READY }}
-      run: |
-        git clone --depth=1 -b master https://${REPO_TARGET} ./weready
-        cd ./weready
-        git remote add origin https://${GIT_ACCOUNT_TOKEN}@${REPO_TARGET}
-        rm -rf *.*
+    - name: 2 Prepare empty folder ...
+      run:
+        mkdir output
 
     - name: 3.1 Checkout blog source code ...
       env:
@@ -52,7 +48,7 @@ jobs:
 
     - name: 3.3 Deploy result ...
       run:
-        cp -r ./blog/public/. ./weready
+        cp -r ./blog/public/. ./output
 
     - name: 4.1 Checkout argus/storybook source code ...
       env:
@@ -75,11 +71,17 @@ jobs:
 
     - name: 4.3 Deploy result ...
       run:
-        cp -r ./argus/npmlib/components/storybook/storybook-static/. ./weready
+        cp -r ./argus/npmlib/components/storybook/storybook-static/. ./output
 
-    - name: 5 Deploy weready ...
+    - name: 5 Deploy to weready repo ...
+      env:
+        REPO_TARGET: github.com/we-ready/we-ready.github.io.git
+        GIT_ACCOUNT_TOKEN: ${{ secrets.GIT_ACCESS_TOKEN_OF_WE_READY }}
       run: |
+        git clone --depth=1 -b master https://${GIT_ACCOUNT_TOKEN}@${REPO_TARGET} ./weready
         cd ./weready
+        find ! -regex '^./.git\(/.*\)?' -delete
+        cp ../output/. ./
         git config --global user.email "yunzhi.wei@qq.com"
         git config --global user.name "we-ready"
         git add -A
