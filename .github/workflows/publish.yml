@@ -76,6 +76,7 @@ jobs:
         cp -r ./argus/npmlib/components/storybook/storybook-static/. ./weready
 
     - name: 5 Deploy weready ...
+      env:
         GIT_ACCOUNT_EMAIL: ${{secrets.GIT_ACCOUNT_EMAIL}}
         GIT_ACCOUNT_NAME: ${{secrets.GIT_ACCOUNT_NAME}}
       run: |
