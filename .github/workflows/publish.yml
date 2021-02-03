@@ -76,13 +76,10 @@ jobs:
         cp -r ./argus/npmlib/components/storybook/storybook-static/. ./weready
 
     - name: 5 Deploy weready ...
-      env:
-        GIT_ACCOUNT_EMAIL: yunzhi.wei@qq.com
-        GIT_ACCOUNT_NAME: we-ready
       run: |
         cd ./weready
-        git config --global user.email "${{GIT_ACCOUNT_EMAIL}}"
-        git config --global user.name "${{GIT_ACCOUNT_NAME}}"
+        git config --global user.email "yunzhi.wei@qq.com"
+        git config --global user.name "we-ready"
         git add -A
         git commit -m "Update by github workflow actions"
         git push origin master
