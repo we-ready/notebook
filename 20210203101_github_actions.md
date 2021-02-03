@@ -43,7 +43,7 @@ updated_when: 2021-02-03
 
 > `repo` >>> `Actions` >>> `New workflow` >>> `Publish Node.js Package` `Set up this workflow`
 
-> 用以下内容替换生成的 `yml` 文件内容
+> 用以下内容替换生成的 `yml` 文件内容，并根据实际情况，填入有效的 `[email address]` & `[account name]`
 
 ```
 # This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
@@ -128,8 +128,8 @@ jobs:
         cd ./weready
         find ! -regex '^./.git\(/.*\)?' -delete
         cp -r ../output/. ./
-        git config --global user.email "yunzhi.wei@qq.com"
-        git config --global user.name "we-ready"
+        git config --global user.email "[email address]"
+        git config --global user.name "[account name]"
         git add -A
         git commit -m "Update by github workflow actions"
         git push origin master
