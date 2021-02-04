@@ -2,9 +2,9 @@
 id: 20210128101_3_styled_components
 title: styled-components 101
 subtitle: 什么是 styled-components
-subject: react
+subject: CSS-in-JS
 category: 概念理解
-tags: react;css;styled-components
+tags: react;css;jsx;CSs-in-JS;styled-components;
 keywords: fullstack
 level: 100
 cover: https://styled-components.com/logo.png
@@ -104,6 +104,18 @@ export default App;
   }
 }
 ```
+
+## 其他好处
+
+上述的，将 `css` 纳入 `jsx` 体系（`CSS-in-JS`），是 `styled-components` 最大的价值。除此之外，`styled-components` 还有很多其他价值，取代并超越了 `sass`，`less`，`module css`，等其他解决方案。
+
+- 自动处理 `-moz`, `-webkit` 等浏览器兼容；
+- 仍然兼容 `className`；
+- 样式继承；
+- 支持主题；
+- 可动态配置的样式参数；
+- 可动态配置的动画参数；
+
 
 ## 入门
 
