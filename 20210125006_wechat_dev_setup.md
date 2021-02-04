@@ -40,6 +40,7 @@ updated_when: 2021-01-25
 - 下载 MP_verify_xxxxxxx.txt
 
 > 下载到 `/[project folder]/public`
+
 > 确保微信相关设置和代码的 setting/config 设置一致
 
 - 设置服务器路由
@@ -69,6 +70,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 - 未获得的接口
 
 > 微信小店
+
 > 设备功能
 
 - 网页授权
@@ -81,16 +83,14 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 #### 账户中心
 
-* 操作证书：在本机安装操作证书
-
-* 商户信息：微信支付商户号（mchId）
-
-* API 安全：API 密钥，设置 API 密钥（partnerKey）
+- 操作证书：在本机安装操作证书
+- 商户信息：微信支付商户号（mchId）
+- API 安全：API 密钥，设置 API 密钥（partnerKey）
 
 #### 产品中心
 
-* 开发配置 -> 支付配置：公众号支付（authcheck）；扫码支付（notifyUrl）；
-* APPID 授权管理：绑定授权（appId）
+- 开发配置 -> 支付配置：公众号支付（authcheck）；扫码支付（notifyUrl）；
+- APPID 授权管理：绑定授权（appId）
 
 ## 微信 Web 开发者工具
 

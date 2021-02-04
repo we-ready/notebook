@@ -49,7 +49,7 @@ $ sudo docker run hello-world
 
 5. Verify that Docker Engine - Community is installed correctly by running the whalesay image. (Optional)
 
-- [docker/whalesa](https://hub.docker.com/r/docker/whalesay)
+> [docker/whalesa](https://hub.docker.com/r/docker/whalesay)
 
 ```
 $ docker run docker/whalesay cowsay boo
@@ -94,13 +94,13 @@ $ docker run docker/whalesay cowsay boo
 # curl -L https://get.daocloud.io/docker/compose/releases/download/1.22.0/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
 ```
 
-1. Apply executable permissions to the binary:
+2. Apply executable permissions to the binary:
 
 ```
 # chmod +x /usr/local/bin/docker-compose
 ```
 
-1. Verify that Docker Compose
+3. Verify that Docker Compose
 
 ```
 # docker-compose --version
@@ -118,9 +118,7 @@ $ docker run docker/whalesay cowsay boo
 
 - STDIN
 - -it (interactive mode, attach terminal)
-
 - attach / detach (-d)
-
 - Port Mapping (external:internal)
 
 ```
@@ -195,19 +193,19 @@ $ docker run docker/whalesay cowsay boo
 # docker pull postgres:alpine
 ```
 
-1. 启动容器
+2. 启动容器
 
 ```
 # docker run --name dbpg -e POSTGRES_PASSWORD=123456 -p 5432:5432 -d postgres:alpine
 ```
 
-1. 进入容器
+3. 进入容器
 
 ```
 # docker exec -it dbpg /bin/bash
 ```
 
-1. 启动 psql 
+4. 启动 psql 
 
 ```
 psql -U postgres -d postgres

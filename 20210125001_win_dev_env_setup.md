@@ -58,13 +58,13 @@ updated_when: 2021-01-25
 
 - [Download Here](https://code.visualstudio.com/)
 - 安装扩展
-  + Chinese (Simplified) Language Pack for Visual Studio Code
-  + Markdown Preview Enhanced
-  + Quokka.js
-  + Emoji Snippets
-  + VSCode NestJs Snippets
-  + ES7 React/Redux/GraphQL/React-Native snippets
-  + vscode-styled-components
+    + Chinese (Simplified) Language Pack for Visual Studio Code
+    + Markdown Preview Enhanced
+    + Quokka.js
+    + Emoji Snippets
+    + VSCode NestJs Snippets
+    + ES7 React/Redux/GraphQL/React-Native snippets
+    + vscode-styled-components
 
 ## Postman
 
@@ -87,12 +87,12 @@ npm install -g istanbul
 
 1. [Download Here](https://www.postgresql.org/download/)
 1. [Windows Version](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-  
-  > Stack Builder may fail. It doesn't matter.
-
-3. 增加环境变量：C:\Program Files\PostgreSQL\xx.x\bin
+1. 增加环境变量：C:\Program Files\PostgreSQL\xx.x\bin
 1. 重启 Windows
 1. SQL Shell (psql)
+1. 安装扩展
+
+> Stack Builder may fail. It doesn't matter.
 
 ```
 c:\xxx > psql
@@ -102,8 +102,6 @@ postgres=# CREATE USER [user name] WITH PASSWORD '[password]';
 postgres=# CREATE DATABASE [database name] OWNER [user name];
 postgres=# GRANT ALL PRIVILEGES ON DATABASE [database name] TO [user name];
 ```
-
-6. 安装扩展
 
 ```
 c:\xxx > psql -U [database name] -d [user name]

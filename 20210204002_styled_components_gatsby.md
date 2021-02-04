@@ -31,7 +31,7 @@ updated_when: 2021-02-04
 $ yarn add styled-components gatsby-plugin-styled-components babel-plugin-styled-components
 ```
 
-1. 在 `gatsby-config` 中正确配置
+2. 在 `gatsby-config` 中正确配置
 
 ```
 module.exports = {
