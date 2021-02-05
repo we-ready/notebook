@@ -7,7 +7,7 @@ category: 概念理解
 tags: github;actions;CI
 keywords: 持续集成
 level: 100
-cover: 
+cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdFw4iygh8LR1Can6DehP26aNujaBYtUdRg&usqp=CAU
 author: Chis Wei
 created_when: 2021-02-03
 updated_when: 2021-02-03

@@ -7,13 +7,33 @@ category: 精选推荐
 tags: 
 keywords: 开发资源
 level: 100
-cover: 
+cover: https://cdn.pixabay.com/photo/2012/06/19/10/32/owl-50267_960_720.jpg
 author: Chis Wei
 created_when: 2021-01-29
-updated_when: 2021-01-29
+updated_when: 2021-02-05
 ---
 
 # Gatsby 101
+
+## 国旗
+
+- [github](https://github.com/joielechong/iso-country-flags-svg-collection)
+- [fork for backup](https://github.com/YunzhiWei/country-flag-icons)
+
+## 参考
+
+- [Source](/watch?v=Hh1T77QP5nc)
+- [SVG Animation](watch?v=gWai7fYp9PY&t=66s)
+
+## Contents
+
+- [Undraw.co](Undraw.co)
+- [Free Vector Photo Icons PSD Font](https://freedesignfile.com​)
+- [Image](https://pixabay.com/en/​)
+- [Image](https://www.pexels.com​)
+- [Video](https://www.videvo.net​)
+- [Font](https://www.fontsquirrel.com​)
+- [Mochup](https://www.mockupworld.co)
 
 ## 参考
 
