@@ -10,7 +10,7 @@ level: 100
 cover: http://qiniuargus.weready.online/blog/Coder_desk.png
 author: Chis Wei
 created_when: 2021-01-25
-updated_when: 2021-01-25
+updated_when: 2021-02-05
 ---
 
 # Windows开发环境的安装设置
@@ -59,6 +59,8 @@ updated_when: 2021-01-25
 - [Download Here](https://code.visualstudio.com/)
 - 安装扩展
     + Chinese (Simplified) Language Pack for Visual Studio Code
+    + Cobalt2 Theme
+    + Night Owl Theme
     + Markdown Preview Enhanced
     + Quokka.js
     + Emoji Snippets
