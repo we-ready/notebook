@@ -7,7 +7,7 @@ category: 指导手册
 tags: project;requirements
 keywords: 项目管理;需求分析
 level: 100
-cover: 
+cover: https://media.inkscape.org/media/resources/file/pc1.svg
 author: Chis Wei
 created_when: 2021-02-02
 updated_when: 2021-02-02

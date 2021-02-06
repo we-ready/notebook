@@ -15,6 +15,20 @@ updated_when: 2021-02-05
 
 # Gatsby 101
 
+## SVG
+
+- [draw tool](https://inkscape.org/)
+
+## 人物
+
+- [Character Creator](https://www.reallusion.com/smartgallery/)
+
+## 头像
+
+- [Generated Photos](https://generated.photos/)
+
+> watch?v=tzvGzV0ejYU
+
 ## 国旗
 
 - [github](https://github.com/joielechong/iso-country-flags-svg-collection)
