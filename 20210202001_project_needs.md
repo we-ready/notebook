@@ -17,10 +17,6 @@ updated_when: 2021-02-02
 
 ## 业务背景
 
-[参考](https://www.processon.com/view/link/5ef91bfa1e0853263748aa46)
-
-> `Peopel` + `Process` + `Platform`
-
 - 痛点
 - 期望
 - 评判标准
@@ -102,3 +98,13 @@ updated_when: 2021-02-02
 ## 验收标准
 
 - 核心验收标准（Must have）
+
+## 参考
+
+> `Peopel` + `Process` + `Platform`
+
+- [业务流程](https://www.processon.com/view/link/5ef91bfa1e0853263748aa46)
+
+![业务流程](http://assets.processon.com/chart_image/5ef91bf97d9c0844203a1317.png)
+
+<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:525px; height:245px;" src="https://www.processon.com/embed/5ef91bf97d9c0844203a1314"></iframe>
