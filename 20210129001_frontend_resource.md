@@ -15,9 +15,65 @@ updated_when: 2021-02-05
 
 # Gatsby 101
 
+## freelancer
+
+- eleduck.com
+- upwork.comp
+- freelanceer.com
+- fiverr.com
+
+## Learning
+
+- freecodecamp
+- the odin project
+- mem.dev
+
+## excercises & algorithms
+
+- leetcode.com
+- exercism.io
+- codewars.com
+
+## Hosting
+
+- netlify
+- heroku
+
+## tools
+
+- emailjs.com
+- caniuse.com
+- image compressor
+- css-tricks
+
+## Image
+
+- unsplash
+- Pexels
+- Undraw
+- Coverr
+
+## fonts & icons
+
+- flaticon
+- animated icons (icons8)
+- font awesome
+- google fonts
+
+## mockup
+
+- figma
+- zeplin.io
+
+## design ideals
+
+- awwwards
+- Dribbble
+
 ## SVG
 
 - [draw tool](https://inkscape.org/)
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
 
 ## 人物
 
@@ -41,7 +97,7 @@ updated_when: 2021-02-05
 
 ## Contents
 
-- [Undraw.co](Undraw.co)
+- [Undraw.co](https://www.Undraw.co)
 - [Free Vector Photo Icons PSD Font](https://freedesignfile.com​)
 - [Image](https://pixabay.com/en/​)
 - [Image](https://www.pexels.com​)
