@@ -8,7 +8,7 @@ tags: kubernetes;k8s;Ingress;calico;LENS
 keywords: kubeadm;k8s集群
 level: 200
 cover: http://qiniuargus.weready.online/blog/tech_logos.png
-author: Chis Wei
+author: Chris Wei
 created_when: 2021-01-25
 updated_when: 2021-01-25
 ---

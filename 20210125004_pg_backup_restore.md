@@ -8,7 +8,7 @@ tags: postgresql;devops
 keywords: 数据备份;数据恢复
 level: 200
 cover: http://qiniuargus.weready.online/blog/coder.jpg
-author: Chis Wei
+author: Chris Wei
 created_when: 2021-01-25
 updated_when: 2021-01-25
 ---

@@ -8,7 +8,7 @@ tags: nodejs;fullstack
 keywords: Windows;Development Environment
 level: 100
 cover: http://qiniuargus.weready.online/blog/Coder_desk.png
-author: Chis Wei
+author: Chris Wei
 created_when: 2021-01-25
 updated_when: 2021-02-05
 ---
