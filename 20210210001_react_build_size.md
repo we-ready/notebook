@@ -25,4 +25,9 @@ updated_when: 2021-02-10
 |+ material-ui|103.35 KB|增加了 `Button` `Dialog`|
 |+ |105.28 KB|增加了一些页面|
 |+ react-hook-form|116.09 KB|增加了一个 `form`|
-|+ yup & @hookform/resolvers|135.85|增加了几个 `form`|
+|+ yup & @hookform/resolvers|135.85 KB|增加了几个 `form`|
+
+|依赖|大小|备注|
+|---|---|---|
+|基于以上配置|61.95 KB|删除大部分代码|
+|i18next + i18next-browser-languagedetector + react-i18next|143.1 KB| 增加代码并引用所有的 `npm` |

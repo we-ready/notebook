@@ -13,7 +13,9 @@ created_when: 2021-01-29
 updated_when: 2021-02-05
 ---
 
-# Gatsby 101
+# 前端资源合集
+
+- [Web Builder & Template 💝💝💝💝💝](https://nicepage.com/)
 
 ## freelancer
 
@@ -519,7 +521,7 @@ updated_when: 2021-02-05
 | [Retro Vectors](http://retrovectors.com/)| Vintage vectors and graphics |
 | [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
 | [Lukaszadam](https://lukaszadam.com/)| Free Vector artworks |
-| [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
+| [Illlustrations](https://illlustrations.co/)| 💝💝💝💝💝 Beautiful 100 Illustrations - png, svg |
 | [Clipart](https://www.clipart.email/)| Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
 | [Growwwkit illustrations](https://growwwkit.com/illustrations/phonies)| A set of 8 simple, black & white, stylish illustrations |
 | [trianglify.io](https://trianglify.io/) | Generate low-poly backgrounds, textures, and vectors |
@@ -531,7 +533,7 @@ updated_when: 2021-02-05
 | [Custom Shape Dividers](https://www.shapedivider.app/) | Free tool to make it easier for designers and developers to export a beautiful SVG shape divider |
 | [Servier Medical Art](https://smart.servier.com) | 3000 free medical images to illustrate your publications and PowerPoint presentations |
 | [Clker](http://www.clker.com) | Free clip art you can use for anything you like |
-| [SVG wave](https://svgwave.in/) | A free, & customizable gradient 🌈 SVG wave generator for UI designs . |
+| [SVG wave](https://svgwave.in/) | 💝💝💝💝💝 A free, & customizable gradient 🌈 SVG wave generator for UI designs . |
 | [Heritage Library](https://www.heritagetype.com/collections/free-vintage-illustrations) | Vintage Illustrations (vector and png) |
 | [ROBOHASH](https://robohash.org/) | Generate unique images from any text |
 
@@ -952,7 +954,7 @@ updated_when: 2021-02-05
 | [Vectr](https://vectr.com/)| Free vector graphics software|
 | [Taler](https://www.taler.app/)| Create social media banner designs in minutes from hundreds of customizable templates |
 | [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |
-| [Get Waves](https://getwaves.io/)| A free SVG wave generator to make unique SVG waves for web design |
+| [Get Waves](https://getwaves.io/)| 💝💝💝💝💝 A free SVG wave generator to make unique SVG waves for web design |
 | [Clippy](https://bennettfeely.com/clippy/)| Easy CSS clip-path maker |
 | [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/full-control.html)| Eight values specifying border-radius in CSS ( border-radius generator ) |
 | [Wireframe.cc](https://wireframe.cc/)| Wireframing tool (free & paid) |
@@ -969,7 +971,7 @@ updated_when: 2021-02-05
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
 | [Octopus](https://octopus.do/)| Sitemap builder |
 | [CTA Button Maker](https://www.clickminded.com/button-generator/)| Create call to action buttons |
-| [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes  |
+| [Blobmaker](https://www.blobmaker.app/)| 💝💝💝💝💝 ABlobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes  |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age  |
 | [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator  |
 | [Photopea](https://www.photopea.com)| An Online Photoshop editor  |
