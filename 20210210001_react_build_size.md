@@ -17,6 +17,8 @@ updated_when: 2021-02-10
 
 ## 参考
 
+#### 常规
+
 |依赖|大小|备注|
 |---|---|---|
 |react|41.33 KB|最大chunk|
@@ -27,7 +29,21 @@ updated_when: 2021-02-10
 |+ react-hook-form|116.09 KB|增加了一个 `form`|
 |+ yup & @hookform/resolvers|135.85 KB|增加了几个 `form`|
 
+#### 其他
+
 |依赖|大小|备注|
 |---|---|---|
 |基于以上配置|61.95 KB|删除大部分代码|
-|i18next + i18next-browser-languagedetector + react-i18next|143.1 KB| 增加代码并引用所有的 `npm` |
+|+ i18next + i18next-browser-languagedetector + react-i18next|143.1 KB| 增加代码并引用所有的 `npm` |
+|+ weready-base-front + weready-context-provider |145.68 KB|替换原有的简陋的 `UserContext`|
+|+ crypto |279.3 KB|密码加密|
+|- crypto |||
+|+ node-md5 |147.17 KB|替换算法库|
+
+#### 懒加载
+
+|依赖|main|2|3|4|5|css|备注|
+|---|---|---|---|---|---|---|---|
+|以上配置懒加载前|21.75 KB|147.17 KB| <2 KB| | |||
+|相同配置懒加载后|21.45 KB|29.29 KB|117.83 KB| <1 KB| <2 KB|727 B||
+
