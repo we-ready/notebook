@@ -74,7 +74,7 @@ updated_when: 2021-02-05
 
 ## SVG
 
-- [draw tool](https://inkscape.org/)
+- [💝💝💝💝💝 draw tool](https://inkscape.org/)
 - [SVGOMG](https://jakearchibald.github.io/svgomg/)
 
 ## 人物
