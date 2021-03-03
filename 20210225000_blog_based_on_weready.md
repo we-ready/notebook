@@ -99,3 +99,15 @@ updated_when: 2021-02-24
 1. 本地执行 `yarn start` 可以本地定制开发调试
 1. 本地执行 `yarn build` 可以本地构建
 1. 本地构建的结果，可以手动推送到 `blog repo`
+
+## 历史回顾
+
+|代号|技术栈|
+|---|---|
+|Universal|Express + Ant Design + |
+|Atlantis|pm2 + Redux + Saga|
+|Aquoman|Nestjs + Ant Pro[Umi + Dva] + TypeORM|
+|Alita|Material UI + React.FC + Formik|
+|Athena|Nest + Ant Pro + i18n + GraphQL|
+|Achellis|Nest + Ant Pro + Workflow Worker + Docker + K8S|
+|Argus|Typescript + Nestjs 6 + Function Compoent + React Hook Context + Ant Design 4 + Gatsby + Material UI + Styled Components + StoryBook + react-hook-form + we-ready lib + i18n|

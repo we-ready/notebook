@@ -54,3 +54,14 @@ npm deploy
 ```
 
 > 注意版本号
+
+## 参考
+
+- [从零开始创建TypeScript项目](https://segmentfault.com/a/1190000023491954)
+- [TypeScript 入门教程](https://ts.xcatliu.com/engineering/lint.html)
+- [重学TS-V1.0.pdf](http://book.bugstack.cn/#s/6TAYl8NQ)
+- [npm创建React组件](https://blog.csdn.net/b876143268/article/details/109478322)
+- [如何发布自己的NPM包（react模块）及使用](https://www.jianshu.com/p/bbc984d77f84)
+
+- [How To Make a React Component Library - Making A React Library](/watch?v=N8d-CLmg3hw)
+- [Build and Publish a Custom React Hook Package on npm](/watch?v=mWCrzUGkGKQ)

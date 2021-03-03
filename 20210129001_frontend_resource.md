@@ -57,7 +57,6 @@ updated_when: 2021-02-05
 
 ## fonts & icons
 
-- flaticon
 - animated icons (icons8)
 - font awesome
 - google fonts
@@ -309,7 +308,7 @@ updated_when: 2021-02-05
 | [Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands |
 | [Linear Icons](https://linearicons.com/free)| 1000+ Ultra crisp vector icons |
 | [Icons8](https://icons8.com/)| Free icons, photos, vectors and tools |
-| [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats  |
+| [Flat Icon 💝💝💝💝💝](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats  |
 | [The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community |
 | [Iconscout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place  |
 | [IconSear.ch](https://iconsear.ch/search.html) | Search engine with over 50,000 SVG icons indexed |

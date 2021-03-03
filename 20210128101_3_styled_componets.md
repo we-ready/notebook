@@ -19,6 +19,7 @@ updated_when: 2021-01-28
 
 - [Styled-Components 官网](https://styled-components.com/)
 - [React 101](/blog/20210128101_2_react)
+- [React Website Using Styled Components - Beginner React JS Project Fully Responsive](/watch?v=iP_HqoCuRI0&t=5941s)
 
 > Visual primitives for the component age
 
