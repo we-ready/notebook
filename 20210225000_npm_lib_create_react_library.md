@@ -50,7 +50,7 @@ npm whoami
 #### 发布新版本
 
 ```
-npm deploy
+npm publish
 ```
 
 > 注意版本号

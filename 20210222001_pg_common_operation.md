@@ -20,5 +20,6 @@ updated_when: 2021-02-22
 - 示例
 
 ```
-update dbt_user_credentials set password='xxxxxxxxx' where credential='xxxx';
+select credential, password from dbt_user_credentials where credential='xxx';
+update dbt_user_credentials set password='25d55ad283aa400af464c76d713c07ad' where credential='xxx';
 ```

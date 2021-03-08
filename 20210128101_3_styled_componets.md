@@ -36,7 +36,7 @@ updated_when: 2021-01-28
 
 以下代码可以看到，基础的 `react`，`css` 还仍然是割裂的。需要独立定义样式文件，然后在 `jsx` 中通过 `className` 指定样式。
 
-`App.css`
+`App.jsx`
 
 ```
 import logo from './logo.svg';
