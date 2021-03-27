@@ -32,6 +32,10 @@ import LoginForm from '../forms/Login'
 #### 懒加载代码
 
 ```
+import ..., { lazy, Suspense, ... } from 'react'
+
+...
+
 const LoginForm = lazy(() => import('../forms/Login'))
 
 ...

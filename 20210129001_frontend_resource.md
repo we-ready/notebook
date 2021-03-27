@@ -82,7 +82,7 @@ updated_when: 2021-02-05
 
 ## 头像
 
-- [Generated Photos](https://generated.photos/)
+- [💝💝💝💝💝 Generated Photos](https://generated.photos/)
 
 > watch?v=tzvGzV0ejYU
 
@@ -360,7 +360,7 @@ updated_when: 2021-02-05
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Instant Logo Search](http://instantlogosearch.com/)| thousands of free brands logos ( SVG - PNG ) |
+| [Instant Logo Search 💝💝💝💝💝](http://instantlogosearch.com/)| thousands of free brands logos ( SVG - PNG ) |
 | [LogoSear.ch](https://logosear.ch/search.html) | search engine with over 200,000 SVG logos indexed |
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
 | [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
@@ -578,12 +578,12 @@ updated_when: 2021-02-05
 | [Start Bootstrap](https://startbootstrap.com/)| Bootstrap starter themes |
 | [Zerotheme](https://www.zerotheme.com/)| HTML5, Bootstrap, Prestashop templates |
 | [HTML5xCSS3](https://www.html5xcss3.com/)| Collection of wonderful templates in different categories |
-| [Colorlib](https://colorlib.com/wp/templates/)| Almost any category of theme you can think of |
+| [Colorlib 🌈🌈🌈🌈🌈 ](https://colorlib.com/wp/templates/)| Almost any category of theme you can think of |
 | [Free CSS](https://www.free-css.com/free-css-templates)| Huge collection of free templates |
 | [Hubspot](https://www.hubspot.com/resources)| Templates, infographics, banners and much more|
-| [Mobirise](https://mobirise.com/html-templates/)| Great looking HTML5/CSS3 templates|
+| [Mobirise 🌈🌈🌈🌈🌈 ](https://mobirise.com/html-templates/)| Great looking HTML5/CSS3 templates|
 | [Bootswatch](https://bootswatch.com/)| Free themes for Bootstrap|
-| [Onepagelove](https://onepagelove.com/)| One-page websites, templates and resources|
+| [Onepagelove🌈🌈🌈🌈🌈 ](https://onepagelove.com/)| One-page websites, templates and resources|
 | [Themes For App](https://themesfor.app/)| Free Bootstrap themes and landing pages|
 | [BootstrapTaste](https://bootstraptaste.com/)| Premium & Free Bootstrap Templates|
 | [BootstrapMade](https://bootstrapmade.com/)| Elegant, clean and beautiful free templates using Bootstrap. |
