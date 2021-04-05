@@ -28,6 +28,7 @@ updated_when: 2021-02-10
 |+ |105.28 KB|增加了一些页面|
 |+ react-hook-form|116.09 KB|增加了一个 `form`|
 |+ yup & @hookform/resolvers|135.85 KB|增加了几个 `form`|
+|react-google-maps/api|15.5KB|通过懒加载实现 `google map lib` 在一个独立 `bundle` 中，最简单功能下的`bundle`大小为 15.5KB |
 
 #### 其他
 

@@ -109,6 +109,7 @@ updated_when: 2021-02-05
 ## 参考
 
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [bradtraversy/webdev_online_resources](https://github.com/bradtraversy/webdev_online_resources)
 
 ## Table of Contents
 
