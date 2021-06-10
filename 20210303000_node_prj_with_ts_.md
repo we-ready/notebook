@@ -28,7 +28,7 @@ npm init
 #### 增加对 `typescript` 的支持
 
 ```
-npm install --save-dev typescript tsline @types/node
+npm install --save-dev typescript tslint @types/node
 ```
 
 > `devDependencies` in `package.json`
