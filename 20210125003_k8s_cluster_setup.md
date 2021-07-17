@@ -626,3 +626,398 @@ git clone --depth=1 https://[user name]:[password]@github.com/YunzhiWei/dockerim
 kubectl apply -f traefik-ds-http.yaml
 kubectl get all -n kube-system | grep traefik
 ```
+
+
+
+# 服务器重启后，k8s 重启失败
+
+## 参考
+
+https://www.hangge.com/blog/cache/detail_2419.html
+原文出自：www.hangge.com  转载请保留原文链接：https://www.hangge.com/blog/cache/detail_2419.html
+
+## 背景及现象
+
+在安装配置好 Kubernetes 后，正常情况下服务器关机重启，kubelet 也会自动启动的。
+但最近配置的一台服务器重启后，输入命令 `kubectl get nodes` 查看节点报如下错误：
+`The connection to the server xxx.xxx.xxx.xxx:6443 was refused - did you specify the right host or port?`
+
+## 检查
+
+输入 `systemctl status kubelet` 命令查看 `kubelet` 的情况
+
+> 发现 kubelet 确实没有启动
+
+```
+... ...
+code=exited, status=255
+... ...
+```
+
+## 原因
+
+由于 K8s 必须保持全程关闭交换内存，之前我安装是只是使用 swapoff -a 命令暂时关闭 swap。而机器重启后，swap 还是会自动启用，从而导致 kubelet 无法启动。
+
+## 解决办法
+
+#### 首先，执行如下命令关闭 swap
+
+```
+swapoff -a
+```
+
+#### 然后，编辑 /etc/fstab 文件
+
+```
+vi /etc/fstab
+```
+
+将 `/dev/mapper/centos-swap swap swap default 0 0` 这一行前面加个 `#` 号将其注释掉。
+
+## 重启服务器
+
+
+
+# 执行 kubectl 命令报错：证书过期
+
+## 错误提示
+
+> `Unable to connect to the server: x509: certificate has expired or is not yet valid`
+
+## 参考
+
+#### [k8s master 出现问题证书过期问题](https://q.cnblogs.com/q/133037/)
+
+```
+经过实际验证，解决方法非常简单，只需运行2个命令：
+
+1）更新所有证书
+
+kubeadm alpha certs renew all
+
+2）更新当前用户的 .kube/config
+
+cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
+注：如果少了第2步，运行 kubectl 命令时会报错
+
+error: You must be logged in to the server (Unauthorized)
+```
+
+#### [kubernets 证书过期的问题](https://www.cnblogs.com/kuku0223/p/11867391.html)
+
+> 原理及预防（似乎版本过老，稳重用的命令`kubeadm alpha phase certs`，已经改成了`kubeadm alpha certs`）
+
+```
+kubeadm 是 kubernetes 提供的一个初始化集群的工具，使用起来非常方便。但是它创建的apiserver、controller-manager等证书默认只有一年的有效期，同时kubelet 证书也只有一年有效期，一年之后 kubernetes 将停止服务。
+官方推荐一年之内至少用 kubeadm upgrade 更新一次 kubernetes 系统，更新时也会自动更新证书。不过，在产线环境或者无法连接外网的环境频繁更新 kubernetes 不太现实。
+我们可以在过期之前或之后，使用kubeadm alpha phase里的certs和kubeconfig命令，同时配合kubelet证书自动轮换机制来解决这个问题。
+```
+
+> 操作注意事项
+
+```
+一旦证书过期，使用kubectl时会出现如下提示：
+Unable to connect to the server: x509: certificate has expired or is not yet valid
+在此，我们使用 kubeadm alpha phase certs 系统命令，重新生成证书。
+建议不要重新生成ca证书，因为更新了ca证书，集群节点就需要手工操作，才能让集群正常(会涉及重新join)。
+
+操作之前，先将/etc/kubernetes/pki下的证书文件，mv到其它文件夹，作个临时备份，不要删除。
+
+kubeadm alpha phase certs etcd-healthcheck-client --config cluster.yaml
+kubeadm alpha phase certs etcd-peer --config cluster.yaml
+kubeadm alpha phase certs etcd-server --config cluster.yaml
+kubeadm alpha phase certs front-proxy-client--config cluster.yaml
+kubeadm alpha phase certs apiserver-etcd-client --config cluster.yaml
+kubeadm alpha phase certs apiserver-kubelet-client --config cluster.yaml
+kubeadm alpha phase certs apiserver --config cluster.yaml
+kubeadm alpha phase certs sa --config cluster.yaml
+
+
+在生成这些新的证书文件之后，再需要kubeadm alpha phase config命令，重新生成新的kubeconfig文件。
+操作之前，先将/etc/kubernetes/下的kubeconfig，mv到其它文件夹，作个临时备份，不要删除。
+kubeadm alpha phase kubeconfig all --config cluster.yaml
+
+由于service account的密钥是以rsa密钥对形式生成，所以没有过期时间。
+如无必要，千万不要生成重新生成sa密钥。因为sa密钥关联到一切系统pod内的进程访问api server时的认证。
+如果更新了sa，则需要先重新生成这些pod加截的token，再删除这些pod之后，重新加载token文件。
+
+```
+
+#### [kubeadm安装的k8s集群证书过期处理](http://t.zoukankan.com/qinghe123-p-12582393.html)
+
+#### [Unable to connect to the server: x509: certificate has expired or is not yet valid](https://blog.csdn.net/swan_tang/article/details/115755311)
+
+```
+1.  登录master服务器，进入 `/etc/kubernetes/` 查看证书，确认证书有效期：openssl x509 -in apiserver.crt -noout -text |grep ' Not '
+2.  备份 `/etc/kubernetes/pki` 目录下的所有文件
+3.* 手动更新证书 `kubeadm alpha certs renew all`
+4.  查看证书有效期是否更新
+5.  在master节点上将/etc/kubernetes目录下的所有配置文件备份
+6.  更新用户配置：执行下面多个命令
+
+kubeadm alpha kubeconfig user --client-name=admin
+kubeadm alpha kubeconfig user --org system:masters --client-name kubernetes-admin  > /etc/kubernetes/admin.conf
+kubeadm alpha kubeconfig user --client-name system:kube-controller-manager > /etc/kubernetes/controller-manager.conf
+kubeadm alpha kubeconfig user --org system:nodes --client-name system:node:$(hostname) > /etc/kubernetes/kubelet.conf
+kubeadm alpha kubeconfig user --client-name system:kube-scheduler > /etc/kubernetes/scheduler.conf
+
+7.* 用更新后的admin.conf替换/root/.kube/config文件
+8.  更新后，把master 节点服务器的 home目录下的 .kube 文件夹 复制到本机的/home/用户目录下
+9.  重启所有master节点上的apiserver和scheduler两个系统组件
+10. 本机执行kubectl 命令
+
+```
+
+## 问题的检查确认及必要准备
+
+1. 登录 master 节点
+
+2. 执行命令，查看证书有效期（简单查看）
+
+```
+openssl x509 -in /etc/kubernetes/pki/apiserver.crt -noout -text |grep ' Not '
+```
+
+3. 详细查看
+
+```
+cd /etc/kubernetes
+ls
+```
+
+```
+cd /etc/kubernetes/pki
+openssl x509 -in apiserver.crt -noout -text |grep ' Not '
+kubeadm alpha certs check-expiration
+```
+
+详细结果
+
+```
+[root@k8s-m1 ~]# openssl x509 -in /etc/kubernetes/pki/apiserver.crt -noout -text |grep ' Not '
+            Not Before: Jul  8 03:24:35 2020 GMT
+            Not After : Jul  8 03:24:35 2021 GMT
+```
+
+```
+CERTIFICATE                EXPIRES                  RESIDUAL TIME   CERTIFICATE AUTHORITY   EXTERNALLY MANAGED
+admin.conf                 Jul 08, 2021 03:24 UTC   <invalid>                               no      
+apiserver                  Jul 08, 2021 03:24 UTC   <invalid>       ca                      no      
+apiserver-etcd-client      Jul 08, 2021 03:24 UTC   <invalid>       etcd-ca                 no      
+apiserver-kubelet-client   Jul 08, 2021 03:24 UTC   <invalid>       ca                      no      
+controller-manager.conf    Jul 08, 2021 03:24 UTC   <invalid>                               no      
+etcd-healthcheck-client    Jul 08, 2021 03:24 UTC   <invalid>       etcd-ca                 no      
+etcd-peer                  Jul 08, 2021 03:24 UTC   <invalid>       etcd-ca                 no      
+etcd-server                Jul 08, 2021 03:24 UTC   <invalid>       etcd-ca                 no      
+front-proxy-client         Jul 08, 2021 03:24 UTC   <invalid>       front-proxy-ca          no      
+scheduler.conf             Jul 08, 2021 03:24 UTC   <invalid>                               no      
+
+CERTIFICATE AUTHORITY   EXPIRES                  RESIDUAL TIME   EXTERNALLY MANAGED
+ca                      Jul 06, 2030 03:24 UTC   8y              no      
+etcd-ca                 Jul 06, 2030 03:24 UTC   8y              no      
+front-proxy-ca          Jul 06, 2030 03:24 UTC   8y              no      
+```
+
+> `ca`, `etcd-ca`, `front-proxy-ca` 这三个证书有效期8年，并未过期。其他 10 个证书已经过期。
+
+4. 备份证书 及 k8s 配置文件
+
+```
+cd /
+cd ~
+mkdir backup
+cp -r /etc/kubernetes ./backup/etc_k8s
+ls ./backup/etc_k8s/
+```
+
+5. 登录 k8s 工作节点
+
+6. 查找 dbpg pod
+
+```
+docker ps
+```
+
+找到 `k8s_dbpg-container`
+
+7. 进入容器
+
+```
+docker exec -it d7a /bin/bash
+```
+
+8. 备份数据库
+
+```
+cd script
+pg_dump -h dbpg -U postgres archellis > 20210717.yunzhi.bak
+```
+
+9. 退出容器
+
+```
+exit
+```
+
+10. 检查备份文件
+
+```
+cd ~/projects/caskbank/database/script
+ls
+```
+
+11. 异地备份
+
+```
+scp 20210717.yunzhi.bak 172.17.64.152:~/projects/dbdump/
+```
+
+## 问题解决的实际操作
+
+1. 手动更新证书
+
+```
+cd /etc/kubernetes/pki
+kubeadm alpha certs renew all
+```
+
+2. 检查证书有效期
+
+```
+openssl x509 -in apiserver.crt -noout -text |grep ' Not '
+kubeadm alpha certs check-expiration
+```
+
+```
+[root@k8s-m1 pki]# openssl x509 -in apiserver.crt -noout -text |grep ' Not '
+            Not Before: Jul  8 03:24:35 2020 GMT
+            Not After : Jul 17 01:01:13 2022 GMT
+```
+
+```
+CERTIFICATE                EXPIRES                  RESIDUAL TIME   CERTIFICATE AUTHORITY   EXTERNALLY MANAGED
+admin.conf                 Jul 17, 2022 01:01 UTC   364d                                    no      
+apiserver                  Jul 17, 2022 01:01 UTC   364d            ca                      no      
+apiserver-etcd-client      Jul 17, 2022 01:01 UTC   364d            etcd-ca                 no      
+apiserver-kubelet-client   Jul 17, 2022 01:01 UTC   364d            ca                      no      
+controller-manager.conf    Jul 17, 2022 01:01 UTC   364d                                    no      
+etcd-healthcheck-client    Jul 17, 2022 01:01 UTC   364d            etcd-ca                 no      
+etcd-peer                  Jul 17, 2022 01:01 UTC   364d            etcd-ca                 no      
+etcd-server                Jul 17, 2022 01:01 UTC   364d            etcd-ca                 no      
+front-proxy-client         Jul 17, 2022 01:01 UTC   364d            front-proxy-ca          no      
+scheduler.conf             Jul 17, 2022 01:01 UTC   364d                                    no      
+
+CERTIFICATE AUTHORITY   EXPIRES                  RESIDUAL TIME   EXTERNALLY MANAGED
+ca                      Jul 06, 2030 03:24 UTC   8y              no      
+etcd-ca                 Jul 06, 2030 03:24 UTC   8y              no      
+front-proxy-ca          Jul 06, 2030 03:24 UTC   8y              no   
+```
+
+3. 更新用户配置
+
+```
+cd /etc/kubernetes
+
+kubeadm alpha kubeconfig user --client-name=admin
+kubeadm alpha kubeconfig user --org system:masters --client-name kubernetes-admin  > /etc/kubernetes/admin.conf
+kubeadm alpha kubeconfig user --client-name system:kube-controller-manager > /etc/kubernetes/controller-manager.conf
+kubeadm alpha kubeconfig user --org system:nodes --client-name system:node:$(hostname) > /etc/kubernetes/kubelet.conf
+kubeadm alpha kubeconfig user --client-name system:kube-scheduler > /etc/kubernetes/scheduler.conf
+```
+
+4. master 节点 config
+
+```
+cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
+chown $(id -u):$(id -g) $HOME/.kube/config
+```
+
+5. 登录 `worker` 节点
+
+> 将master节点上的 `$HOME/.kube/config` 文件拷贝到 `worker` 节点对应的文件中
+
+```
+scp k8s-m1:~/.kube/config $HOME/.kube
+chown $(id -u):$(id -g) $HOME/.kube/config
+```
+
+6. 重启 master 节点服务（命令执行失败）
+
+```
+systemctl restart kube-apiserver
+systemctl restart kube-scheduler
+```
+
+## 重新配置 LENS 
+
+1. 检查配置文件中的公网地址
+
+```
+cd ~
+cat ./kubeadm-config.yaml
+```
+
+```
+apiVersion: kubeadm.k8s.io/v1beta2
+kind: ClusterConfiguration
+kubernetesVersion: v1.18.3
+imageRepository: registry.cn-hangzhou.aliyuncs.com/google_containers
+
+#master地址
+controlPlaneEndpoint: "********:6443"
+networking:
+  serviceSubnet: "10.96.0.0/16"
+
+  #k8s容器组所在的网段
+  podSubnet: "10.20.0.1/16"
+  dnsDomain: "cluster.local"
+
+# 为了让证书包含公网IP，从而允许从外网访问集群
+apiServer:
+  certSANs:       #填写所有kube-apiserver节点的hostname、IP、VIP
+  - k8s-m1        #请替换为hostname
+  - ********   #请替换为公网
+  - ********   #请替换为私网
+  - 10.96.0.1     #不要替换，此IP是API的集群地址，部分服务会用到
+```
+
+2. 检查
+
+```
+cd ~
+cat ~/.kube/config
+```
+
+```
+apiVersion: v1
+clusters:
+- cluster:
+    certificate-authority-data: LS......LQo=
+    server: https://***************:6443
+  name: kubernetes
+  
+contexts:
+- context:
+    cluster: kubernetes
+    user: kubernetes-admin
+  name: kubernetes-admin@kubernetes
+current-context: kubernetes-admin@kubernetes
+
+kind: Config
+preferences: {}
+users:
+- name: kubernetes-admin
+  user:
+    client-certificate-data: LS...........LQo=
+    client-key-data: LS.........LQo=
+```
+
+3. 复制上面的 config 内容
+
+4. 并修改其中的 ***********:6443 ， 修改为公网地址
+
+5. 修改 context 的 name，和 current-context（否则，LENS无法添加）
+
+> 比如，改为：kubernetes-admin@kubernetesCMCC
+
+6. 进入 LENS ，Add Cluster，paste config
