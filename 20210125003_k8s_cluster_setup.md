@@ -1021,3 +1021,37 @@ users:
 > 比如，改为：kubernetes-admin@kubernetesCMCC
 
 6. 进入 LENS ，Add Cluster，paste config
+
+
+
+# 命名空间删除失败
+
+## 现象
+
+命名空间没有消失，状态始终在 `Terminating`
+
+## 参考
+
+- [K8s 无法删除 namespace 的问题](https://q.cnblogs.com/q/125837/)
+- [k8s 强制删除命名空间namespace](https://blog.csdn.net/wangchao_cn/article/details/112687355)
+
+## 解决办法
+
+执行以下命令
+
+```
+kubectl get namespace caskbank-demo-ns -o json \
+            | tr -d "\n" | sed "s/\"finalizers\": \[[^]]\+\]/\"finalizers\": []/" \
+            | kubectl replace --raw /api/v1/namespaces/caskbank-demo-ns/finalize -f -
+```
+
+```
+kubectl get namespace [name of namespace] -o json \
+            | tr -d "\n" | sed "s/\"finalizers\": \[[^]]\+\]/\"finalizers\": []/" \
+            | kubectl replace --raw /api/v1/namespaces/[name of namespace]/finalize -f -
+```
+
+## 特别说明
+
+上述问题，一个是证书过期的问题，一个是命名空间删除的问题。这两个问题，可能是连锁反应。
+最终，还是重启的 master 和 worker 节点服务器，集群才恢复正常。
