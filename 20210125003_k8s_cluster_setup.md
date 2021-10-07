@@ -562,7 +562,12 @@ cat ~/.kube/config
 
 > IP 修改为公网IP
 
+> 修改其中的 `context name` 和 `current-context: kubernetes-admin@kubernetes`，换一个有意义的名字，不要用缺省的，会重名冲突
+
 #### 启用集群的 `Metrics` Feature
+
+> 需要等待一段时间，才能看到集群 Dashboard
+
 
 # 准备镜像
 

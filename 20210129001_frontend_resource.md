@@ -16,6 +16,7 @@ updated_when: 2021-02-05
 # 前端资源合集
 
 - [Web Builder & Template 💝💝💝💝💝](https://nicepage.com/)
+- [Different Kinds of Resource 💝💝💝💝💝](https://monsterone.com)
 
 ## freelancer
 

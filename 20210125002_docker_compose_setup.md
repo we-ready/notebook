@@ -245,6 +245,13 @@ psql -U postgres -d postgres
 
 ```
 [root@ ~]# wget https://npm.taobao.org/mirrors/node/v12.14.0/node-v12.14.0-linux-x64.tar.gz
+
+[root@ ~]# tar -xvf node-v12.14.0-linux-x64.tar.gz
+[root@ ~]# ln -s ~/node-v12.14.0-linux-x64/bin/node /usr/bin/node
+[root@ ~]# ln -s ~/node-v12.14.0-linux-x64/bin/npm /usr/bin/npm
+[root@ ~]# npm -v
+[root@ ~]# node -v
+
 ```
 
 > install wget in case it is not installed
