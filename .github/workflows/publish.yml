@@ -31,24 +31,24 @@ jobs:
 
     - name: 3.1 Checkout blog source code ...
       env:
-        REPO_TARGET: github.com/we-ready/blog.git
+        REPO_TARGET: github.com/we-ready/atlas.git
       run:
-        git clone --depth=1 -b main https://${REPO_TARGET} ./blog
+        git clone --depth=1 -b main https://${REPO_TARGET} ./atlas
 
     - name: 3.2 Build blog ...
       env:
         CI: false
       run: |
-        cd ./blog
+        cd ./atlas/frontend/blog
         npm install
         npm run build --if-present
         rm -rf ./public/*.map
         rm -rf ./public/*.txt
-        cd ../
+        cd ../../../
 
     - name: 3.3 Deploy result ...
       run:
-        cp -r ./blog/public/. ./output
+        cp -r ./atlas/frontend/blog/public/. ./output
 
     - name: 4.1 Checkout argus/storybook source code ...
       env:
