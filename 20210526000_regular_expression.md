@@ -7,7 +7,7 @@ category: 语法
 tags: 
 keywords: reg
 level: 100
-cover: https://pics5.baidu.com/feed/810a19d8bc3eb135d2f5cde4767d06d5fd1f442d.jpeg?token=91bf7733abeb38dba787a704086450ea
+cover: https://geekboots.sfo2.cdn.digitaloceanspaces.com/post/regular-expression-1567485935882.jpg
 author: Chris Wei
 created_when: 2021-05-26
 updated_when: 2021-05-26
