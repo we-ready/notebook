@@ -8,7 +8,7 @@ tags: blog;gatsby;github;workflow;CI;
 keywords: 博客;构建;部署;定制;自动化
 level: 200
 cover: https://media.inkscape.org/media/resources/file/Gears_8IWk3lq.svg
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-02-25
 updated_when: 2021-02-25
 ---
@@ -55,7 +55,7 @@ tags: blog;gatsby;github;workflow;CI;
 keywords: 博客;构建;部署;定制;自动化
 level: 200
 cover: http://xxxxx.com/picture.png
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-02-24
 updated_when: 2021-02-24
 ---

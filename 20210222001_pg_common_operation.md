@@ -8,7 +8,7 @@ tags: postgresql;devops;sql
 keywords: 
 level: 200
 cover: https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=241539469,1732296879&fm=26&gp=0.jpg
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-02-22
 updated_when: 2021-02-22
 ---

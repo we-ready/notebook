@@ -5,7 +5,7 @@ category:
 tags: 
 keywords: 
 cover: 
-author: Chris Wei
+authors: Chris Wei
 created_when: 
 updated_when: 
 ---

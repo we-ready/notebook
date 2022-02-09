@@ -8,7 +8,7 @@ tags: nodejs;typescript;npm
 keywords: 
 level: 200
 cover: https://media.inkscape.org/media/resources/file/Gears_8IWk3lq.svg
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-03-03
 updated_when: 2021-03-03
 ---

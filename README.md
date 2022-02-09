@@ -5,7 +5,7 @@ category: 声明公告
 tags: WeReady;Notebook
 keywords: 标题;主题;分类;标签;关键字;封面;作者;创建日期;更新日期
 cover: 
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-01-23
 updated_when: 2021-01-23
 ---

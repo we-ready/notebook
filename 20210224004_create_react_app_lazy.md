@@ -8,7 +8,7 @@ tags: react
 keywords: lazy;suspense;chunk
 level: 200
 cover: https://media.inkscape.org/media/resources/file/Koi_carp_2.svg
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-02-24
 updated_when: 2021-02-24
 ---

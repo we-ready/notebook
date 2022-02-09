@@ -8,7 +8,7 @@ tags: project;requirements
 keywords: 项目管理;需求分析
 level: 100
 cover: https://media.inkscape.org/media/resources/file/pc1.svg
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-02-02
 updated_when: 2021-02-02
 ---

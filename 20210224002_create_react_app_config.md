@@ -8,7 +8,7 @@ tags: create-react-app
 keywords: port
 level: 200
 cover: https://media.inkscape.org/media/resources/file/Snoopy_at_the_Bar.png
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-02-24
 updated_when: 2021-02-24
 ---

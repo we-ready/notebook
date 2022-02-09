@@ -8,7 +8,7 @@ tags:
 keywords: chii
 level: 100
 cover: https://cdn.pixabay.com/photo/2012/06/19/10/32/owl-50267_960_720.jpg
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-03-22
 updated_when: 2021-03-22
 ---

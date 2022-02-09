@@ -8,7 +8,7 @@ tags: gatsby;styled-components
 keywords: plugin
 level: 100
 cover: https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453_960_720.jpg
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-02-04
 updated_when: 2021-02-04
 ---

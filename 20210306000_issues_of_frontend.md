@@ -8,7 +8,7 @@ tags: form;react-hook-form
 keywords: bug;issue
 level: 200
 cover: https://media.inkscape.org/media/resources/file/Ladybug-icon.png
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-03-06
 updated_when: 2021-03-06
 ---

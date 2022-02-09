@@ -8,7 +8,7 @@ tags: firefox;about config;layout;css;backdroop-filter
 keywords: 火狐浏览器;高斯模糊
 level: 100
 cover: https://cdn.pixabay.com/photo/2015/05/19/07/44/browser-773215_960_720.png
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-02-04
 updated_when: 2021-02-04
 ---

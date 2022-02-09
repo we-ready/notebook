@@ -8,7 +8,7 @@ tags: linux;docker;timezone;postgres
 keywords: 容器;时区
 level: 200
 cover: 
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-01-30
 updated_when: 2021-01-30
 ---

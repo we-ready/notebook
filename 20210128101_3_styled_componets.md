@@ -8,7 +8,7 @@ tags: react;css;jsx;CSs-in-JS;styled-components;
 keywords: fullstack
 level: 100
 cover: https://styled-components.com/logo.png
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-01-28
 updated_when: 2021-01-28
 ---

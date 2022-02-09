@@ -8,7 +8,7 @@ tags:
 keywords: browserstack
 level: 100
 cover: https://3fxtqy18kygf3on3bu39kh93-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/browserstack.svg
-author: Chris Wei
+authors: Chris Wei
 created_when: 2021-05-19
 updated_when: 2021-05-19
 ---
