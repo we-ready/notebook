@@ -49,6 +49,18 @@ updated_when: 2021-02-05
 - image compressor
 - css-tricks
 
+- [refer]https://madza.hashnode.dev/17-killer-web-apps-you-should-use-to-increase-productivity
+- [remove image background](https://www.remove.bg/)
+- [css gradient](https://cssgradient.io/gradient-backgrounds/)
+- [css shape generator](https://neumorphism.io)
+- [box shadow](https://box-shadow.dev/)
+- [css animation generator](https://animista.net/)
+- [logo placeholder](https://logoipsum.com/)
+
+## 速查手册
+
+- [overapi](https://overapi.com/javascript)
+
 ## Image
 
 - unsplash
