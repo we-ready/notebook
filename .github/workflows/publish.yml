@@ -39,16 +39,16 @@ jobs:
       env:
         CI: false
       run: |
-        cd ./atlas/frontend/blog
+        cd ./atlas/frontend/site/blog
         npm install
         npm run build --if-present
         rm -rf ./public/*.map
         rm -rf ./public/*.txt
-        cd ../../../
+        cd ../../../../
 
     - name: 3.3 Deploy result ...
       run:
-        cp -r ./atlas/frontend/blog/public/. ./output
+        cp -r ./atlas/frontend/site/blog/public/. ./output
 
     - name: 4.1 Checkout argus/storybook source code ...
       env:
