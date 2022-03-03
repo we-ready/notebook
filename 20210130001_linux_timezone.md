@@ -7,7 +7,8 @@ category: 经验技巧
 tags: linux;docker;timezone;postgres
 keywords: 容器;时区
 level: 200
-cover: 
+cover: https://media.inkscape.org/media/resources/file/Gears_8IWk3lq.svg
+videos: 
 authors: Chris Wei
 created_when: 2021-01-30
 updated_when: 2021-01-30

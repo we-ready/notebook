@@ -8,6 +8,7 @@ tags:
 keywords: 开发资源
 level: 100
 cover: https://cdn.pixabay.com/photo/2012/06/19/10/32/owl-50267_960_720.jpg
+videos: 
 authors: Chris Wei
 created_when: 2021-01-29
 updated_when: 2021-02-05
@@ -17,6 +18,15 @@ updated_when: 2021-02-05
 
 - [Web Builder & Template 💝💝💝💝💝](https://nicepage.com/)
 - [Different Kinds of Resource 💝💝💝💝💝](https://monsterone.com)
+
+- Web Dev Framework Generator - https://github.com/Madhava213/Web-Dev...
+- Chakra UI - https://chakra-ui.com
+- Framer Motion - https://www.framer.com
+- React Icons - https://react-icons.github.io
+- React Spinners - https://www.davidhu.io/react-spinners/
+- React Spinners Kit - https://dmitrymorozoff.github.io
+- Chart JS - https://www.chartjs.org
+- Victory - https://formidable.com/open-source/victory/
 
 ## freelancer
 
