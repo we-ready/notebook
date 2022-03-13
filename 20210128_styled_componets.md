@@ -1,16 +1,16 @@
 ---
-id: 20210128101_3_styled_components
-title: styled-components 101
+id: 20210128_styled_components
+title: 认识让 React 如何添翼的 styled-components
 subtitle: 什么是 styled-components
 subject: CSS-in-JS
 category: 概念理解
-tags: react;css;jsx;CSs-in-JS;styled-components;
-keywords: fullstack
+tags: react;css;sass;less;styled-components;
+keywords: styled-components;CSs-in-JS
 level: 100
 cover: https://styled-components.com/logo.png
 authors: Chris Wei
 created_when: 2021-01-28
-updated_when: 2021-01-28
+updated_when: 2022-03-13
 ---
 
 # styled-components 101
