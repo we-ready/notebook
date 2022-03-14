@@ -10,7 +10,7 @@ level: 200
 cover: https://oscimg.oschina.net/oscnet/4d61b0d3264e651fde2e5a07d856381323d.jpg
 authors: Chris Wei
 created_when: 2021-03-03
-updated_when: 2021-03-13
+updated_when: 2021-03-14
 ---
 
 # 什么是 Typescript
@@ -27,13 +27,15 @@ updated_when: 2021-03-13
   + ECMA 基于 Javascript 和 JScript 开始制定标准，名叫：ES
   + 各方协商讨论（话语权之争）
   + ES 也有不同的版本迭代：ES6 = ES2015，ES2016，ES2017..., ES7, ES8, ...
+  + 所以，ES 是标准，从 JS 而来的标准
+  + JS 是 ES 标准的一种具体实现
 
 - TS (Typescript)
   + 微软推出的编程语言（另起炉灶，独辟蹊径）
   + JS 是脚本型语言，是动态语言（可以直接在运行时中执行，语句只有在`运行时`才知道是否能执行，是否报错，是否有异常：`anyObj.whatEver()`）
   + TS 是静态语言，编译型语言（必须先由编译器编译成 JS 语言，编译时就会报错）
-  + TS 语法是 ES 的超级，包含很多还在讨论中的 ES 语法
-  + 语法层面完全兼容现有 JS
+  + TS 语法是 ES 的超级，包含很多还在讨论中的 ES 语法，TS 的很多创新，也可以向 ECMA 提交
+  + TS 是全新的一种语言，只是语法层面完全兼容现有 JS
 
 ## 创建支持 TS 的项目
 
@@ -83,8 +85,8 @@ npm install --save-dev
 |配置|说明|
 |---|---|
 |`include`|`ts`文件所在的文件夹|
-|`target` |`ts`编译成js的标准, "ES3", "ES", "ES2017"|
 |`module` |`ts`代码编译成什么模块系统|
+|`target` |`ts`编译成目标js的标准, "ES3", "ES", "ES2017"|
 |`lib`    |运行环境包含哪些 `api`, "dom", "ES2017"|
 |`outDir` |编译后的输出目录|
 |`strict` |严格模式|
@@ -97,7 +99,7 @@ npm install --save-dev
 "outDir": "./dist", 
 ```
 
-## TS 源码（兼容 JS）
+## TS 源码
 
 - 创建文件 `main.ts`
 
@@ -107,6 +109,8 @@ console.log('hello world')
 
 - 执行 `yarn build`
 - 检查 `./dist/main.js`
+
+> TS 语法完全兼容 JS 语法
 
 ## TS 源码（同样的 TS 语句，不同的 ES 版本）
 
@@ -144,6 +148,8 @@ main()
 "target": "es2017",
 ```
 
+> 同样的 TS 语句，可以针对不同目标标准，生成不同的 JS 语句
+
 ## 本地开发调试
 
 ```
@@ -160,6 +166,8 @@ yarn dev
   let name = 'chris'
   name = 124
   ```
+
+  > TS 语句和 JS 语句具有相同的语法，但有不同的标准；标准在一定程度上可配置
 
   + 显式声明
 
@@ -258,6 +266,13 @@ function fnAdd (a: number, b: number): number {
 ```
 const fnAdd: (a: number, b: number) => number = (a, b) => a + b
 ```
+
+## TS 的优势
+
+- 进可攻：提供了很多语法规则，代码的可读性、可维护性、团队协同工程化程度更高（架构师可以制定基类、接口、类型，等，架构基础；团队可以分别开发，但能确保一致性）
+- 退可守：继承并发扬了 JS，领先于 ES，是 ES 的超级
+- 配合编辑器的功能，编码效率提升
+- 编译时可以规避大量低级错误（前提是开启并使用 TS 特性）
 
 ## 其他
 
