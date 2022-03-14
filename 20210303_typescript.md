@@ -8,6 +8,7 @@ tags: typescript
 keywords: javascript;typescript;js;es;ts
 level: 200
 cover: https://oscimg.oschina.net/oscnet/4d61b0d3264e651fde2e5a07d856381323d.jpg
+videos: https://qiniuargus.weready.online/blog/sharing/video/2022-03-14-typescript-101.mp4
 authors: Chris Wei
 created_when: 2021-03-03
 updated_when: 2022-03-14
