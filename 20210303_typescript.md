@@ -10,7 +10,7 @@ level: 200
 cover: https://oscimg.oschina.net/oscnet/4d61b0d3264e651fde2e5a07d856381323d.jpg
 authors: Chris Wei
 created_when: 2021-03-03
-updated_when: 2021-03-14
+updated_when: 2022-03-14
 ---
 
 # 什么是 Typescript
