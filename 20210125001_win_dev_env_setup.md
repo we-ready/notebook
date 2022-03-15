@@ -85,6 +85,10 @@ npm install -g mocha
 npm install -g istanbul
 ```
 
+## DBeaver
+
+- [DBeaver](https://dbeaver.io/)
+
 ## postgresql
 
 1. [Download Here](https://www.postgresql.org/download/)
