@@ -41,6 +41,10 @@ updated_when: 2021-02-05
 1. 新建`会话`，连接到服务器
 1. 添加到`会话地址栏`
 
+## Tabby Terminal
+
+- [Tabby Terminal](https://tabby.sh/)
+
 ## Git
 
 1. [Download Here](https://git-scm.com/downloads)
