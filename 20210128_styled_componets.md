@@ -8,6 +8,7 @@ tags: react;css;sass;less;styled-components;CSs-in-JS
 keywords: styled-components
 level: 100
 cover: https://styled-components.com/logo.png
+videos: https://qiniuargus.weready.online/blog/sharing/video/2022-03-17-styled-components.mp4
 authors: Chris Wei
 created_when: 2021-01-28
 updated_when: 2022-03-17
