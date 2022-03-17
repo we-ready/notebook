@@ -17,23 +17,22 @@ updated_when: 2022-03-17
 
 ## styled-components 是什么
 
-#### 将 `css` 样式和 `html` 标签封装成 `react` 组件
+> 将 `css` 样式和 `html` 标签封装成 `react` 组件
 
 - `react` 通过 `jsx` 将 `HTML` 和 `JS` 进行整合，让 `HTML` 和 `JS` 实现你中有我，我中有你，实现了 `HTML`：模块化、可编程
 - `styled-components` 通过 `ES` 的模板字符串、`Tag`，进一步的将 `css` 整合纳入了 `js`，实现了 `css`：组件化、可编程
 
 > 有关 `react` 通过 `jsx` 统一了 `html` 和 `js` ，请参考 [React 101](/blog/20210128_react)
 
-#### 安装
+## `react` 如何设置样式
+
+- 创建 `react` 项目
 
 ```
 npx create-react-app mydemo
-yarn add styled-components
 ```
 
-#### `react` 如何设置样式
-
-`App.jsx`
+- `App.jsx`
 
 ```
 ... ...
@@ -52,7 +51,7 @@ function App() {
     ... ...
 ```
 
-`App.css`
+- `App.css`
 
 ```
 .App { ... ... }
@@ -83,13 +82,21 @@ function App() {
 - 可动态配置的样式参数
 - 可动态配置的动画参数
 
-## 分解动作逐一说明
+#### 分解动作逐一说明
+
+- 安装
+
+```
+yarn add styled-components
+```
 
 - 告别无意义的原始 `html` 标签（尤其是 `div` 满天飞）
 
 ```
 const LinkButton = styled.a``
 ```
+
+> 浏览器调试模式，检查编译后的结果
 
 - `class` 命名避免冲突
 
@@ -122,7 +129,7 @@ const LinkButton = styled.a``
 ```
   cursor: pointer;
   color: white;
-  background: line-gradient(#00f, #00a);
+  background: linear-gradient(#00f, #00a);
   border-radius: 6px;
   border: none;
 ```
@@ -158,12 +165,12 @@ const LinkButton = styled.a``
 
 - 全局样式
 
-`global.styles.ts`
+`index.tsx`
 
 ```
 import { createGlobalStyle } from 'styled-components';
 
-export const GlobalStyle = createGlobalStyle`
+const GlobalStyle = createGlobalStyle`
 
 * {
   margin: 0;
@@ -179,12 +186,6 @@ export const GlobalStyle = createGlobalStyle`
     loading: lazy;
   }
 }
-```
-
-`index.tsx`
-
-```
-import { GlobalStyle } from "./global.style"
 ```
 
 - 动效
@@ -204,6 +205,10 @@ const Rotate = styled.div`
   animation: ${rotate} 2s linear infinite;
 `;
 ```
+
+#### `typescript`
+
+> 定义 `interface`
 
 ## 参考
 
