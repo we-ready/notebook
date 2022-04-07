@@ -48,6 +48,7 @@ sudo systemctl start docker
 
 ```
 docker images
+
 docker ps
 ```
 
@@ -319,7 +320,7 @@ npm install xxxx -g --registry=http://registry.npm.taobao.org
 ### 下载 Node 镜像
 
 ```
-docker pull node:16.14.0-alpinem
+docker pull node:16.14.0-alpine
 docker pull redis:5.0.7-alpine
 docker pull rabbitmq:3.8.2-alpine
 docker pull postgres:12.1-alpine
