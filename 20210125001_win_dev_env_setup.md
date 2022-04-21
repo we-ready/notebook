@@ -138,3 +138,4 @@ c:\xxx > psql -U [database name] -d [user name]
 
 - 钉钉
 - 腾讯会议
+- SyncTrayzor （文件目录异地同步）
