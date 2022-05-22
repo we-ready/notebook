@@ -1,5 +1,5 @@
 ---
-id: 20210125004_pg_backup_restore
+id: 20220522_db_pg_backup_restore
 title: postgres 数据库的备份与恢复
 subtitle: pg数据库的全备份，以及数据恢复
 subject: 运维
@@ -10,7 +10,7 @@ level: 200
 cover: http://qiniuargus.weready.online/blog/coder.jpg
 authors: Chris Wei
 created_when: 2021-01-25
-updated_when: 2021-01-25
+updated_when: 2022-05-22
 ---
 
 # postgres 数据库的备份与恢复

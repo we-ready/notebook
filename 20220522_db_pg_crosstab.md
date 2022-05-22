@@ -1,5 +1,5 @@
 ---
-id: 20210125005_pg_crosstab
+id: 20220522_db_pg_crosstab
 title: postgres 数据库的数据透视表
 subtitle: 利用 pg 数据库的 crosstab 扩展功能，实现类似数据透视表的数据分类查询统计
 subject: 数据统计
@@ -10,7 +10,7 @@ level: 300
 cover: https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=241539469,1732296879&fm=26&gp=0.jpg
 authors: Chris Wei
 created_when: 2021-01-25
-updated_when: 2021-01-25
+updated_when: 2022-05-22
 ---
 
 # postgres数据库的数据透视表
