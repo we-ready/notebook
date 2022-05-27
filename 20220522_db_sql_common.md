@@ -31,6 +31,8 @@ CREATE TABLE t_class (
 CREATE TABLE t_student (
   id                  serial not null PRIMARY KEY,
   name                text,
+  gender              text NOT NULL DEFAULT 'MALE',
+  age                 int NOT NULL DEFAULT 20,
   class_id            serial REFERENCES t_class (id)
 );
 
@@ -120,6 +122,19 @@ CREATE OR REPLACE VIEW v_student AS
 ;
 ```
 
+```
+CREATE OR REPLACE VIEW v_class AS
+    SELECT  c.*,
+            s.name AS sname,
+            json_build_object(
+              'name',     s.name,
+              'gender',   s.gender,
+              'age',      s.age
+            )::JSON AS student
+    FROM t_class c
+    LEFT JOIN t_student s ON c.id=s.class_id
+;
+```
 
 ### 时间过滤 (mysql)
 
