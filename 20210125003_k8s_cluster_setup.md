@@ -586,7 +586,8 @@ cat ~/.kube/config
 #### 命令 - 登录阿里云镜像服务
 
 ```
-docker login -u [user name] -p [password] registry.cn-hangzhou.aliyuncs.com
+docker login --username=[user name] registry.cn-hangzhou.aliyuncs.com
+Password:
 ```
 
 > 可以参考阿里云镜像服务的命令行提示

@@ -7,7 +7,7 @@ category: 语法
 tags: 
 keywords: reg
 level: 100
-cover: https://geekboots.sfo2.cdn.digitaloceanspaces.com/post/regular-expression-1567485935882.jpg
+cover: https://media.inkscape.org/media/resources/file/Koi_carp_2.svg
 authors: Chris Wei
 created_when: 2021-05-26
 updated_when: 2021-05-26
