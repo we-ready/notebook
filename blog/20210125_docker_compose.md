@@ -37,10 +37,14 @@ sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/dock
 sudo yum install docker-ce docker-ce-cli containerd.io
 ```
 
-3. Start Docker
+3. Start Docker & and set auto-start after server reboot
 
 ```
 sudo systemctl start docker
+```
+
+```
+sudo systemctl enable docker.service
 ```
 
 4. Verify that Docker Engine (__Optional for pure install__)
