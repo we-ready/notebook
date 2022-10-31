@@ -32,8 +32,10 @@ jobs:
     - name: 3.1 Checkout blog source code ...
       env:
         REPO_TARGET: github.com/we-ready/atlas.git
+        GIT_ACCOUNT_TOKEN: ${{ secrets.GIT_ACCESS_TOKEN_OF_WE_READY }}
       run:
-        git clone --depth=1 -b main https://${REPO_TARGET} ./atlas
+        # git clone --depth=1 -b main https://${REPO_TARGET} ./atlas
+        git clone --depth=1 -b main https://${GIT_ACCOUNT_TOKEN}@${REPO_TARGET}  ./atlas
 
     - name: 3.2 Build blog ...
       env:
