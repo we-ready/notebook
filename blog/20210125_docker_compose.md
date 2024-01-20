@@ -11,7 +11,7 @@ cover: https://media.inkscape.org/media/resources/file/Koi_carp_2.svg
 videos: 
 authors: Chris Wei
 created_when: 2021-01-25
-updated_when: 2022-03-27
+updated_when: 2024-01-19
 ---
 
 # Docker Compose 的安装设置
@@ -21,6 +21,22 @@ updated_when: 2022-03-27
 - [Get Docker Engine - Community for CentOS](https://docs.docker.com/engine/install/centos/)
 - [Install Docker Compose](https://docs.docker.com/compose/install/)
 - [docker 及 docker-compose 的快速安装和简单使用](https://www.cnblogs.com/morang/p/9501223.html)
+
+## 检查并修改机器名称
+
+```
+# hostname
+# hostnamectl
+# cat /etc/hostname
+```
+
+```
+# vi /etc/hostname
+```
+
+```
+reboot
+```
 
 ## Install Docker
 
@@ -34,7 +50,7 @@ sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/dock
 2. INSTALL DOCKER ENGINE - COMMUNITY
 
 ```
-sudo yum install docker-ce docker-ce-cli containerd.io
+sudo yum install docker-ce docker-ce-cli containerd.io -y
 ```
 
 3. Start Docker & and set auto-start after server reboot
@@ -122,7 +138,24 @@ reboot
 sudo curl -L https://get.daocloud.io/docker/compose/releases/download/1.29.0/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
 ```
 
-2. Apply executable permissions to the binary:
+上述命令如果不行，可以换一个站点换一个版本试试看
+
+```
+sudo curl -L https://github.com/docker/compose/releases/download/v2.4.1/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
+```
+-------------------- 插入内容 -----------------------
+上面的命令在阿里云，会出现下载 github 文件很慢甚至失败的情况。这时可以提前下载到本地电脑
+1. 访问：https://github.com/docker/compose/releases/
+2. 检查最新版本，展开显示全部 Assets，找到 `docker-compose-linux-x86_64` 并下载到本地电脑
+3. 上传到服务器的 `/usr/local/bin` 目录，不需要解压（`rz`命令上传，`sz`命令下载）
+4. 将上传的 `docker-compose-linux-x86_64` 重命名为 `docker-compose`（`mv`命令）
+
+上传工具安装命令如下
+> yum install lrzsz -y 
+-------------------- 插入结束 -----------------------
+
+
+1. Apply executable permissions to the binary:
 
 ```
 sudo chmod +x /usr/local/bin/docker-compose
@@ -253,7 +286,7 @@ psql -U postgres -d postgres
 ### git
 
 ```
-yum install git
+yum install git -y
 ```
 
 ### 安装 Nodejs
@@ -261,10 +294,10 @@ yum install git
 1. download and install npm binary pakage
 
 ```
-wget https://nodejs.org/dist/v16.14.0/node-v16.14.0-linux-x64.tar.xz
-tar -xvf node-v16.14.0-linux-x64.tar.xz
-ln -s ~/node-v16.14.0-linux-x64/bin/node /usr/bin/node
-ln -s ~/node-v16.14.0-linux-x64/bin/npm /usr/bin/npm
+wget https://nodejs.org/dist/v16.14.2/node-v16.14.2-linux-x64.tar.xz
+tar -xvf node-v16.14.2-linux-x64.tar.xz
+ln -s ~/node-v16.14.2-linux-x64/bin/node /usr/bin/node
+ln -s ~/node-v16.14.2-linux-x64/bin/npm /usr/bin/npm
 npm -v
 node -v
 ```
@@ -291,7 +324,7 @@ cat /etc/profile
 > profile file content
 
 ```
-export NODE_PATH="/root/node-v16.14.0-linux-x64"
+export NODE_PATH="/root/node-v16.14.2-linux-x64"
 export PATH=$NODE_PATH/bin:$PATH
 ```
 
@@ -324,10 +357,12 @@ npm install xxxx -g --registry=http://registry.npm.taobao.org
 ### 下载 Node 镜像
 
 ```
-docker pull node:16.14.0-alpine
+docker pull node:16.16.0-alpine
 docker pull redis:5.0.7-alpine
 docker pull rabbitmq:3.8.2-alpine
 docker pull postgres:12.1-alpine
+docker pull dapor/docker-pg_dump
+docker pull nginx:1.17.6-alpine
 docker pull influxdb:2.1.1
 docker pull typesense/typesense:0.22.1
 ```
