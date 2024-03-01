@@ -31,22 +31,23 @@ updated_when: 2024-01-20
 
 > 后续内容中的 `[domain]` 指的就是这里准备好的域名
 
-## 短信
-
-1. 短信管理后台备案签名和模板
-
-2. 设置 `backend/services/restapi/.env`
-  > `SMS_HX_SIGNATURE`
-
 ## OSS
 
 1. 阿里云创建 `OSS Bucket`
 2. 设置 Bucket 的跨域访问
 3. 创建必要的 RAM 账号
-4. 设置 `backend/services/restapi/.env`
-  > `ALIYUN_OSS_*`
-5. 设置 `frontend/app/admin/.env`
-6. 设置 `frontend/app/jade-buyer/.env`
+
+## 短信
+
+1. 短信管理后台备案签名和模板
+
+## 项目控制及容器环境变量
+
+1. `tools/ops` 目录下新建 一个 `docker-compose.XXXXXX.yml` 文件
+2. `package.json` 中的 `start` / `stop` 脚本指向这个新的 `yml` 文件
+3. 设置 `backend/services/restapi/.env`
+4. 设置 `frontend/app/admin/.env`
+5. 设置 `frontend/app/jade-buyer/.env`
 
 ## 微信相关配置的准备工作
 
@@ -95,14 +96,21 @@ updated_when: 2024-01-20
 2. 设置 JSAPI 支付授权目录（根域名：[domain]）
 3. 设置 Native 支付回调链接（精确的，有 controller 响应的 域名 + 路由）
 
+#### 产品中心 ==>> AppID账号管理
+
+1. 在商户号里面填写服务号的 AppID，申请关联
+2. 回到服务号的 接口授权 ==>> 功能服务 ==>> 微信支付 里面确认
+
 #### 账户中心 ==>> API安全
 
 1. 设置 API 密钥（partnerKey）（通用）
 2. 申请证书
 3. 保存到 `backend\services\restapi\runtime\wepay`
 
-## 容器环境变量
+## 项目控制及容器环境变量
 
-1. 复制内容
+1. 确认下面内容的一致性
   > `backend/services/restapi/.env`
   > `tools/ops/docker-xxxxx.yml`
+
+## !!!修改 ITAdmin 密码!!!

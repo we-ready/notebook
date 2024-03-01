@@ -47,11 +47,17 @@ sudo yum install -y yum-utils device-mapper-persistent-data lvm2
 sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 ```
 
+
+
 2. INSTALL DOCKER ENGINE - COMMUNITY
 
 ```
 sudo yum install docker-ce docker-ce-cli containerd.io -y
 ```
+
+> 参考：https://docs.docker.com/engine/install/centos/
+> CentOS 8 环境下，会有错误提示根据错误提示，增加 `--allowerasing` 命令行参数
+
 
 3. Start Docker & and set auto-start after server reboot
 
@@ -104,16 +110,23 @@ docker rmi
 1. create json file
 
 ```
-vi /etc/docker/daemon.json
-cat /etc/docker/daemon.json
-```
-
-> daemon.json
-
-```
+cat > /etc/docker/daemon.json <<EOF
 {
   "registry-mirrors": ["https://registry.docker-cn.com"]
 }
+EOF
+```
+或者
+```
+cat > /etc/docker/daemon.json <<EOF
+{
+  "registry-mirrors": ["https://gqk8w9va.mirror.aliyuncs.com"]
+}
+EOF
+```
+
+```
+cat /etc/docker/daemon.json
 ```
 
 2. restart docker
@@ -134,11 +147,12 @@ reboot
 
 1. Download Docker Compose (with Daocloud Mirror)
 
+老版本，不要再用了（1.29）
 ```
 sudo curl -L https://get.daocloud.io/docker/compose/releases/download/1.29.0/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
 ```
 
-上述命令如果不行，可以换一个站点换一个版本试试看
+上述命令如果不行，可以换一个站点换一个版本试试看版本（2.4.1）
 
 ```
 sudo curl -L https://github.com/docker/compose/releases/download/v2.4.1/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
@@ -293,6 +307,17 @@ yum install git -y
 
 1. download and install npm binary pakage
 
+v20.11.1
+```
+wget https://nodejs.org/dist/v20.11.1/node-v20.11.1-linux-x64.tar.xz
+tar -xvf node-v20.11.1-linux-x64.tar.xz
+ln -s ~/node-v20.11.1-linux-x64/bin/node /usr/bin/node
+ln -s ~/node-v20.11.1-linux-x64/bin/npm /usr/bin/npm
+npm -v
+node -v
+```
+
+v16.14
 ```
 wget https://nodejs.org/dist/v16.14.2/node-v16.14.2-linux-x64.tar.xz
 tar -xvf node-v16.14.2-linux-x64.tar.xz
@@ -351,20 +376,30 @@ npm install -g rimraf
 可以使用淘宝镜像
 
 ```
-npm install xxxx -g --registry=http://registry.npm.taobao.org
+npm install yarn -g --registry=http://registry.npm.taobao.org
 ```
 
 ### 下载 Node 镜像
 
 ```
-docker pull node:16.16.0-alpine
+cat >dockerpull.sh <<EOF
+docker pull node:20.11.1-alpine
 docker pull redis:5.0.7-alpine
 docker pull rabbitmq:3.8.2-alpine
-docker pull postgres:12.1-alpine
+docker pull postgres:14.11-alpine
 docker pull dapor/docker-pg_dump
 docker pull nginx:1.17.6-alpine
+EOF
+```
+
+```
 docker pull influxdb:2.1.1
 docker pull typesense/typesense:0.22.1
+```
+
+```
+docker pull node:16.16.0-alpine
+docker pull postgres:12.1-alpine
 ```
 
 ### 创建项目目录
@@ -376,6 +411,14 @@ mkdir projects
 ### 创建克隆脚本
 
 `atlas.clone.sh`
+
+```
+cat >clone.next.sh <<EOF
+#!/bin/bash
+
+git clone --depth=1 -b next-version https://chriswei:[password]@gitee.com/chriswei/atlas.git ./atlas.new
+EOF
+```
 
 ### 克隆并构建
 
