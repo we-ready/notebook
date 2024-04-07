@@ -8,6 +8,10 @@
 - vim
 - psql -l
 - psql MBDI
+  
+- dropdb --if-exists pkmon
+- createdb pkmon
+- psql pkmon -f pkmon.dump.sql
 
 # vim
 
@@ -22,6 +26,7 @@
 -  \d [table name]
 -  \dt
 -  \df
+-  select * from dbpop();
 
 -  [tab] for auto complete
 
