@@ -1,3 +1,7 @@
+# from helpers import format_q2_row
+# from helpers import clean
+import helpers
+
 def main(db):
     if len(sys.argv) != 2:
         print(USAGE)
@@ -7,22 +11,40 @@ def main(db):
 
     # TODO: your code here
 
+    cleanName = helpers.clean(pokemon_name)
     cur = db.cursor()
 
+    qryPokemon = f"""
+        select id from pokemon where name='{cleanName}'
+    """
+    cur.execute(qryPokemon)
+    pkRows = cur.fetchall()
+    if len(pkRows) == 0:
+        print(f"Pokemon \"{cleanName}\" does not exist")
+        return
+
+    qryEncounter = f"""
+        select occurs_with from encounters where occurs_with={pkRows[0][0]}
+    """
+    cur.execute(qryEncounter)
+    ecRows = cur.fetchall()
+    if len(ecRows) == 0:
+        print(f"Pokemon \"{cleanName}\" is not encounterable in any game")
+        return
+
     qry = f"""
-        select * from pokemon_encounter('{pokemon_name}')
+        select * from pokemon_encounter('{cleanName}')
     """
     cur.execute(qry)
     rows = cur.fetchall()
     # print(rows)
 
-    print(
-        f"{'Game':<18} {'Location':<18} {'Rate':<10} {'Min':>4} {'Max':>4} {'Assertions'}"
-    )
+    helpers.format_q2_row('Game', 'Location', 'Rarity', 'MinLevel', 'MaxLevel', 'Requirements')
+    prevRow = ()
     for row in rows:
         # print(row)
-        _, game, location, rate, levelMin, levelMax, assertions = row
-        print(
-            f"{game:<18} {location:<18} {rate:<10} {levelMin:>4} {levelMax:>4} {assertions}"
-        )
-
+        if (prevRow == row):
+            continue
+        game, location, rate, levelMin, levelMax, requirements = row
+        helpers.format_q2_row(game, location, rate, str(levelMin), str(levelMax), requirements)
+        prevRow = row

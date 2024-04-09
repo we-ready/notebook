@@ -1,3 +1,6 @@
+# from helpers import format_q1_row
+import helpers
+
 def main(db):
     if len(sys.argv) != 1:
         print(USAGE)
@@ -5,52 +8,16 @@ def main(db):
 
     # TODO: your code here
 
-    qryLocation = """
+    qry = """
         select * 
-        from game_location_count
-    """
-    qryPokemon = """
-        select * 
-        from game_pokemon_count
+        from ass2_q1
     """
 
     cur = db.cursor()
-    dict = {}
+    cur.execute(qry)
+    rows=cur.fetchall()
 
-    cur.execute(qryLocation)
-    locationRows = cur.fetchall()
-    cur.execute(qryPokemon)
-    pokemonRows = cur.fetchall()
-
-    # print(locationRows)
-    # print(pokemonRows)
-
-    for row in locationRows:
-        # print(row)
-        region, game, locationCount = row
-        if region not in dict:
-          dict[region] = {}
-        dict[region][game] = [locationCount]
-
-    for row in pokemonRows:
-        # print(row)
-        region, game, pokemonCount = row
-        # print(dict[region][game])
-        if region not in dict:
-          dict[region] = {}
-        if game not in dict[region]:
-          dict[region][game] = [0, pokemonCount]
-        else:
-          dict[region][game] = [dict[region][game][0], pokemonCount]
-
-    # print(dict)
-    
-    headRegion="Region"
-    headGame="Game"
-    headPokemon="#Pokemon"
-    headLocation="#Locations"
-    print(f"{headRegion:<6} {headGame:<17} {headPokemon:<8} {headLocation:<10}")
-
-    for region in dict:
-      for game in dict[region]:
-        print(f"{region:<6} {game:<17} {dict[region][game][0]:<8} {dict[region][game][1]:<10}")
+    helpers.format_q1_row("Region", "Game", "#Pokemon", "#Locations")
+    for row in rows:
+        region, game, locationCount, pokemonCount = row
+        helpers.format_q1_row(region, game, str(pokemonCount), str(locationCount))
