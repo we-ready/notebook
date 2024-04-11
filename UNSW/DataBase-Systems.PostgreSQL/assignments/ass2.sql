@@ -1,3 +1,78 @@
+CREATE OR REPLACE VIEW evolution_all_in_one_requirements AS
+  SELECT
+    -- evx.*,
+    pk0.name AS pre,
+    pk1.name AS post,
+    evx.requirements
+  FROM
+  (
+    SELECT
+      pre_evolution, post_evolution,
+      string_agg(requirements, ' ==OR== ') as requirements
+    FROM
+    (
+      SELECT
+        evl.*,
+        evr.requirements
+      FROM evolutions evl
+      LEFT JOIN
+      (
+        SELECT
+          evolution,
+          string_agg(assertion, ' ==AND== ') as requirements
+        FROM
+        (
+          SELECT
+            er.evolution,
+            CASE er.inverted
+              WHEN true THEN CONCAT('NOT ', rq.assertion)
+              ELSE rq.assertion
+            END AS assertion
+          FROM evolution_requirements er
+          LEFT JOIN requirements rq ON rq.id = er.requirement
+        )
+        GROUP BY evolution
+        -- ORDER BY evolution
+      ) evr ON evr.evolution=evl.id
+    )
+    GROUP BY pre_evolution, post_evolution
+    -- ORDER BY pre_evolution, post_evolution
+  ) evx
+  LEFT JOIN pokemon pk0 ON pk0.id = evx.pre_evolution
+  LEFT JOIN pokemon pk1 ON pk1.id = evx.post_evolution
+  ORDER BY evx.pre_evolution, evx.post_evolution
+;
+
+-------- evolutions & evolution_requirements & requirements
+select count(*) from evolutions;
+count = 535
+
+id  pre_evolution   post_evolution
+id - integer PRIMARY KEY
+pre_evolution - pokemon(id)
+post_evolution - pokemon(id)
+
+
+select count(*) from evolution_requirements;
+count = 650
+
+evolution requirement inverted
+evolution - evolution(id)
+requirement - requirements(id)
+inverted - boolean
+PRIMARY KEY (evolution, requirement)
+
+
+select count(*) from requirements;
+count = 830
+
+id  assertion
+id - integer PRIMARY KEY
+assertion - text UNIQUE
+
+
+
+-------------- q1
 CREATE OR REPLACE VIEW ass2_q1 AS
   SELECT
     gm.region, gm.name,
@@ -59,6 +134,7 @@ regional_id - integer
 UNIQUE(national_id, game)
 
 
+-------------------- q2
 CREATE OR REPLACE VIEW encounter_assertions AS
   SELECT
     encounter, string_agg(assertion, ', ') AS assertions

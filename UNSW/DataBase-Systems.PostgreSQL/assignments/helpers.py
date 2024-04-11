@@ -48,3 +48,42 @@ def format_q2_row(game: str, location: str, Rarity: str, minLevel: str, maxLevel
     """
 
     print(f"{game:<18} {location:<27} {Rarity:<9} {minLevel:<9} {maxLevel:<9} {requirements}")
+
+
+
+def print_requirements(text):
+    arr = text.split('==AND==')
+    if len(arr) == 1:
+        print(arr[0])
+        return
+    for t in arr:
+        if t == '==AND==':
+            print('AND')
+        else:
+            print_requirements(f"    {t}")
+
+def print_evolution_requirements(pre, post, text):
+    print(f"'{pre}' can evolve into '{post}' when the following requirements are satisfied:")
+    print_requirements(text)
+    
+def track_evolution(pokemon, field, cur):
+    qry = f"""
+      select *
+      from evolution_all_in_one_requirements
+      where {field}='{pokemon}';
+    """
+    cur.execute(qry)
+    rows = cur.fetchall()
+    if len(rows) == 0:
+        print(f"'{pokemon}' does not have any {field}-evolutions")
+        return
+
+    for row in rows:
+        pre, post, requirements = row
+        print_evolution_requirements(pre, post, requirements)
+        if field == 'post':
+            track_evolution(pre, field, cur)
+        elif field == 'pre':
+            track_evolution(post, field, cur)
+    
+    print("")
