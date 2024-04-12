@@ -26,6 +26,11 @@
 -  \d [table name]
 -  \dt
 -  \df
+-  \dD
+-  \dT
+-  \dT+ [type name]
+-  SELECT enum_range(null::[type name]);
+
 -  select * from dbpop();
 
 -  [tab] for auto complete
