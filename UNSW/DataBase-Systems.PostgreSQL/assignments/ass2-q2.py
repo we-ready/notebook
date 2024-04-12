@@ -39,12 +39,21 @@ def main(db):
     rows = cur.fetchall()
     # print(rows)
 
-    helpers.format_q2_row('Game', 'Location', 'Rarity', 'MinLevel', 'MaxLevel', 'Requirements')
+    titleArr = ['Game', 'Location', 'Rarity', 'MinLevel', 'MaxLevel', 'Requirements']
+    colWidth = [len(titleArr[0]), len(titleArr[1]), len(titleArr[2]), len(titleArr[3]), len(titleArr[4])]
+    for row in rows:
+        for i in range(0,5):
+            if len(str(row[i])) > colWidth[i]:
+                colWidth[i] = len(str(row[i]))
+    for i in range(0,5):
+        colWidth[i] = colWidth[i] + 1
+
+    helpers.format_q2_row(colWidth, titleArr)
     prevRow = ()
     for row in rows:
         # print(row)
         if (prevRow == row):
             continue
-        game, location, rate, levelMin, levelMax, requirements = row
-        helpers.format_q2_row(game, location, rate, str(levelMin), str(levelMax), requirements)
+        game, location, Rarity, levelMin, levelMax, requirements = row
+        helpers.format_q2_row(colWidth, [game, location, Rarity, str(levelMin), str(levelMax), requirements])
         prevRow = row

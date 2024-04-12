@@ -29,17 +29,13 @@ def format_q1_row(region: str, game: str, pokemonCount: str, locationCount: str)
     print(f"{region:<6} {game:<17} {pokemonCount:<8} {locationCount:<10}")
 
 
-def format_q2_row(game: str, location: str, Rarity: str, minLevel: str, maxLevel: str, requirements: str) -> None:
+def format_q2_row(colWidth, textArr) -> None:
     """ Print one row with specific format.
 
     Parameters
     ----------
-    game
-    location
-    Rarity
-    minLevel
-    maxLevel
-    requirements
+    colWidth
+    textArr
 
     Returns
     -------
@@ -47,7 +43,7 @@ def format_q2_row(game: str, location: str, Rarity: str, minLevel: str, maxLevel
 
     """
 
-    print(f"{game:<18} {location:<27} {Rarity:<9} {minLevel:<9} {maxLevel:<9} {requirements}")
+    print(f"{textArr[0]:<{colWidth[0]}} {textArr[1]:<{colWidth[1]}} {textArr[2]:<{colWidth[2]}} {textArr[3]:<{colWidth[3]}} {textArr[4]:<{colWidth[4]}} {textArr[5]}")
 
 
 
