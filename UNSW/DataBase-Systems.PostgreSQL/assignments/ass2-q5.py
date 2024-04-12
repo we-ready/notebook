@@ -14,4 +14,4 @@ def main(db):
     cur = db.cursor()
     helpers.track_evolution(cleanName, 'post', cur)
     helpers.track_evolution(cleanName, 'pre', cur)
-
+    print('')

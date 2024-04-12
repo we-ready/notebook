@@ -51,22 +51,73 @@ def format_q2_row(game: str, location: str, Rarity: str, minLevel: str, maxLevel
 
 
 
-def print_requirements(text):
-    arr = text.split('==AND==')
+def parse_item(item, keyword):
+    arr = item.split(f" =={keyword}== ")
     if len(arr) == 1:
-        print(arr[0])
-        return
-    for t in arr:
-        if t == '==AND==':
-            print('AND')
-        else:
-            print_requirements(f"    {t}")
+        return item
+    else:
+        return arr
 
-def print_evolution_requirements(pre, post, text):
-    print(f"'{pre}' can evolve into '{post}' when the following requirements are satisfied:")
-    print_requirements(text)
-    
+
+def parse_tree_node(node, keyword):
+    newItems = []
+    # print('parse tree node: ', node, keyword)
+    for item in node['items']:
+        newItem = parse_item(item, keyword)
+        if newItem != item:
+            newItems.append({
+                "type": keyword,
+                "level": node['level'] + 1,
+                "items": newItem
+            })
+        else:
+            newItems.append(item)
+    node['items'] = newItems
+
+
+def parse_tree(treeRoot):
+    parse_tree_node(treeRoot, 'OR')
+    if isinstance(treeRoot['items'][0], str):
+        parse_tree_node(treeRoot, 'AND')
+        return
+
+    for node in treeRoot['items']:
+        if type(node) != 'str':
+            parse_tree_node(node, 'AND')
+
+
+def print_tree_node(node):
+    indentation = ''.join(['\t'] * node['level'])
+    indentation_1 = ''.join(['\t'] * (node['level'] - 1))
+
+    for index, item in enumerate(node['items']):
+        # print("item:", item, type(item))
+        if isinstance(item, str):
+            print(indentation, item)
+        else:
+            print_tree_node(item)
+
+        if index < (len(node['items']) - 1) and node['type'] is not None:
+            print(indentation_1, node['type'])
+
+def print_requirements(text):
+    treeRoot = {
+        "type": None,
+        "level": 1,
+        "items": [text]
+    }
+    parse_tree(treeRoot)
+    print_tree_node(treeRoot)
+
+OPSITE_DIRECTION = {
+    "pre": "post",
+    "post": "pre",
+}
 def track_evolution(pokemon, field, cur):
+    if field != 'pre' and field != 'post':
+        print('field error')
+        return
+    
     qry = f"""
       select *
       from evolution_all_in_one_requirements
@@ -75,15 +126,20 @@ def track_evolution(pokemon, field, cur):
     cur.execute(qry)
     rows = cur.fetchall()
     if len(rows) == 0:
-        print(f"'{pokemon}' does not have any {field}-evolutions")
+        print(f"\n'{pokemon}' doesn't have any {OPSITE_DIRECTION[field]}-evolutions.")
         return
 
     for row in rows:
         pre, post, requirements = row
-        print_evolution_requirements(pre, post, requirements)
+        if field == 'pre':
+            print(f"\n'{pre}' can evolve into '{post}' when the following requirements are satisfied:")
+        else:
+            print(f"\n'{post}' can evolve from '{pre}' when the following requirements are satisfied:")
+        print_requirements(requirements)
+
         if field == 'post':
             track_evolution(pre, field, cur)
         elif field == 'pre':
             track_evolution(post, field, cur)
-    
-    print("")
+        
+        print("")

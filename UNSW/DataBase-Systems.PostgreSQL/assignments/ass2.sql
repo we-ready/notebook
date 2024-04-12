@@ -30,6 +30,7 @@ CREATE OR REPLACE VIEW evolution_all_in_one_requirements AS
             END AS assertion
           FROM evolution_requirements er
           LEFT JOIN requirements rq ON rq.id = er.requirement
+          ORDER BY er.evolution, er.inverted, er.requirement
         )
         GROUP BY evolution
         -- ORDER BY evolution
