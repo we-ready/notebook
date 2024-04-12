@@ -12,6 +12,15 @@ def main(db):
 
     cleanName = helpers.clean(pokemon_name)
     cur = db.cursor()
+
+    qryPokemon = f"""
+        select id from pokemon where name='{cleanName}'
+    """
+    cur.execute(qryPokemon)
+    pkRows = cur.fetchall()
+    if len(pkRows) == 0:
+        print(f"Pokemon \"{cleanName}\" does not exist")
+        return
+    
     helpers.track_evolution(cleanName, 'post', cur)
     helpers.track_evolution(cleanName, 'pre', cur)
-    print('')
