@@ -89,12 +89,12 @@ def print_tree_node(node):
     for index, item in enumerate(node['items']):
         # print("item:", item, type(item))
         if isinstance(item, str):
-            print(indentation, item)
+            print(f"{indentation}{item}")
         else:
             print_tree_node(item)
 
         if index < (len(node['items']) - 1) and node['type'] is not None:
-            print(indentation_1, node['type'])
+            print(f"{indentation_1}{node['type']}")
 
 def print_requirements(text):
     treeRoot = {
