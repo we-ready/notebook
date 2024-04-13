@@ -40,7 +40,7 @@ def main(db):
     # print(rows)
 
     titleArr = ['Game', 'Location', 'Rarity', 'MinLevel', 'MaxLevel', 'Requirements']
-    colWidth = [len(titleArr[0]), len(titleArr[1]), len(titleArr[2]), len(titleArr[3]), len(titleArr[4])]
+    colWidth = list(map(len, titleArr))
     for row in rows:
         for i in range(0,5):
             if len(str(row[i])) > colWidth[i]:

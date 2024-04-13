@@ -24,11 +24,12 @@ CREATE OR REPLACE VIEW ass2_q1 AS
 
 CREATE OR REPLACE VIEW encounter_assertions AS
   SELECT
-    encounter, string_agg(assertion, ', ') AS assertions
+    encounter, string_agg(assertion, ', ' ORDER BY inverted, assertion) AS assertions
   FROM
   (
     SELECT
       er.encounter,
+      er.inverted,
       CASE er.inverted
         WHEN true THEN CONCAT('NOT ', rq.assertion)
         ELSE rq.assertion
@@ -72,6 +73,59 @@ CREATE OR REPLACE FUNCTION Pokemon_Encounter(PokemonName TEXT)
 ;
 
 
+CREATE OR REPLACE VIEW game_pokemon AS
+  SELECT
+    pk.name AS pokemon, gm.name AS game
+  FROM pokedex pd
+  LEFT JOIN pokemon pk ON pk.id=pd.national_id
+  LEFT JOIN games gm ON gm.id=pd.game
+;
+
+CREATE OR REPLACE FUNCTION Move_Power(PokemonName TEXT, GameName Text)
+  RETURNS TABLE (name TEXT, type INT, power Statistic, requirements TEXT)
+  AS $$
+
+    SELECT
+      name,
+      MAX(type) AS type,
+      MAX(power) AS power,
+      string_agg(assertion, ' OR ' ORDER BY req_id) AS requirements
+    FROM
+    (
+      SELECT
+        name, category, type, power, -- accuracy, base_power_points,
+        req_id, assertion -- ,game_name, pokemon_name, 
+        -- category, name, count(*)
+      FROM
+      (
+        SELECT
+          lm.*,
+          mv.name,
+          mv.category,
+          mv.of_type AS type,
+          mv.power,
+          mv.accuracy,
+          mv.base_power_points,
+          gm.name AS game_name,
+          pk.name AS pokemon_name,
+          rq.id AS req_id, rq.assertion
+        FROM learnable_moves lm
+        LEFT JOIN moves mv ON mv.id = lm.learns
+        LEFT JOIN games gm ON gm.id = lm.learnt_in
+        LEFT JOIN pokemon pk ON pk.id = lm.learnt_by
+        LEFT JOIN requirements rq ON rq.id = lm.learnt_when
+        WHERE mv.power IS NOT NULL AND pk.name=PokemonName AND gm.name=GameName
+        -- WHERE mv.power IS NOT NULL AND pk.name='Salamence' AND gm.name='Alpha Sapphire' 
+        ORDER BY mv.category, mv.id, rq.id
+      )
+    )
+    GROUP BY name
+    ORDER BY name
+
+  $$ LANGUAGE SQL
+;
+
+
 CREATE OR REPLACE VIEW evolution_all_in_one_requirements AS
   SELECT
     -- evx.*,
@@ -82,7 +136,7 @@ CREATE OR REPLACE VIEW evolution_all_in_one_requirements AS
   (
     SELECT
       pre_evolution, post_evolution,
-      string_agg(requirements, ' ==OR== ') as requirements
+      string_agg(requirements, ' ==OR== ' ORDER BY id) as requirements
     FROM
     (
       SELECT
@@ -93,11 +147,13 @@ CREATE OR REPLACE VIEW evolution_all_in_one_requirements AS
       (
         SELECT
           evolution,
-          string_agg(assertion, ' ==AND== ') as requirements
+          string_agg(assertion, ' ==AND== ' ORDER BY inverted, requirement) as requirements
         FROM
         (
           SELECT
             er.evolution,
+            er.inverted,
+            er.requirement,
             CASE er.inverted
               WHEN true THEN CONCAT('NOT ', rq.assertion)
               ELSE rq.assertion
