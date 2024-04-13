@@ -24,18 +24,19 @@ CREATE OR REPLACE VIEW ass2_q1 AS
 
 CREATE OR REPLACE VIEW encounter_assertions AS
   SELECT
-    encounter, string_agg(assertion, ', ' ORDER BY inverted, assertion) AS assertions
+    encounter, string_agg(assertion, ', ' ORDER BY assertion) AS assertions
   FROM
   (
     SELECT
       er.encounter,
       er.inverted,
       CASE er.inverted
-        WHEN true THEN CONCAT('NOT ', rq.assertion)
+        WHEN true THEN CONCAT('Not ', rq.assertion)
         ELSE rq.assertion
       END AS assertion
     FROM encounter_requirements er
     LEFT JOIN requirements rq ON rq.id=er.requirement
+    ORDER BY er.encounter
   )
   GROUP BY encounter
 ;
@@ -67,7 +68,7 @@ CREATE OR REPLACE FUNCTION Pokemon_Encounter(PokemonName TEXT)
     LEFT JOIN games gm ON gm.id=lc.appears_in
     LEFT JOIN encounter_assertions ea ON ea.encounter=ec.id
     WHERE pk.name = PokemonName
-    ORDER BY gm.region, game, location, rarity, level_min, level_max
+    ORDER BY gm.region, game, location, rarity, level_min, level_max, ea.encounter
 
   $$ LANGUAGE SQL
 ;
