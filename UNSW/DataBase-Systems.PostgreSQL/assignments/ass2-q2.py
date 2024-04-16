@@ -45,8 +45,8 @@ def main(db):
         for i in range(0,5):
             if len(str(row[i])) > colWidth[i]:
                 colWidth[i] = len(str(row[i]))
-    for i in range(0,5):
-        colWidth[i] = colWidth[i]
+    # for i in range(0,5):
+    #     colWidth[i] = colWidth[i] + 1
 
     helpers.format_q2_row(colWidth, titleArr)
     prevRow = ()
