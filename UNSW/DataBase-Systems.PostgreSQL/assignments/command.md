@@ -25,6 +25,7 @@
 -  \l
 -  \d [table name]
 -  \dt
+-  \dv
 -  \df
 -  \dD
 -  \dT
