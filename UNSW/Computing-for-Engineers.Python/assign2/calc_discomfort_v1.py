@@ -22,12 +22,15 @@ import numpy as np
 
 def calc_discomfort(vs, dt):
 
-  a0 = np.array(vs)
-  a1 = np.diff(a0, axis=0)
-  a1 = a1 / dt
-  a2 = a1 * a1
-  discomfort = np.sum(a2)
+  # initial array
+  a2 = np.zeros_like(vs)
 
+  # Iterate
+  for i in range(0, len(vs) - 1):
+    ai = (vs[i + 1] - vs[i]) / dt
+    a2[i] = ai * ai
+
+  discomfort = np.sum(a2)
   return discomfort
 
 
