@@ -67,6 +67,9 @@ updated_when: 2024-01-20
 2. 保存到 `backend\services\restapi\runtime\wechat`
 3. 设置安全域名：`[domain]`（根目录，不设置子目录）
 
+> 上述步骤将 `MP_verify` 文件保存到后端的做法，仅适用于通过内网穿透将开发环境暴露到公网的做法
+> 如果希望在阿里云服务器的生产环境，让微信验证能访问到域名下的 `MP_verify`，可以将该文件从服务器的 `backend/services/restapi-v2/runtime/wechat/` 复制到 `frontend/runtime/www/site/root/`
+
 #### 设置与开发 ==>> 公众号设置 ==>> 功能设置 ==>> 网页授权域名
 
 1. 设置网页授权域名：`[domain]`（根目录，不设置子目录）
