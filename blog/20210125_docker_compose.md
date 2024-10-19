@@ -317,6 +317,16 @@ npm -v
 node -v
 ```
 
+v18.20
+```
+wget https://nodejs.org/dist/v18.20.2/node-v18.20.2-linux-x64.tar.xz
+tar -xvf node-v18.20.2-linux-x64.tar.xz
+ln -s ~/node-v18.20.2-linux-x64/bin/node /usr/bin/node
+ln -s ~/node-v18.20.2-linux-x64/bin/npm /usr/bin/npm
+npm -v
+node -v
+```
+
 v16.14
 ```
 wget https://nodejs.org/dist/v16.14.2/node-v16.14.2-linux-x64.tar.xz
