@@ -205,10 +205,6 @@ Mum: No. Look, they're blue.
 
 ### A
 
-### B
-
-### C
-
 It's our room. It's small.  
 Whose books are those? They're new. 
 
@@ -216,8 +212,7 @@ Whose books are those? They're new.
 
 Kate: Hello, Joan.  
 Joan: Hello, Kate.  
-Kate: Joan, this is Mike.  
-He's a new student.  
+Kate: Joan, this is Mike. He's a new student.  
   
 Joan: Hello, Mike.  
 Mike: Hello, Joan.  
@@ -233,8 +228,11 @@ Kate: It's Joan's.
 
 Li Ping is a boy. He's a Chinese boy. He's twelve. He's tall. He's a student.  
 Li Ying is a girl. She's Li Ping's sister. She's five. She's short.  
+
+### B
+
 Who's this man? He is a teacher.  
-Who's this woman? She isn't. She's a worker.
+Who's this woman? She isn't a teacher. She's a worker.
 
 ### C
 
@@ -324,8 +322,6 @@ They are (not) cocks.
 
 ### A
 
-### B
-
 Where's Kate?  
 She's near the window.  
   
@@ -333,7 +329,7 @@ Where's her bag?
 It's on the desk.  
   
 Where are her books?  
-They're  in the bag.  
+They're in the bag.  
   
 Where are her pencils?  
 What's on the table?  
@@ -386,14 +382,22 @@ What is on the desk? There are some flowers. They are for our teacher. We like h
 
 ### A
 
-How many hours are there in a day? There are twenty-four hours in a day.
+How many hours are there in a day?  
+There are twenty-four hours in a day.
 
 ### B
 
-How many days are there in a week? There are seven days in a week.  
-How many days are there in a month? There are thirty or thirty-one days in a month.  
-How many months are there in a year? There are twelve months in a year.  
-How many days are there in a year? There are three hundred and sixty-five days in a year. 
+How many days are there in a week?  
+There are seven days in a week.  
+
+How many days are there in a month?  
+There are thirty or thirty-one days in a month.  
+
+How many months are there in a year?  
+There are twelve months in a year.  
+
+How many days are there in a year?  
+There are three hundred and sixty-five days in a year. 
 
 ## DIALOGUE
 
@@ -415,18 +419,21 @@ B: She's twenty-three.
 
 ### There be
  
-There is a house in the picture. There are some trees near the house.  
-Is there a horse under the tree? Yes, there is.  
+There is a house in the picture.  
+There are some trees near the house.  
+
+Is there a horse under the tree?  
+Yes, there is.  
 No, there isn't.  
 There isn't a horse under the tree.
   
-Are there any cows behind the house? Yes, there are (some).  
+Are there any cows behind the house?  
+Yes, there are (some).  
 No, there aren't (any).  
-  
 There aren't any cows behind the house.  
   
-How many hours are there in a day? There are twenty-four hours in a day.
-
+How many hours are there in a day?  
+There are twenty-four hours in a day.
 
 
 # LESSON 19
@@ -450,10 +457,11 @@ Teacher: Good morning, boys and girls.
 Student: Good morning, teacher!  
 Teacher: Sit down, please. Li Ping?  
 Li: Yes.  
+  
 Teacher: Oh, Wei Fang, How are you today?  
 Wei: I'm all right, thank you.  
 Teacher: That's all right.  
-Wang:  
+  
 Teacher: How many days are there in this month?  
 Wang: There are thirty-one.  
 Teacher: That's right. Come to the blackboard, Liu Ying. Write "Monday" and "month" on it, please.  

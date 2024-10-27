@@ -11,7 +11,12 @@ They publish English textbooks in that publishing house. English textbooks are p
 
 ### B
 
-A: Is this kind of telephone (bicycle, TV set, recorder) made in Guangzhou?  
+A: Is this kind of [ ... ] made in Guangzhou?  
+- telephone
+- bicycle
+- TV set
+- recorder
+
 B: No, it isn't.  
 A: Where is it made?  
 B: It's made in Shanghai.
@@ -28,7 +33,7 @@ Ping: Really? Is English understood by people outside England and the United Sta
 Dad: Yes. I spoke English when I was in Japan. Many people understood me.  
 Ping: How about other countries?  
 Dad: Well, I know that in Sweden and France a lot of people understand English.  
-Ping: Is English the language spokenby the largest number of people in  the world?  
+Ping: Is English the language spokenby the largest number of people in the world?  
 Dad: No.  
 Ping: Then Chinese must have the largest number of speakers.  
 Dad: Right. But Chinese is spoken by few people outside China.  
@@ -47,16 +52,16 @@ The Passive Voice
 The Active Voice & The Passive Voice
 
 Many people speak English.  
-Englishis spokenby many people.  
+English is spokenby many people.  
   
-Letters are collectedfrom this post-box at 7:30 every morning.  
-Colour TVs are soldin that shop.  
+Letters are collected from this post-box at 7:30 every morning.  
+Colour TVs are sold in that shop.  
 
-This kind of bike is not madein our factory.  
-Football is playedin most middle schools.  
+This kind of bike is not made in our factory.  
+Football is played in most middle schools.  
   
 We often use a recorder in our English class.  
-A recorder is often used(by us) in our English class.
+A recorder is often used (by us) in our English class.
 
 
 # LESSON 2
@@ -79,8 +84,15 @@ The pupils were given some advice by the pianist.
 
 ### B
 
-A: When was the Chinese Communist Party (the Chinese People's Liberation Army, the people's Republic of China) founded?  
-B: It was founded on July 1, 1921 (August 1, 1927, October 1, 1949).
+A: When was [ ... ] founded?
+- the Chinese Communist Party
+- the Chinese People's Liberation Army
+- the people's Republic of China  
+
+B: It was founded on [ ... ]
+- July 1, 1921
+- August 1, 1927
+- October 1, 1949.
 
 ## TEXT
 
@@ -120,15 +132,43 @@ Some advicewas givento the pupils (by the pianist)
 A: You're just back from your home town, aren't you?  
 B: Yes.  
 A: How are things there?  
-B: Excellent. Great changes have taken place the last two years. A new school (A big building, A new road) has been opened (put up, built) in my home town.
+B: Excellent. Great changes have taken place the last two years. [ ... ] has been [ ... ] in my home town.
+
+[1]
+- A new school
+- A big building
+- A new road
+
+[2]
+- opened
+- put up
+- built
 
 ### B
 
-A: Has the play (this programme, this song) been put on at this theatre (shown on TV,
-taught on the radio) ?  
-B: Yes, it was put on (shown, shown taught) last week.  
-A: Will it be put on (shown, taught) again?  
-B: Yes, I think so (I'm sorry I don't  know) .
+A: Has [ ... ] been [ ... ] ?
+
+[1]
+- the play
+- this programme
+- this song
+
+[2]
+- put on at this theatre
+- shown on TV
+- taught on the radio
+  
+B: Yes, it was [ ... ] last week.  
+- put on
+- shown
+- taught
+  
+A: Will it be [ ... ] again?  
+- put on
+- shown
+- taught
+  
+B: Yes, I think so (I'm sorry I don't know) .
 
 ## TEXT
 
@@ -179,13 +219,41 @@ The children were taken good care of.
 
 ### A
  
-A: Can this lock (this kind of key, this radio) be repaired (made, fixed) here?  
-B: Yes, it can be repaired (made, fixed) in two days (ten minutes, three days).
+A: Can [ ... ] be [ ... ] here?  
+
+[1]
+- this lock
+- this kind of key
+- this radio
+
+[2]
+- repaired
+- made
+- fixed
+  
+B: Yes, it can be [ ... ] in [ ... ].
+
+[1]
+- repaired
+- made
+- fixed
+
+[2]
+- two days
+- ten minutes
+- three days
 
 ### B
  
-A: When must the composition (the drawing, the money) for the tickets be handed in?  
-B: It must be handed in after class (five days before the exhibition, sometime before Friday).
+A: When must [ ... ] for the tickets be handed in?  
+- the composition
+- the drawing
+- the money
+  
+B: It must be handed in [ ... ].
+- after class
+- five days before the exhibition
+- sometime before Friday
 
 ## TEXT
 
@@ -248,12 +316,19 @@ In the last few years there have been great changes in computers. They now can d
 A: Have you seen Zhao Hai today?  
 B: Yes, I have.  
 A: Do you know why he isn't coming this evening?  
-B: He told me he had an important meeting to attend (some exercises to do, a composition to write, several letters to answer).
+B: He told me he had [ ... ].
+- an important meeting to attend
+- some exercises to do
+- a composition to write
+- several letters to answer
 
 ### B
 
 A: Have you started writing your composition yet?  
-B: No, I really don't know what to write about (which topic to choose, how to begin).
+B: No, I really don't know [ ... ].
+- what to write about
+- which topic to choose
+- how to begin
 
 ## TEXT
 
@@ -321,14 +396,31 @@ It did not snow much last winter.
 A: Do you get up early in the morning?  
 B: Why, yes!
 A: What do you usually do after you get up?
-B: I do morning exercises (some reading aloud, some cleaning). It's good to have plenty of exercise (to read aloud often, to help with the housework).
+B: I do [ ... ]. It's good [ ... ].
+
+[1]
+- morning exercises
+- some reading aloud
+- some cleaning
+
+[2]
+- to have plenty of exercise
+- to read aloud often
+- to help with the housework
 
 ### B
 
 A: What are good manners in your country?  
-B: It's good manners to wait in line (to eat quietly, not to shout in public).  
+B: It's good manners [ ... ].
+- to wait in line
+- to eat quietly
+- not to shout in public.
+  
 A: I see. But what are bad manners?  
-B: It's bad manners to be rude to people (to spit in public, to come late to class or a meeting).
+B: It's bad manners [ ... ].
+- to be rude to people
+- to spit in public
+- to come late to class or a meeting
 
 ## TEXT
 
