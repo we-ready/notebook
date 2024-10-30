@@ -134,29 +134,16 @@ B: Yes.
 A: How are things there?  
 B: Excellent. Great changes have taken place the last two years. [ ... ] has been [ ... ] in my home town.
 
-[1]
-- A new school
-- A big building
-- A new road
-
-[2]
-- opened
-- put up
-- built
+- A new school ... opened
+- A big building ... put up
+- A new road ... built
 
 ### B
 
 A: Has [ ... ] been [ ... ] ?
-
-[1]
-- the play
-- this programme
-- this song
-
-[2]
-- put on at this theatre
-- shown on TV
-- taught on the radio
+- the play ... put on at this theatre
+- this programme ... shown on TV
+- this song ... taught on the radio
   
 B: Yes, it was [ ... ] last week.  
 - put on
@@ -220,28 +207,14 @@ The children were taken good care of.
 ### A
  
 A: Can [ ... ] be [ ... ] here?  
-
-[1]
-- this lock
-- this kind of key
-- this radio
-
-[2]
-- repaired
-- made
-- fixed
+- this lock ... repaired
+- this kind of key ... made
+- this radio ... fixed
   
 B: Yes, it can be [ ... ] in [ ... ].
-
-[1]
-- repaired
-- made
-- fixed
-
-[2]
-- two days
-- ten minutes
-- three days
+- repaired ... two days
+- made ... ten minutes
+- fixed ... three days
 
 ### B
  
@@ -397,16 +370,9 @@ A: Do you get up early in the morning?
 B: Why, yes!
 A: What do you usually do after you get up?
 B: I do [ ... ]. It's good [ ... ].
-
-[1]
-- morning exercises
-- some reading aloud
-- some cleaning
-
-[2]
-- to have plenty of exercise
-- to read aloud often
-- to help with the housework
+- morning exercises ... to have plenty of exercise
+- some reading aloud ... to read aloud often
+- some cleaning ... to help with the housework
 
 ### B
 

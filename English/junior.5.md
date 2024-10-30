@@ -227,16 +227,9 @@ Then the man in the shop understood what the Frenchman meant. He wanted some med
 ### A
 
 A: How many English [ ... ] had you [ ... ] by the end of last term?  
-
-[1]
-- songs
-- stories
-- parties
-
-[2]
-- learned
-- read
-- had
+- songs ... learned
+- stories ... read
+- parties ... had
 
 B: Four.
 
