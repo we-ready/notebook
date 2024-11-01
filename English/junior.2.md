@@ -215,13 +215,13 @@ Policeman: Certainly. Thank you. You're good Young Pioneers.
 
 ## GRAMMAR
 
-Personal and Possessive Pronou
+Personal and Possessive Pronouns
 
-|I|you|he|she|it|we|you|they|
+| I | you | he | she | it | we | you | they |
 |---|---|---|---|---|---|---|---|
-|me|you|him|her|it|us|you|them|
-|my|your|his|her|its|our|your|their|
-|mine|yours|his|hers|its|ours|yours|theirs|
+| me | you | him | her | it | us | you | them |
+| my | your | his | her | its | our | your | their |
+| mine | yours | his | hers | its | ours | yours | theirs |
 
 
 # LESSON 7
@@ -728,32 +728,32 @@ Do they go? Yes, they do. No, they don't.
 
 > the
 
-|word|#|
-|---|---|
-|first|1st|
-|second|2nd|
-|third|3rd|
-|fourth|4th|
-|fifth|5th|
-|sixth|6th|
-|seventh|7th|
-|eighth|8th|
-|ninth|9th|
-|tenth|10th|
-|eleventh|11th|
-|twelfth|12th|
-|twentieth|20th|
-|twenty-first|21th|
-|thirtieth|30th|
-|thirty-ninth|39th|
-|fortieth|40th|
-|fiftieth|50th|
-|sixtieth|60th|
-|seventieth|70th|
-|eightieth|80th|
-|ninetieth|90th|
-|hundredth|100th|
-|one hundred and first|101st|
+| word | # |
+| --- | --- |
+| first | 1st |
+| second | 2nd |
+| third | 3rd |
+| fourth | 4th |
+| fifth | 5th |
+| sixth | 6th |
+| seventh | 7th |
+| eighth | 8th |
+| ninth | 9th |
+| tenth | 10th |
+| eleventh | 11th |
+| twelfth | 12th |
+| twentieth | 20th |
+| twenty-first | 21th |
+| thirtieth | 30th |
+| thirty-ninth | 39th |
+| fortieth | 40th |
+| fiftieth | 50th |
+| sixtieth | 60th |
+| seventieth | 70th |
+| eightieth | 80th |
+| ninetieth | 90th |
+| hundredth | 100th |
+| one hundred and first | 101st |
 
 # LESSON 15
 
@@ -808,7 +808,6 @@ Degrees of Adjectives
 
 |[ ... ]|[ ... ]`er`|[ ... ]`est`|
 |---|---|---|
-|big|bigger|biggest|
 |tall|taller|tallest|
 |long|longer|longest|
  
