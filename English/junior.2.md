@@ -59,19 +59,6 @@ Ling: Oh! Happy birthday, Dad!
 Dad: Thank you, Lingling. Help yourself to some fish.  
 Ling: Thank you.
 
-## GRAMMAR
- 
-Countable and Uncontable Nouns
-
-an apple, two apples
-a book, three books
-a car, some cars
-
-------
-
-water: a glass of water, two glasses of water, some water
-rice: a bowl of rice, two bowls of rice, some rice
-
 
 # LESSON 4
 
@@ -118,34 +105,6 @@ It has no eyes and no ears. It has no mouth, but it can talk. In the morning it 
 
 What is it?
 
-## GRAMMAR
-
-have (verb to have)
-
-[ ... ] have (not)
-- I
-- We
-- You
-- They
-
-[ ... ] has (not)
-- He
-- She
-- It
-
-------
-
-Have [ ... ]?
-- I
-- we
-- you
-- they
-  
-Has [ ... ]?
-- he
-- she
-- it
-  
 
 # LESSON 6
 
@@ -212,16 +171,6 @@ Zhang: Excuse me.
 Policeman: Yes? Can I help you?  
 Liu: Here's a watch. We can't find the owner. Can you find him and give it to him?  
 Policeman: Certainly. Thank you. You're good Young Pioneers.
-
-## GRAMMAR
-
-Personal and Possessive Pronouns
-
-| I | you | he | she | it | we | you | they |
-|---|---|---|---|---|---|---|---|
-| me | you | him | her | it | us | you | them |
-| my | your | his | her | its | our | your | their |
-| mine | yours | his | hers | its | ours | yours | theirs |
 
 
 # LESSON 7
@@ -321,66 +270,6 @@ On the hill there are also a lot of people. What are they doing? They are planti
 
 How hard all these people are working! They are helping to make our country beautiful.
 
-## GRAMMAR
-
-The Present Continuous Tense
-
-We are reading the text now.
-They are waiting for a bus.
-
-------
-
-We are working in a factory these days.
-
-------
-
-[ ... ] (not) working.
-- I am 
-- We are
-- You are 
-- He is
-- She is
-- It is  
-- They are
-
-------
-
-|1|2|3|
-|---|---|---|
-|Am I working?|Are you working?|Is he (she, it) working?|
-|Yes, you are.|Yes, I am.|Yes, he (she, it) is.|
-|No, you aren't.|No, I 'm not.|No, he (she, it) isn't.|
-
-|1|2|3|
-|---|---|---|
-|Are we working?|Are you working?|Are they working?|
-|Yes, we(you) are.|Yes, we are.|Yes, they are.|
-|No, we(you) aren't.|No, we aren't.|No, they aren't.|
- 
-------
-
-|[ ... ]|[ ... ]`ing`|
-|---|---|
-|go|going|
-|ask|asking|
-|play|playing|
- 
-------
-
-|[ ... ]`e`|[ ... ]`ing`|
-|---|---|
-|write|writing|
-|close|closing|
-|take|taking|
- 
-------
-
-|[ ... ][x]|[ ... ][xx]`ing`|
-|---|---|
-|dig|digging|
-|put|putting|
-|begin|beginning|
-
 
 # LESSON 10
 
@@ -435,75 +324,6 @@ Betty: OK.
 
 Kate: Excuse me. Where's Joan?  
 Mary: Look, there she is. She's climbing the hill with Rose.
- 
-## GRAMMAR
-
-The Plural Number of Nouns
-
-|[ ... ]|[ ... ]`s`|
-|---|---|
-|book|books|
-|ball|balls|
-|ear|ears|
-|text|texts|
-|word|words|
-
-> [s][z][ts][dz]
- 
-------
-
-|[ ... ]`y`|[ ... ]`ies`|
-|---|---|
-|story|stories|
-|country|countries|
-
-> [z]
-
-------
-
-|[ ... ][`s` or `x` or `ch` or `sh`]|[ ... ][`s` or `x` or `ch` or `sh`]`es`|
-|---|---|
-|bus|buses|
-|box|boxed|
-|watch|watches|
-|fish|fishes|
-
-> [iz]
-
------- 
-
-|[ ... ][`ce` or `ge` or `se`]|[ ... ][`ce` or `ge` or `se`]`s`|
-|---|---|
-|orange|oranges|
-
-> [iz]
-
-------
-
-|[ ... ]`o`|[ ... ]`o`[`s` or `es`]|
-|---|---|
-|tomato|tomatoes|
-|radio|radios|
-
->[z]
-
-------
-
-|[ ... ]`f`|[ ... ]`ves`|
-|---|---|
-|knife|knives|
-
-> [vz]
-
-------
-
-|[ ... ]|[ `special` ]|
-|---|---|
-|man|men|
-|woman|women|
-|child|children|
-|foot|feet|
-|fish|fish|
 
 
 # LESSON 11
@@ -562,36 +382,6 @@ Let us be friends. Please write soon.
 
 Yours,  
 Alice Green
-
-## GRAMMAR
-
-Kinds of Sentences
- 
-### The Declarative Sentenc
- 
-My parents are both school teachers.  
-They are planting apple trees.  
-We aren't workers.
-
-### The Interrogative Sentence
- 
-Have you any ink?  
-Do you swim every day?  
-What are they doing now?  
-Are you in Class One or Class Two?  
-Our classroom is bright, isn't it?
-
-### The Imperative Sentence
-
-Write down the new words, please.  
-Look at the children near the river.  
-Don't draw on the wall.
-
-### The Exclamatory Sentence
-
-What an interesting book!  
-How hard all these people are working!
-
 
 # LESSON 12
 
@@ -685,75 +475,6 @@ Betty hurries to the garden. There under a big tree she finds her present - a ni
 "Happy birthday, Betty!" her parents say.  
 "Thank you, Mum and Dad!"
 
-## GRAMMAR
-
-### The Present Indefinite Tense
-
-> usually, often, sometimes, every day, every morning
-
-I do my homework every day.  
-Do you usually go to school at seven?  
-He doesn't  speak Russian.  
-
-You go. You do not (don't) go.  
-It goes. It does not (doens't) go.
-
-Do I go? Yes, you do. No, you don't.  
-Do you go? Yes, I do. No, I don't.  
-
-Does he (she, it) go? Yes, he (she, it) does. No, he (she, it) doesn't.  
-Do we go? Yes, we (you) do. No, we (you) don't.  
-Do you go? Yes, we do. No, we don't.  
-Do they go? Yes, they do. No, they don't.
-
-|[ ... ]|[ ... ]`s`|
-|---|---|
-|like|likes|
-|read|reads|
-|play|plays|
- 
-|[ ... ][ `o` or `s` or `ch` or `sh` ]|[ ... ][ `o` or `s` or `ch` or `sh` ]`es`|
-|---|---|
-|do|does|
-|pass|passes|
-|wash|washes|
- 
-
-|[ ... ][x]`y`|[ ... ][x]`ies`|
-|---|---|
-|study|studies|
-|carry|carries|
-
-### Ordinal Numbers
-
-> the
-
-| word | # |
-| --- | --- |
-| first | 1st |
-| second | 2nd |
-| third | 3rd |
-| fourth | 4th |
-| fifth | 5th |
-| sixth | 6th |
-| seventh | 7th |
-| eighth | 8th |
-| ninth | 9th |
-| tenth | 10th |
-| eleventh | 11th |
-| twelfth | 12th |
-| twentieth | 20th |
-| twenty-first | 21th |
-| thirtieth | 30th |
-| thirty-ninth | 39th |
-| fortieth | 40th |
-| fiftieth | 50th |
-| sixtieth | 60th |
-| seventieth | 70th |
-| eightieth | 80th |
-| ninetieth | 90th |
-| hundredth | 100th |
-| one hundred and first | 101st |
 
 # LESSON 15
 
@@ -800,50 +521,6 @@ Summer comes after spring. It is the warmest season. It often rains and the crop
 Autumn is a busy season.The days get shorter and the nights longer. It is harvest-time. The peasants are busy. They are getting in the crops.  
 
 Winter is the coldest season of the year. Sometimes it snows and the fields are all white. Skating is the best sport in winter. Many boys and girls often go skating. But the peasants are still busy. They are getting ready for the next year.
-
-## GRAMMAR
-
-The Comparative and Superlative
-Degrees of Adjectives
-
-|[ ... ]|[ ... ]`er`|[ ... ]`est`|
-|---|---|---|
-|tall|taller|tallest|
-|long|longer|longest|
- 
-|[ ... ]`e`|[ ... ]`er`|[ ... ]`est`|
-|---|---|---|
-|nice|nicer|nicest|
- 
-|[ ... ][x]|[ ... ][xx]`er`|[ ... ][xx]`est`|
-|---|---|---|
-|big|bigger|biggest|
-|thin|thinner|thinnest|
-
-|[ ... ][x]`y`|[ ... ][x]`ier`|[ ... ][x]`iest`|
-|---|---|---|
-|happy|happier|happiest|
-|heavy|heavier|heaviest|
-
-|[ ... ]|[`special`]|[`special`]|
-|---|---|---|
-|good|better|best|
-
-------
-
-> N = 2
-
-A sheep is heavy. A horse is heavier.
-Who is younger, Rose or Mary? Mary is younger.
-
-------
-
-> N = 3, `the` [ ... ] (`in`, `of`)
-
-Which is the biggest, the sun, the moon or the earth?  
-The sun is the biggest of the three.
-
-This elephant is the heaviest one in the zoo.
 
 
 # LESSON 16
@@ -910,36 +587,3 @@ T(sitting under the tall tree): Why, hello, Mr Hare! How are you? You're very fa
 H: Yes, but  
 T: But, I'm here first. Now who is faster, you or me?  
 H: Oh! ...
-
-
-## GRAMMAR
-
-The Comparative and Superlative Degrees of Adverbs
-
-|[ ... ]|[ ... ]`er`|[ ... ]`est`|
-|---|---|---|
-|hard|harder|hardest|
-|fast|faster|fastest|
-|high|higher|highest|
-|early|earlier|earliest|
-
-------
-
-|[ ... ]|[`special`]|[`special`]|
-|---|---|---|
-|well|better|best|
-
-------
-
-Rose works hard. Joan works harder. Joan works harder than Rose.
-
-------
-
-> `than`
- 
-A horse is heavier than a sheep.
-
-> `the` is optional
-
-Which goes (the) fastest, a truck, a bike or a car?  
-A car goes (the) fastest of the three.

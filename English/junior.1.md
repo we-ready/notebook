@@ -142,29 +142,6 @@ A: No, it's a sheep. These are all sheep. They're white sheep. What are those?
 B: Why, they're sheep, too. They're black sheep.  
 A: No, they aren't sheep. They're goats.
 
-## GRAMMAR
-
-### The Plural Number of Nouns
-
-book: books  
-ruler: rulers  
-egg: eggs  
-student: students  
-hand: hands  
-rose: roses  
-orange: oranges  
-
-------
-
-bus: buses  
-box: boxes  
-
-------
-
-knife: knives  
-sheep: sheep
-
-
 # LESSON 10
 
 ## DRILLS
@@ -303,18 +280,6 @@ I am an English boy. My name is Mike. I am twelve. My sister's name is Rose. She
 My father is a worker. My mother is a nurse. They work hard.  
 My little brother's name is Jack. He is only four. We all like Jack. 
 
-## GRAMMAR
-
-### be (Verb to be)
-
-I am  
-We are  
-You are  
-She is  
-  
-It is (not) a cock.  
-They are (not) cocks.
-
 
 # LESSON 15
 
@@ -415,26 +380,6 @@ B: She's a driver, a bus-driver.
 A: How old is she?  
 B: She's twenty-three. 
 
-## GRAMMAR
-
-### There be
- 
-There is a house in the picture.  
-There are some trees near the house.  
-
-Is there a horse under the tree?  
-Yes, there is.  
-No, there isn't.  
-There isn't a horse under the tree.
-  
-Are there any cows behind the house?  
-Yes, there are (some).  
-No, there aren't (any).  
-There aren't any cows behind the house.  
-  
-How many hours are there in a day?  
-There are twenty-four hours in a day.
-
 
 # LESSON 19
  
@@ -495,43 +440,3 @@ I am a middle-school student. My name is Wei Fang. I study every day.
 There are twenty boys and twenty-three girls in my class.  
 I come to school at seven thirty.  
 We study Chinese, maths, English and other lessons. We like maths. We like English, too. Some of us are good at it. We work hard. We study for the people.
-
-
-## GRAMMAR
-
-### some special Questions and Answers
-
-What's this? It's a bus.  
-What are these? They're pigs.  
-  
-What's your name? My name is Li Ping.  
-  
-What's your mother? She's a nurse.  
-  
-What's under the table? There's a ball (There are two balls) under it.  
- 
-What day is today? Today is Monday.  
-What time is it? It's seven thirty.  
-What colour is your coat? It's red.  
-  
-What colour are your new shoes? They're blue.  
-
-------
-
-Who's this boy? He's Li Ping.  
-Who are these boys? They're Mike and Jack.  
-
-------
-
-Whose room is this? It's our room.  
-Whose books are these? They're  my books.  
-
-------
-
-Where's the dog? It's in front of the house.  
-Where are the cows? They're behind the house.  
-
-------
-
-How old are you? I'm twelve.  
-How many days are there in a week? There are seven days in a week.

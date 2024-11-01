@@ -45,24 +45,6 @@ Ping: It's required in our school now. But, Dad, English is so hard!
 Dad: It is hard, but when you've learned it, you'll find it a bridge to so much knowledge. And you'll find you can enjoy so many more books, if you know English.  
 Ping: Well, I'll try harder.
 
-## GRAMMAR
-
-The Passive Voice
-
-The Active Voice & The Passive Voice
-
-Many people speak English.  
-English is spokenby many people.  
-  
-Letters are collected from this post-box at 7:30 every morning.  
-Colour TVs are sold in that shop.  
-
-This kind of bike is not made in our factory.  
-Football is played in most middle schools.  
-  
-We often use a recorder in our English class.  
-A recorder is often used (by us) in our English class.
-
 
 # LESSON 2
 
@@ -113,14 +95,6 @@ In 1915 Joe Hill led a strike in Salt Lake City. The bosses knew that Joe was th
 Even while he was in prison, Joe Hill went on writing songs to keep up the workers?fight. Just before he was killed, he sent a message to his comradesall over the country. These were his last words: "Don't waste time mourning. Organize."  
   
 On the day he was killed, a speakerat a big meeting said: "Joe Hill isn't dead! He will never die!"To this day his name is remembered by fighting workers in the United States.
-
-## GRAMMAR
-
-The Passive Voice
-
-The pianist gave the pupilssome advice.  
-The pupilswere givensome advice (by the pianist).  
-Some advicewas givento the pupils (by the pianist)
 
 
 # LESSON 3
@@ -189,16 +163,6 @@ that they do an important and necessary job.
   
 Mrs Turner: That's true. Their job is important and necessary to us all. Mr Turner: Something must be done to end the strike.  
 
-## GRAMMAR
-
-The Passive Voice
-
-The workers have put up a big building in my home town.  
-A big building has been put upin my home town.  
-  
-They took good care of the children.  
-The children were taken good care of.
-
 
 # LESSON 4
 
@@ -243,15 +207,6 @@ Leave a basin of water outside in freezing weather, and it will soon be covered 
 Most matter has three states: solid, liquid and gas. Solids can usually be turned into liquids and liquids into gasesif we raise their temperatures high enough. On  the other hand, gasescan often be turned into liquids and  liquids into solids if they are made cold enough.  
 
 This change of state is a physical change and not a chemical one. If a piece of wood is heated to a high temperature, it begins to burn. Light and heat are sent out, together with heavy smoke, and soon only black charcoal is left. That is called a chemical change.
-
-## GRAMMAR
-
-The Passive Voice
-
-The water is being turned into vapour.  
-This lock can be repaired in two days.  
-The composition must be handed in after class.  
-A basin of water may be turned into a block of ice in freezing weather. 
 
 
 # LESSON 5
@@ -325,41 +280,6 @@ But people killed many mountain lions in order to protect the deer. Soon there w
 It is important for us to keep the balance of nature. This is the lesson we should remember.
 
 
-## GRAMMAR
-
-The Infinitive
-
-He said he had an important meeting to attend.
-Do you have anything to say for yourself?
-The fisherman had nothing to take homethat morning.
-The farmers thought of ways to protect their trees.
-Dr Bethune had no time to think about rest.
-
-It
-
-Where's the dog? It's in front of the house.  
-Is this jacket yours? Yes,it is.  
-
-------
-
-Who is it? It's me.  
-"Im'sorry," the guard said to Lenin. "I didn't know it was you."
-
-------
-
-Don't read in the sun. It's too bright. It's bad for your eyes.
-
-------
-
-What time is it? It's six o'clock.  
-It's September, and we are back at school.  
-It's not far from here to the bus stop.
-It's cold today, isn't it?  
-I hope it will be fine tomorrow.  
-It was raining when I got to school yesterday.  
-It did not snow much last winter.
-
-
 # LESSON 8
 
 ## DRILLS
@@ -405,35 +325,6 @@ As a student, it is bad manners to come late to class. If you are late you shoul
 This kind of help is always appreciated.  
 
 Ideas of what are good manners are not always the same in different countries. But in all countries it is important to be kind and helpful.
-
-## GRAMMAR
-
-The Infinitive
-
-To learn a foreign language is not easy.  
-
-------
-
-It's not easy to learn a foreign language.  
-It's good to see all my teachers and friends again.  
-It took me more than a year to learn to draw a beautiful horse in five minutes.  
-
-------
-
-His wish was to become a scientist.  
-To the doctor, the most important thing wasto save lives.
-
-------
-
-Tell him not to be late.  
-I'll try not to read in bed.  
-The policeman told the boysnot to play in the street.
-
-------
-
-How to use the computer is the question.
-A computer tells the robot what to do.
-The question iswhere to get a computer.
 
 
 # LESSON 9

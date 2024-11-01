@@ -65,18 +65,6 @@ This term I'm going to work for the wall-newspaper. My classmates say I draw wel
 
 I'm going to do my best this year.
 
-## GRAMMAR
-
-### Be going to
-
-> tomorrow, tomorrow afternoon, next week, this year, etc.
-
-We're going to have a new subject this year.  
-Is Li Ping going to play basket-ball with us?  
- 
-What are you going to do next Sunday?  
-It's going to rain this afternoon.
-
 
 # LESSON 2
 
@@ -158,22 +146,6 @@ Wang Lin: See you later.
 
 You'd better write him a letter now.
 
-## GRAMMAR
-
-### Members of the sentence
-
-`The Subject` & `The Predicate`
-
-`We` `work` hard.  
-`Betty` `likes` her new bike.  
-`My parents` `are` both teachers.
-
-`I` `am reading`.  
-`We` `are reading`.  
-`You` `are reading`.  
-`He` (`she`) `is reading`.  
-`They` `are reading`.
-
 
 # LESSON 3
 
@@ -239,42 +211,6 @@ Liu Ying: Must I bring the book back for that?
 Assistant: Yes, you must. And you mustn't lend it to others.  
 Liu Ying: All right, I won't. May I look at some of the new books?  
 Assistant: Certainly. They're over there.
-
-## GRAMMAR 
-
-### Kind of Verbs
-
-#### The Notional Verb
-
-I'm reading the newspaper now.  
-She has some books.  
-They often come back early.
-
-> The `Transitive Verb` (`vt.`) & The `Intransitive Verb` (`vi.`)
-
-#### The Link Verb (link v.）
-
-> `be`, `look`, `turn`, `get`, `become`, etc.
-
-His father `is` a teacher.
-They all `look` fine.
-
-#### The Auxiliary Verb (v. aux.）
-
-> `be`, `do`, `have`, etc.
-
-He `doesn't` speak Russian.
-They `are doing` their homework now.
-`Do` you often go swimming in summer?
-
-#### The Modal Verb
- 
-> `can`, `may`, `must`, `need`, etc.
-
-I `can` speak a little English?  
-`May` I come in?  
-`Must` he go now? No, he `needn't`.  
-`Can` he be at the zoo tomorrow morning?  
 
 
 # LESSON 4
@@ -404,63 +340,6 @@ Quickly the artist brought paper and a brush. In five minutes he finished drawin
 "Come with me, please", said the artist. They went to the artists' workroom. There the king saw piles and piles of paper. On every piece of paper was a picture of a horse." It took me more than a year to learn to draw a beautiful horse in five minutes", the artist said.
 
 
-## GRAMMAR
-
-### The Past Indefinite Tense
-
-> `yesterday`, `yesterday afternoon`, `last year`, `in 1965`, `a moment ago`
-
-I got up at five yesterday, but I didn't get upso early this morning.  
-Did he watch TV last night?  
-I was in Grade One last year.
-
-|[ ... ]|[ ... ]`ed`|
-|---|---|
-|ask|asked|
-|help|helped|
-
-|[ ... ]`e`|[ ... ]`ed`|
-|---|---|
-|dance|danced|
-|love|loved|
-
-|[ ... ][x]|[ ... ][xx]`ed`|
-|---|---|
-|stop|stopped|
-
-|[ ... ]`y`|[ ... ]`ied`|
-|---|---|
-|carry|carried|
-|study|studied|
-
-------
-
-> [d]: `used`, `called`  
-> [d]: `played`, `answered`  
-> [t]: `worked`, `helped`  
-> [t][id], [d][id]: `wanted`, `needed`
-
-------
-
-|[ ... ]|[`special`]|
-|---|---|
-|am, is|was|
-|are|were|
-|bring|brought|
-|come|came|
-|do|did|
-|get|got|
-|go|went|
-|have|had|
-|keep|kept|
-|make|made|
-|run|ran|
-|say|said|
-|see|saw|
-|take|took|
-|tell|told|
-
-
 # LESSON 6
 
 ## DRILLS
@@ -526,51 +405,6 @@ One day, Mr Ampere went out for a walk in the street. There were a lot of people
 Just then, he saw a blackboard in front of him. He ran up to it at once. He took out a piece of chalk and wrote his problem on the blackboard. Then he started to work on it. The blackboard moved a little, but he did not notice it. The blackboard moved on. Mr Apere moved with it. The blackboard started to move away faster and faster. Mr Ampere could not keep up with it any longer. He stopped to have a look.  
 
 What did he see? Why, the "blackboard" was NOT a blackboard. It was the back of a carriage!
-
-## GRAMMAR
-
-### Members of the Sentence
-
-#### The Predicative & The Object & The Object Complement
-
-Her sister is `a nurse`.  
-Are you `ready`?  
-We were at `home` last night.
-
-He needs `help`.  
-Tom has a `story-book`.  
-Did you see `him` yesterday?  
-
-Our teacher told `us` `an interesting story`.  
-He gave `me` some `ink`.  
-
-#### The Complex Object
-
-Let `me stay here`.  
-John asked `me to help him`.  
-
-#### The Attribute & The Adverbial
-
-This is a `green` jeep.  
-Winter is the `coldest` season `of the year`.  
-
-They often draw `in the park`.  
-You are `quite` right.  
-We like this picture `very much`.
-
-------
-
-We `work`. (vi.)  
-I `study` English. (vt.)  
-They `are` Students. (link v.)  
-
-------
-
-He `gave` me some milk. (vt.)  
- 
------
- 
-Li Ping `made` the baby laugh. (vt.)  
 
 
 # LESSON 7
@@ -677,51 +511,6 @@ It's three hundred and eight thousand kilometers away.
 > 9,743: nine thousand, seven hundred and fory-three  
 > 15,978: fifteen thousand, nine hundred and seventy-eight  
 > 748,359: seven hundred and forty-eight thousand, three hundred and fifty-nine.
-
-## GRAMMAR
-
-### The Comparative and Superlative Degrees of Adjectives and adverbs
-
-|[ ... ] | `more` [ ... ] | `most` [ ... ]|
-|---|---|---|
-|difficult | `more` difficult | `most` difficult |
-|interesting | `more` interesting  | `most` interesting|
-|slowly | more slowly | most slowly |
-|carefully | more carefully | most carefully|
-
-|[ ... ]|[special]|[special]|
-|---|---|---|
-| good, well | better | best |
-|bad, ill| worse | worst |
-|many, much|more|most|
-|little|less|least|
-|far|farther, further|farthest, furthest| 
-|old | older, elder | oldest, eldest |
-
-------
-
-This story is more interesting than that one.  
-
-The third question is the most difficult of the three.  
-He listens to the teachers more carefully than you.  
-She writes (the) most carefully of the three.  
-
-> `much`, `a little`, `still`
-
-An elephant is `much` stronger than a horse.  
-Mike is `a little` taller than John.  
-May I keep the book `a little` longer?  
-You can jump `much` higher on the moon than on the earth.
-
-> as [ ... ] as
-
-Joan is just `as` careful `as` Kate.  
-Tom walks `as` fast `as` Mike.  
-
-> `not as` (`so`) [ ... ] `as`
- 
-It is `not as` (`so`) warm today `as` yesterday.  
-He did not come `as` (`so`) early `as` Wang Lin.
 
 
 # LESSON 10
@@ -869,29 +658,6 @@ M: It looks a bit large. Have you a smaller size?
 A: I think it'll fit me quite well before long, Mum. You're always saying I'm growing so fast.  
 M: All right then. We'll take it.
 
-## GRAMMAR
-
-### The Future Indefinite Tense
-
-> `will`, `'ll`, `will not`, `won't`
-
-I`'ll` go to your school tomorrow afternoon.  
-We `won't` have a meeting next Saturday.  
-
-> `shall`
-
-I `shall` write you a letter next month.  
-We `shall` be very glad to see you.
-
-> `will` (willing)
-
-I `will` tell you all about it.
- 
-> `will` (polite)
-
-`Will` you go and see the film with me?  
-`Will` you please open the window?
-
 
 # LESSON 12
 
@@ -953,13 +719,6 @@ The man in the tree came down. With a smile he asked his friend, "The bear put i
 
 The friend answered, "The bear said, Don't trust your friend. He ran away from you when you needed his help most. Remember: A friend in need is a friend indeed."
 
-## GRAMMAR
-
-### The Reflexive Pronouns
-
-myself, yourself, himself, herself, itself
-ourselves, yourselves, themselves 
-
 
 # LESSON 13
 
@@ -1015,44 +774,6 @@ Lenin found his pass and showed it to the guard. The guard looked at it carefull
  
 "I'm sorry." The guard said and his face turned red. "I didn't know it was you."  
 "But you did the right thing," Lenin said. "You are a good comrade. You are strict in your work. We must all be strict in our work".
-
-## GRAMMAR 
-
-### The Infinitive
- 
-> `to` [v] (`to` may be not necessary sometimes) 
-
-`to` read the newspaper  
-`to` speak at the meeting
-
-------
-  
-
-`To` learn English is difficult but very interesting = `It` is difficult but very interesting `to` learn English
-
-  
-------
-
-> 2nd `to` is omitted
-
-They began `to` read and (`to`) write.
-He wanted `to` have a cup of tea.
-
-------
-
-She went `to` see her grandma herself.  
-He stopped `to` have a look.
-
-------
-
-The teacher told us `to` do exercises 1 and 2.  
-Peter asked me `to` help him with his lessons.
-
-------
-
-> There is NO `to` after `let` and `hear`
-
-We often `heard` them sing. `Let` me help you.
 
 
 # LESSON 14

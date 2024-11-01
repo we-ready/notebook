@@ -146,34 +146,6 @@ Nathan Hale looked around as a British soldier put the rope around his neck.
  
 Nathan Hale took a last look at his beautiful country and said "I only regret that I have but one life to lose for my country".  
 
-## GRAMMAR
-
-The Object Clause
-
-I hear (that) physics isn't easy.  
-He said (that) he felt sick.  
-I think (that) you will like the stamps.  
-She told people (that) Rranz Liszt was her teacher.  
-Can't you see (that) I'm a bird?  
-
-------
-
-I take back what I said.  
-Do you know which film they're talking about?  
-I can't tell who is there.  
-Do you know who (whom) they are waiting for?  
-He asked whose dictionary this was.  
-Can you tell mehow I can get to the Summer Palace?  
-Do you know how many pictures they've drawn?  
-Please tell mewhen we'll have the meeting.  
-I don't know why he hasn't come yet.  
-Can you tell me where he is?
-
-------
-
-I want to know whether (if) he lives there.  
-He asked mewhether (if) I could help him.
-
 
 # LESSON 3
 
@@ -282,34 +254,6 @@ The Arab insisted that he had never seen the camel. At last the men took him bef
 The judge and the two men were satisfied with what the Arab had said.  
 Together the four men set out to look for the lost animal.
 
-## GRAMMAR
-
-The Past Perfect Tense
-
-How many English films had you seenby the end of last term?  
-We had reached the station before ten o'clock.
-
-------
-
-The film had already begun when I got to the cinema.  
-Wang Lin had checked the radio before his brother returned.  
-When he had finished his work, he left his office. After I had done my home work, Iwent to bed.
-
-------
-
-The Arab insisted that he had never seen the camel.  
-The students started working in the fields at eight o'clock. The rain had stopped and the sun was shining.
-
-------
-
-He had worked in the north for five years before he moved here.  
-I saw Li Ping yesterday. We had not seen each other since I left Beijing. By the end of last month, my brother had been on that ship for two years.
-
-------
-
-Where did your brother study before he joined the army? After he closed the door, he left the house.  
-As soon as the bell rang for the break, the door opened and in came Mr Smith, the headmaster.
-
 
 # LESSON 5
 
@@ -392,17 +336,6 @@ Inside the pyramids are the rooms for the bodies of the kings and queens. There 
   + I 'll have my hair cut tomorrow.  
   + We had the machine repaired.
 
-## GRAMMAR
-
-The Future-in-the-Past Tense
-
-Betty said shewould visit her uncle next Saturday.  
-Liu Ying asked me who would givethe talk.  
-He told us where wewould have the table tennis match. He said therewould be a concert that evening.  
-I was sure (that) theywould do that.  
-Betty said shewas going to visither uncle next Saturday. He said there was going to bea concert that evening.  
-I was sure (that) theywere going to dothat.
-
 
 # LESSON 8
 
@@ -463,67 +396,6 @@ Everyone looked at Bob.
 "John, I want to apologize for us all," said Mr Smith. "Please stay with us.
 This is a lesson for Bob, for me, and for all of us.
 
-## GRAMMAR
-
-Direct Speech and Indirect Speech
-
-Mr Black said, "Im'busy."  
-Mr Black said that he was busy.  
-
-------
-
-He said, "I like it very much."  
-He said that he liked it very much.  
-
-He said, "I've left my book in your room."  
-He told me that he had left his book in my room.  
-
-------
- 
-He said,"I saw the film yesterday".  
-He said that he had seen the film the day before.  
-
-She said,"I have seen the film. It is good".  
-She said that shehad seen the film, and that it was good.  
-
-------
-
-He said, "Light travels much faster than sound".
-He said that light travels much faster than sound.
-
-------
-
-She said,"I will come thisevening."  
-She said that she would go that evening.  
-
-He said, "My sister was here three days ago, but she is not here now."  
-He said that his sister had been there three days before but she was not there then.
-
-------
-
-now, today, tonight, this week (month, etc.)
-→
-then, that day, that night, that week (month, etc.)
-
-------
-
-yesterday, last week (month, etc.), three days (a year, etc.) ago
-→
-the day before, the week (month, etc.), before three days (a year, etc.)
-
-
-tomorrow, next week (month, etc.)
-→
-before the next day, the next week (month, etc.)
- 
-------
-
-here → there
-
-------
-
-come → go
-
 
 # LESSON 9
 
@@ -572,27 +444,6 @@ Once his mother was ill and she sent for a doctor. The doctor said she needed an
 At the age of twelve, Edison began selling newspapers on a train. When he was free, he printed a newspaper and sold copies to the railway workers.  
 
 One day in August, 1862, Edison saw a little boy playing on the tracks at a station. A train was coming near quickly, and the boy was too frightened to move. Edison rushed out and carried the boy to safety. The boy's father was so thankful that he taught Edison how to send messages by railway telegraph. Edison soon became very good at it and later he left home to work in different cities. This gave him a start in life. At that time he was just a boy of sixteen.
-
-## GRAMMAR
-
-Direct Speech and Indirect Speech
-
-He said, "Are you ready?"  
-He asked (us) if we were ready.  
-
-He said, "Did you see him last night?"  
-He asked (me) whether I had seen him the night before.  
-
-------
-
-"What do you want?" he asked me.  
-He asked me whatI wanted.  
-
-She said to Tom, "How are you feeling now?"  
-She asked Tom how he was feeling then.  
-
-She said, "Where have you been, Mike?"  
-She asked Mike where he had been.
 
 
 # LESSON 10
@@ -652,31 +503,6 @@ Twenty minutes later, when Bethune was operating on the leg of the last soldier,
 
 The guns sounded still closer now, but Dr Bethune worked on. He and the other doctors did not leave until the operation was over.  
 By that time the Japanese were already very near. As Bethune and the other doctors were climbing the hills, they could see the enemy entering the village in the valley below.
-
-## GRAMMAR
-
-Direct Speech and Indirect Speech
-
-[ ... ] someone (not) to do something
-- tell
-- ask
-- order
-
-She said to us, "Please have a rest".  
-She asked us to have a rest.  
-
-He said, "Go away."  
-He ordered [ ... ] to go away.
-- him
-- her
-- the boy
-- me
-
-One of the doctors said, "Let me go on with the operation, Dr Bethune".  
-One of the doctors asked Dr Bethune to let him go on with the operation.  
-
-He said to Dr Bethune, "Don’t go on operating any more".  
-He told Dr Bethune not to go on operating any more.
 
 
 # LESSON 11

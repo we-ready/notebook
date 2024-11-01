@@ -79,109 +79,6 @@ W: What a good girl!
 
 (Liu Mei is very late for the film, but she doesn't mind.)
 
-## GRAMMAR
-
-### The Article
-
-> The `Indefinite Article` & The `Definite Article`
-
-> `a` (`an`)
-
-`a` book, `a` man  
-`an` old woman, `an` hour
-
-> `the`
-
-------
-
-> type, kind
-
-I am `a` boy.  
-Pass me `an` apple, please.
-
-> someone
-
-`A` boy is waiting for you.  
-He borrowed `a` story-book from the library.  
-
-> one
-
-I have `a` mouth, `a` nose and two eyes.
-
-> combination
-
-a bit, a few, a little, a lot of, a piece of, a cup of,
-a glass of, a pile of
-
-------
-
-> specific position or ...
-
-Beijing is `the` capital of China.  
-`The` book on the desk is mine.  
-
-> all know what `the` for
-
-Where is `the` teacher?  
-Openthe window, please.  
-
-------
-
-> mentioned before
-
-There was a chair by the window. On the chair sat a young woman with a baby in her arms. `The` baby was thin.
-
-> only one in the world
-
-`The` earth is bigger than the moon, but smaller than the sun.  
-
-> before special words
-
-Mr Green taught `the` first class.  
-Alice is `the` tallest in her class.
-
-> 
-
-`the` Great Wall, `the` Summer Palace, `the` History Museum, `the` Science Museum, `the` Capital Stadium, `the` Children's Palace, `the` East Street Hospital, `the` Party
-
-------
-
-in `the` day, in `the` morning (afternoon, evening), `the` day after tomorrow, `the` day before yesterday, `the` next morning, by `the` way
-
-> NO `the`
-
-China, Grade Two, Class Three, science, chalk, ink, paper, water, tea, milk  
-
-> already have `this`, `that`, `my`, `your`, `some`, `any`
-
-The letter is in her basket.  
-Go down this street.
-
-> plural
-
-My father and mother are `teachers`.  
-She likes reading `stories`.
-
-> day, season
- 
-Today is New Year's Day.  
-It is Sunday (Monday, Tuesday, etc)  
-March 8 is Women's Day. It is cold in winter.
-
-> title, call
-
-What's the matter, `Granny`?  
-This is `Comrade Wang`.
-
-> 
-
-at moon, at night, at first, at last, by bus, in bed, in time, in front of, go to school, go to bed
-
-> meal and ball sports
-
-He goes to school after `breakfast`.  
-We are going to play `football`.
-
 
 # LESSON 2
 
@@ -232,42 +129,6 @@ The baby crocodile thought hard. Then he had an idea. He swam near the tree and 
 
 (To be continued)  
  
-## GRAMMAR
-
-### The Interrogative Sentence
-
-#### The General Question
-
-> answer with `yes` or `no`
-
-Is she a worker?  
-Have you any paper?  
-Does he study English?
-
-#### The Special Question
-
-> start with `what`, `who`, `which`, `when`, `where`, `why`, `how`
-
-What's this?  
-Who's the boy over there?  
-When do you get up?  
-
-#### The Alternative Question
-
-> two General Questions connected by `or`
-
-Is her brother a doctor `or` a teacher?  
-Do you want a newspaper `or` a magazine?  
-Shall we have a meeting this week or next?  
-
-#### The Disjunctive Question
-
-He's a teacher (↘), isn't he (↗)?  
-She's a nurse (↘), isn't she (↗)?  
-
-Yes, he is.
-No, he isn't.
-
 
 # LESSON 3
 
@@ -317,27 +178,6 @@ The crocodile looked up. The monkey was hanging from the tree by his tail and la
 "Here's my heart. Come up and get it. Don't keep your mother waiting. You can't come up? Well, catch!"  
 
 With these words, he threw the big stone at the crocodile.
-
-## GRAMMAR
-
-### The Past Continuous Tense
-
-> `was` (`were`) + [v]-ing
- 
-A: What were you doing this time yesterday?  
-B: We were cleaning the classroom.  
-
-Mum was doing some washing yesterday evening.  
-
-The teacher was talking to some parents when I saw her.  
-
-------
-
-Mary wrote a letter to her friend last night.  
-> The writing action is over. The letter is done.
-
-Mary was writing a letter to her friend last night.  
-> The writing action may or may not be over.
 
 
 # LESSON 4
@@ -394,31 +234,6 @@ When she hurried into her classroom, Mr Black was already beginning his lesson. 
   
 (To be continued)
 
-## GRAMMAR
-
-### Types of Sentences
-
-#### The Simple Sentence
-
-I get up at six in the morning.  
-My sister and I go to school together.  
-
-#### The Compound Sentence
-
-> two simple sentences conntected by `and`, `so`, `but`, `yet`, `or`, etc.
-
-I help him and he helps me.  
-Mr Black was ill, so she was taking his class instead.  
-Zhang Ying likes English, but he needs help.  
-You can draw a good horse in five minutes, yet you kept me waiting for a year.
-
-#### The Complex Sentence
-
-I'll tell him as soon as I see him.  
-When the crocodile came up again, the monkey was all wet.  
-I'll go to see you if I have time.
-I think you can find him at home.
-
 
 # LESSON 5
 
@@ -473,32 +288,6 @@ As soonas the bell rang for the break, the door opened and in came Mr Smith, the
 "It was Jenny White."   
 Mr Black's face slowly turned red. He looked at Jenny and said, "I'm sorry, Jenny. I take back what I said".  
 "And I'm very sorry, Mr Black. I'll try not be late again." Jenny said.
-
-## GRAMMAR
-
-### The Adverbial Clause
-
-> about time, use `when`, `before`, `after`, `as soon as`, `as`
-
-Was it raining `when` you came to school yesterday?  
-Where did your brother study `before` he joined the army?  
-I went to bed `after` the TV play was over.  
-I'll give the note to him `as soon as` I see him.  
-`As` the crocodile was waiting, he suddenly heard a voice from above.  
-
-> about condition, use `if`
-
-I'll go with you to the cinema this afternoon `if` I'm free.  
-
-> about reason, use `because`
-
-The swimming pool won't be open today `because` they're changing the water.  
-
-> to compare, use `than`, `as` ... `as`, `not as` (`so`) ... `as`
-
-The earth is bigger `than` the moon (is).  
-This story is `as` interesting `as` that one (is).  
-Betty is not `as` tall `as` Rose (is).
 
 
 # LESSON 6
@@ -733,28 +522,6 @@ I have to finish this letter now. Ask Uncle John and Aunt Alice to bring you, to
 Yours,  
 Mike
 
-## GRAMMAR
-
-### The Present Perfect Tence
-
-> `have` (`has`) + [v]
-
-I `have` already posted the photos.  
-He `has` learned English for about two years.  
-They `have` lived in Beijing since 1980.
-
-> CANNOT be used with `yesterday`, `last week`, `three years ago`, `in 1960`, etc.  
-> CAN be used with `already`, `never`, `ever`, `just`, `yet`
-
-He `has` `already` done his exercises.  
-I `haven't` learned the word `yet`.  
-
-> CAN be used with `today`, `these days`, `since`, `for a long time`
-
-`Have` you seen her `these days`?  
-We `have` lived in that street `for a long time`.  
-He `has` taught at this school `since 1965`.
-
 
 # LESSON 11
 
@@ -851,22 +618,6 @@ The earth is one of the sun's planets, and the moon is our satellite. It is our 
 Many countries have sent up man-made satellites to circle the earth. With their help, people have done much research in many fields of science.  
 
 Our country sometimes uses man-made satellites to send and receive TV programmes. This has helped the people of China and other countries to understand each other better.
-
-## GRAMMAR
-
-### The Present Perfect Tence
-
-I have seen the film.  
-I saw the film last week.  
-He has lived here since 1972.  
-He lived here in 1972.  
-
-> `have` (`has`) `been` & `have` (`has`) `gone`
-
-Where `has` he `been`?
-Where `has` he `gone`?
-She `has been` to Shanghai.
-She `has gone` to Shanghai.
 
 
 # LESSON 13
