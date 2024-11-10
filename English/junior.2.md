@@ -6,7 +6,7 @@
 
 What's in the room?  
 There's a table.  
-  
+
 Are there any bowls on the table?  
 Yes, there are. And there are some plates, too.
 
@@ -14,7 +14,7 @@ Yes, there are. And there are some plates, too.
 
 What's on the two plates?  
 There's some fish on one plate. There's some bread on the other.  
-  
+
 What's in the bowls?  
 There's some meat in this one. There isn't any meat in that one. There's some rice in it.
 
@@ -24,7 +24,7 @@ What's in those glasses?
 There's some water in them.  
 Please pass me a glass of water.  
 Here you are.  
-  
+
 What's in these cups?  
 There's some tea in them.  
 Please give him a cup of tea.  
@@ -77,7 +77,7 @@ Tom has a story-book. Has Jack a story-book, too?
 No, he hasn't. He has some picture-books.  
 How many picture-books has he? He has four.
 
-> hasn't  = has not
+> hasn't = has not
 
 ### C
 
@@ -99,7 +99,7 @@ All right.
 
 WHAT IS IT?
  
-I have a good friend. It has a round face. On its face, it has three hands. One is short, the other two are long. It has no arms, but its hands turn round and round. It has no feet or legs, but it can go all day and all night.
+I have a good friend. It has a round face. On its face, it has three hands. One is short, the other two are long. It has no arms, but its hands turn round and round. It has no feet or legs, but it can go all day and all night.  
 
 It has no eyes and no ears. It has no mouth, but it can talk. In the morning it can wake me up and tell me, "It's time to get up."  
 
@@ -188,7 +188,7 @@ Rose is writing. Jack isn't writing. He's looking out of the window.
 Close the door please, Alice.  
 What are you doing, Alice?  
 I'm closing the door.  
-  
+
 Open the window please, Alice!  
 What's she doing, Peter?  
 She's opening the window.
@@ -332,7 +332,7 @@ Mary: Look, there she is. She's climbing the hill with Rose.
 
 ### A
 
-I'm doing my homework now. I do my homework everyday.  
+I'm doing my homework now. I do my homework every day.  
 
 They're playing football now. They play football every Tuesday. Sometimes they play on Friday.
 
@@ -414,7 +414,7 @@ THE COCK AND THE FOX
 
 It is evening. An old cock is sitting in a tall tree. A fox comes to the tree and looks up at the cock.  
 
-"Hello, Mr Cock. I have some good news for you", says the fox.  
+"Hello, Mr. Cock. I have some good news for you", says the fox.  
 "Oh?" says the cock. "What is it?"  
 "All the animals are good friends now. Let's be friends, too. Please come down and play with me".  
 
@@ -426,7 +426,7 @@ It is evening. An old cock is sitting in a tall tree. A fox comes to the tree an
 "Yes. Oh, they're dogs".  
 "What? Dogs?" asks the fox. "Well, well, I must go now. Good-bye".  
 
-"Wait, Mr Fox," says the cock. "Don't go. They're only dogs. And dogs are our friends now".  
+"Wait, Mr. Fox," says the cock. "Don't go. They're only dogs. And dogs are our friends now".  
 "Yes. But perhaps they don't know that yet."  
 "I see, I see," says the cock. He smiles and goes to sleep high up in the tree.
  
@@ -439,7 +439,7 @@ It is evening. An old cock is sitting in a tall tree. A fox comes to the tree an
 
 What do you do on Sunday?  
 I usually do some cleaning.  
-What does your brother do? 
+What does your brother do?  
 He plays football with his friends.
 
 ### B
@@ -453,7 +453,7 @@ She usually goes to work at twenty to eight.
 
 ### C
 
-Where do you live? 
+Where do you live?  
 I live in Beijing.  
 Where does your grandpa live?  
 He lives in Shanghai.
@@ -518,7 +518,7 @@ Spring is the best season of the year. The weather gets warmer, and the days get
 
 Summer comes after spring. It is the warmest season. It often rains and the crops grow fast. The best sport in summer is swimming in rivers and lakes.  
 
-Autumn is a busy season.The days get shorter and the nights longer. It is harvest-time. The peasants are busy. They are getting in the crops.  
+Autumn is a busy season. The days get shorter and the nights longer. It is harvest-time. The peasants are busy. They are getting in the crops.  
 
 Winter is the coldest season of the year. Sometimes it snows and the fields are all white. Skating is the best sport in winter. Many boys and girls often go skating. But the peasants are still busy. They are getting ready for the next year.
 
@@ -550,7 +550,7 @@ Who comes to school the earliest? Mary comes to school the earliest.
 
 ### D
 
-Who dances the best in your class? Katedoes.  
+Who dances the best in your class? Kate does.  
 Who runs the fastest in your class? John does.  
 Who works the hardest in your class? Mary does.
 
@@ -561,29 +561,30 @@ WHO IS FASTER
 T ---- Tortoise  
 H ---- Hare  
 
-T: Hello, Mr Hare!  
-H: Oh, it's you, Mr Tortoise. What are you doing?  
+T: Hello, Mr. Hare!  
+H: Oh, it's you, Mr. Tortoise. What are you doing?  
 T: I'm running.  
 H: Running? Ha ha! You can't run. Your legs are too short!  
 T: Of course I can.  
 H: My legs are longer than yours. I'm sure I can run faster than you.  
 T: Don't be so sure.  
-H: Well then, let's run to the tall tree over there. Let's see who gets there first.  T: All right.  
+H: Well then, let's run to the tall tree over there. Let's see who gets there first.  
+T: All right.  
 H: Ready? Go!  
  
-(Mr Tortoise goes very slowly. Mr Hare runs much faster. In a minute he comes to a small tree).  
+(Mr. Tortoise goes very slowly. Mr. Hare runs much faster. In a minute he comes to a small tree).  
 
-H: Where's Mr Tortoise? Aha! There he is. He's far behind me. How slow he is! I'm much faster. Mmm, it's hot! Ahh, here's a tree. Let me have a rest under it. It's so nice and cool.  
+H: Where's Mr. Tortoise? Aha! There he is. He's far behind me. How slow he is! I'm much faster. Mmm, it's hot! Ahh, here's a tree. Let me have a rest under it. It's so nice and cool.  
 
 (Soon he is asleep)  
 
-(Mr Tortoise comes up. He looks at Mr Hare and goes on)  
+(Mr. Tortoise comes up. He looks at Mr. Hare and goes on)  
 
-H (waking up): Ah, what a good sleep! Now, where's Mr Tortoise? Where is he? I don't see him.  
+H (waking up): Ah, what a good sleep! Now, where's Mr. Tortoise? Where is he? I don't see him.  
 
 (Runs to the tall tree)  
 
-T(sitting under the tall tree): Why, hello, Mr Hare! How are you? You're very fast, aren't you?  
+T(sitting under the tall tree): Why, hello, Mr. Hare! How are you? You're very fast, aren't you?  
 H: Yes, but  
 T: But, I'm here first. Now who is faster, you or me?  
 H: Oh! ...

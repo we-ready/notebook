@@ -355,7 +355,7 @@ MY TEACHER
 
 　　It happened at the well where I was holding a jar while Annie pumped. As the water splashed onto my hand, she kept spelling w-a-t-e-r into my other hand with her fingers. Suddenly I understood!
 
-　　It was the first joy I had known for years. I reached out to Annie’s hand. She understood I was begging for new words, for the names of the things I touched. The words - so full of meaning - flew from her hand to mine. Those first words were to change my world.
+　　It was the first joy I had known for years. I reached out to Annie's hand. She understood I was begging for new words, for the names of the things I touched. The words - so full of meaning - flew from her hand to mine. Those first words were to change my world.
 
 　　One of the first things Annie did was to teach me to play. I had not laughed since I became deaf. One day she came into my room laughing merrily. Putting my hand on her face, she spelt l-a-u-g-h. Then she tickled me into a burst of laughter. Next Annie took me by the hand and taught me how to hop and skip. She then immediately spelt the words h-o-p and s-k-i-p for me. In a few days I was learning - and enjoying it - like any child.
 

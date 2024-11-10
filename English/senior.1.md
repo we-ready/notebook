@@ -397,7 +397,7 @@ Crusoe looked about the cave. The ground and the sides were quite dry. Inside, t
 
 Crusoe had eleven guns altogether. He brought five of them to his new cave and a great deal of gun-powder. The cave was quite dark inside, so he made some candles to give light.
 
-Now he had a safe place if the savages came.  Every day he climbed to a high rock near his cave to keep watch. And so the months and years went by.
+Now he had a safe place if the savages came. Every day he climbed to a high rock near his cave to keep watch. And so the months and years went by.
 
 It was autumn, the time for Crusoe to gather his small harvest of corn. Early one morning, before starting work, he climbed up to his lookout.
 

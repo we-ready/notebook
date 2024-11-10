@@ -4,7 +4,7 @@
 
 ### A
 
-A: Where's Mr Evans?  
+A: Where's Mr. Evans?  
 B: He's gone to Washington.  
 A: When will he be back, do you know?  
 B: I [ ... ] he'll be back in a month.
@@ -34,7 +34,7 @@ A: Do you know who (whom) [ ... ]?
 - they're waiting for
 - what they're looking for
 - which film they're talking about
-  
+
 B: Sorry, I don't.
 
 ## TEXT
@@ -58,7 +58,7 @@ But things changed soon. Now it seemed that the beasts were winning. So the bat 
 
 "Who are you trying to fool?" said the animals. "We saw you fighting on the side of the birds just now".  
 
-So the beasts drove him off. Of course the birds refused to take him back.  
+So the beasts drove him off. Of course, the birds refused to take him back.  
 
 When the beasts and the birds saw neither side could win, they decided to stop fighting.  
 
@@ -94,12 +94,13 @@ B: That's all right.
 
 ### C
 
-A: May we ask you some questions now, Mr White? B: Yes, please.  
+A: May we ask you some questions now, Mr. White?  
+B: Yes, please.  
 A: Could you tell us if (whether) [ ... ]?
-- it snows in winter in australia
+- it snows in winter in Australia
 - there's plenty of rain in your country
 - you grow cotton in your country
-  
+
 B: Yes, I'm coming to that.
  
 ## TEXT
@@ -114,9 +115,9 @@ The American's heart beat faster. He took off his boots and handed them to the g
  
 "Use your knife, man!" ordered the British officer nearby.  
 
-The guard brought out his knife and cut one boot open. He stopped suddenly and the American knew what it meant. The maps of the British army's defence works!  
+The guard brought out his knife and cut one boot open. He stopped suddenly and the American knew what it meant. The maps of the British army's defense works!  
 
-The guards took the American to General Howe. The general looked at the maps. "I see you've made some drawings of our defence works", he said. "This can only mean one thing".  
+The guards took the American to General Howe. The general looked at the maps. "I see you've made some drawings of our defense works", he said. "This can only mean one thing".  
 
 "Yes, sir".  
 
@@ -156,8 +157,8 @@ Nathan Hale took a last look at his beautiful country and said "I only regret th
 A: Martin called you a moment ago.  
 B: Did he? What did he say?  
 A: He asked if (whether) [ ... ].
-- Mr Howe had come back.
-- you had met Mr Howe at the railway station
+- Mr. Howe had come back.
+- you had met Mr. Howe at the railway station
 - you had written to Peter
 - your parents had bought a pair of boots for you
 
@@ -183,11 +184,11 @@ The man in the shop looked at him. Had he heard him correctly?
 
 "I beg your pardon, sir?" he asked.  
 
-The Frenchman repeated:"I want some medicine for my cow." "For your cow?" asked the man. "Are you a farmer?"  
+The Frenchman repeated: "I want some medicine for my cow." "For your cow?" asked the man. "Are you a farmer?"  
 "A farmer?" said the Frenchman in surprise. "What makes you think you think I'm a farmer? I come from Paris. I'm not a farmer."
 "Where's your cow, then"? asked the man in the shop.
 
-"It's here!" replied the Frenchman. He put his hand on his chest and began to cough."Here it is!" he said. "I've a very bad cow here."
+"It's here!" replied the Frenchman. He put his hand on his chest and began to cough. "Here it is!" he said. "I've a very bad cow here."
 
 Then the man in the shop understood what the Frenchman meant. He wanted some medicine for his cough.
 
@@ -236,7 +237,7 @@ An Arab was walking alone through the desert when he met two men. The men looked
 
 "Yes, he was".  
 
-"Had  he lost a tooth and was he carrying corn" ?  
+"Had he lost a tooth and was he carrying corn" ?  
  
 "Yes", said the men. "Please tell us where he is".
  
@@ -246,10 +247,10 @@ An Arab was walking alone through the desert when he met two men. The men looked
 
 "No."   
 
-The two men looked at each other in surprise. They could not believe the Arab's words. Finally, they came up close to him, took hold of him, and shouted:"Where's  the animal? And what have you done with our goods?"  
+The two men looked at each other in surprise. They could not believe the Arab's words. Finally, they came up close to him, took hold of him, and shouted: "Where's the animal? And what have you done with our goods?"  
 
 The Arab insisted that he had never seen the camel. At last the men took him before a judge. They said that the Arab had stolen their camel.  
-"I've never seen their camel," insisted the Arab. "But I'm a man of the desert, and I've learned to look carefully at everything I see. This morning I saw the tracks of a lost camel. I knew this because there were no man's tracks near those of the  camel. I also saw that the camel must be blind in the right eye, because he had only eaten the grass on his left side and had not touched the grass on his right. The animal was lame because with one foot he left a track much lighter than any of the others. He had lost a tooth, because wherever he ate grass, there was always a small space left untouched. I also found groups of ants near the tracks of the camel. They were pulling pieces of corn. From these facts I was able to tell what goods the animal was carrying."  
+"I've never seen their camel," insisted the Arab. "But I'm a man of the desert, and I've learned to look carefully at everything I see. This morning I saw the tracks of a lost camel. I knew this because there were no man's tracks near those of the camel. I also saw that the camel must be blind in the right eye, because he had only eaten the grass on his left side and had not touched the grass on his right. The animal was lame because with one foot he left a track much lighter than any of the others. He had lost a tooth, because wherever he ate grass, there was always a small space left untouched. I also found groups of ants near the tracks of the camel. They were pulling pieces of corn. From these facts I was able to tell what goods the animal was carrying."  
 
 The judge and the two men were satisfied with what the Arab had said.  
 Together the four men set out to look for the lost animal.
@@ -301,7 +302,7 @@ A: She said [ ... ].
 - she was going to spend her holiday with her parents in Egypt
 - she wasn't going to be free this Saturday
 - she was going to prepare for her trip
-  
+
 B: Thanks for telling me.
 
 ### B
@@ -310,7 +311,7 @@ A: Did you ask Kate [ ... ]?
 - whether they would fly to Egypt
 - what they would do there
 - when they would return
-  
+
 B: Yes. She said [ ... ].
 - they would go there by air
 - they would visit the pyramids
@@ -320,20 +321,20 @@ B: Yes. She said [ ... ].
 
 THE PYRAMIDS
 
-Thousands of years ago, the kings of Egypt built strong tombs for themselves. Over these tombs they built pyramids. They thought their bodies would be well kept in these until they could come back to life. They also hoped the world would look on the pyramids as monuments to them and would remember them for ever.  
-
-There are around 80 pyramids in  Egypt. But the Great Pyramid is the biggest of all. It is nearly 5,000 years old. It is about 137 metres high today, but it was once higher. It is made of 2,300,000 huge stones. Most of them are higher than a man and weigh about two and a half tons each. Some weigh as much as fifteen tons. It took more than 100,000 men twenty years to build the Great Pyramid.
-
-When you look at the pyramids, you can't help wondering how the Egyptians were able to build them thousands of years ago. How did they cut, carry and lift such huge stones? Each stone fits so well, yet they didn't have our modern machines! Scientists have studied the pyramids, but nobody can tell just how the Egyptians built them so long ago.  
-
+Thousands of years ago, the kings of Egypt built strong tombs for themselves. Over these tombs they built pyramids. They thought their bodies would be well kept in these until they could come back to life. They also hoped the world would look on the pyramids as monuments to them and would remember them forever.
+  
+There are around 80 pyramids in Egypt. But the Great Pyramid is the biggest of all. It is nearly 5,000 years old. It is about 137 meters high today, but it was once higher. It is made of 2,300,000 huge stones. Most of them are higher than a man and weigh about two and a half tons each. Some weigh as much as fifteen tons. It took more than 100,000 men twenty years to build the Great Pyramid.
+  
+When you look at the pyramids, you can't help wondering how the Egyptians were able to build them thousands of years ago. How did they cut, carry and lift such huge stones? Each stone fits so well, yet they didn't have our modern machines! Scientists have studied the pyramids, but nobody can tell just how the Egyptians built them so long ago.
+  
 Inside the pyramids are the rooms for the bodies of the kings and queens. There are lots of wonderful treasures in the pyramids, too. Thieves have broken into some of the pyramids and taken away many of the treasures to foreign countries. They have even stolen the mummies. Today some of the mummies and treasures are on show in museums in different countries. When the kings had the pyramids built for them, they perhaps never thought this would happen.
 
 ------
 
 - 2,300,000, two million three hundred thousand
-- can't  help doing
+- can't help doing
 - had the pyramids built
-  + I 'll have my hair cut tomorrow.  
+  + I 'll have my hair cut tomorrow.
   + We had the machine repaired.
 
 
@@ -343,49 +344,49 @@ Inside the pyramids are the rooms for the bodies of the kings and queens. There 
 
 ### A
 
-Mr Smith said, "John is a good worker".  
-Mr Smith said that john was a good worker.  
+Mr. Smith said, "John is a good worker".  
+Mr. Smith said that john was a good worker.  
 
-John said,"I want to forget the past".  
+John said, "I want to forget the past".  
 John said that he wanted to forget the past.  
 
-John said,"I can get on well with the people here."  
+John said, "I can get on well with the people here."  
 John said that he could get on well with the people there.  
 
 ### B
 
-Mr Smith said, "John told me all about his past three weeks ago."  
-Mr Smith said that John had told him all about his past three weeks before.  
+Mr. Smith said, "John told me all about his past three weeks ago."  
+Mr. Smith said that John had told him all about his past three weeks before.  
 
 Bob's wife said, "Bob, you forgot your wallet this morning."   
 Bob's wife told him that he had forgotten his wallet that morning.
 
 ### C
 
-John said to Bob,"I haven't seen your wallet."  
+John said to Bob, "I haven't seen your wallet."  
 John told Bob that he hadn't seen his wallet.  
 
-Mr Smith said to the workers, "John has worked very hard and I want him to stay."  
-Mr Smith told the workers that John had worked very hard and that he wanted him to stay.
+Mr. Smith said to the workers, "John has worked very hard and I want him to stay."  
+Mr. Smith told the workers that John had worked very hard and that he wanted him to stay.
 
 ## TEXT
 
 ONCE A THIEF, ALWAYS A THIEF?
 
-Mr Smith, the bossof a small factory, once hired a young worker called John Hill. On the first day, Mr Smith took John to one of his workshopsand introduced him to the other workers. The men introduced themselvesto John and showed him around the factory. Then John started to work.
-
+Mr. Smith, the boss of a small factory, once hired a young worker called John Hill. On the first day, Mr. Smith took John to one of his workshops and introduced him to the other workers. The men introduced themselves to John and showed him around the factory. Then John started to work.
+  
 John was good at his job. Soon he got a rise. And he got on well with his workmates. He hoped they would like him.
-
-But one morning John noticed that his workmates were looking at him and talking in low voices. Then Bob, one of his workmates, came up to him and asked whether it  was true that  he had been a  thief and had just come out of prison.
-John?s heart sank. He had been afraid of this all along. He told them that he had been in prison, but he was no longer a thief and wanted to forget the past.
-
-The  workers  went to Mr Smith  and  asked him  to  fire  John. Mr Smith explained to them that John had told him all about his past when he asked for a job  in  his factory. That showed John was honest. Since a  lot of people make mistakes in life, Mr Smith wanted to give John a chance. The workers went back and John stayed. But after that they were not as friendly to him as before.
-
+  
+But one morning John noticed that his workmates were looking at him and talking in low voices. Then Bob, one of his workmates, came up to him and asked whether it was true that he had been a thief and had just come out of prison.
+John's heart sank. He had been afraid of this all along. He told them that he had been in prison, but he was no longer a thief and wanted to forget the past.
+  
+The workers went to Mr. Smith and asked him to fire John. Mr. Smith explained to them that John had told him all about his past when he asked for a job in his factory. That showed John was honest. Since a lot of people make mistakes in life, Mr. Smith wanted to give John a chance. The workers went back and John stayed. But after that they were not as friendly to him as before.
+  
 One afternoon about a week later, Bob could not find his wallet. He went to
- 
+  
 John and asked whether he had seen his wallet. But John said he knew nothing about it. When Bob tried to catch hold of his arm, John hit him in the face. Bob fell to the ground and blood ran down his nose.
-
-Mr Smith came out to see what was happening. The workers  again asked him to let John go. They said they would all leave if John stayed. Mr Smith knew what that would mean. So he had to give in and say sorry to John.
+  
+Mr. Smith came out to see what was happening. The workers again asked him to let John go. They said they would all leave if John stayed. Mr. Smith knew what that would mean. So he had to give in and say sorry to John.
 
 Just at that moment, in came a woman. It was Bob's wife. She called out, "Bob, you forgot your wallet when you left home this morning. I thought you would need it, so I brought it over to you".
 
@@ -393,7 +394,7 @@ Everyone looked at Bob.
 
 "John, I'm sorry," said Bob with a red face.
 
-"John, I want to apologize for us all," said Mr Smith. "Please stay with us.
+"John, I want to apologize for us all," said Mr. Smith. "Please stay with us.
 This is a lesson for Bob, for me, and for all of us.
 
 
@@ -404,14 +405,14 @@ This is a lesson for Bob, for me, and for all of us.
 
 ### A
 
-Mr Howe: [ ... ]
+Mr. Howe: [ ... ]
 - Is your party going to start at 7 o'clock?
 - Will all of you take part in it?
-- Are you preparing for it?  
-
-Mrs Brown (to Mary): Did you catch what he said?  
+- Are you preparing for it?
+  
+Mrs. Brown (to Mary): Did you catch what he said?  
 Mary: Yes. He asked [ ... ]
-- if our party was going to start at 7 o'clock.  
+- if our party was going to start at 7 o'clock.
 - if all of us would take part in it.
 - if we were preparing for it.
 
@@ -422,8 +423,7 @@ Shop Assistant: [ ... ]
 - Which one do you like best?
 - What else would you like?
 
-Mrs Hill: What did he say, Jack?  
-
+Mrs. Hill: What did he say, Jack?  
 Jack: He asked [ ... ].
 - what size dress you wore
 - which one you liked best
@@ -433,17 +433,17 @@ Jack: He asked [ ... ].
 
 EDISON'S BOYHOOD
 
-Thomas Edison was born in 1847. When he was a child, he liked t find out how things worked. One day when he was five, his father saw him sitting on some eggs, and asked what he was doing that for. Tom did not reply. Instead, he asked his father why he was not able to hatch chickens while hens could.  
-
-Young Tom was in school for only three months. During those three months, he asked a lot of questions. Most of them had nothing to do with his lessons. His teacher did not understand why the boy had so many strange questions. He told Tom's mother that Tom was not bright and was not worth teaching. His mother took him out of school and taught him herself. The boy read a lot. He became very interested in science.  
-
-By the time he was ten, he had already built a chemistry lab for himself. He planted vegetables in his garden and sold them to buy what he needed for his lab.  
-
-Once his mother was ill and she sent for a doctor. The doctor said she needed an operation at once. But it was night and the lamp in the room gave poor light. Edison thought hard. Finally he had an idea. He collectedall the lamps in the house and put them on a long table. Then he placed a big mirror behind them. Now there was enough light, so the doctor could operate. Edison's mother was saved.  
-
-At the age of twelve, Edison began selling newspapers on a train. When he was free, he printed a newspaper and sold copies to the railway workers.  
-
-One day in August, 1862, Edison saw a little boy playing on the tracks at a station. A train was coming near quickly, and the boy was too frightened to move. Edison rushed out and carried the boy to safety. The boy's father was so thankful that he taught Edison how to send messages by railway telegraph. Edison soon became very good at it and later he left home to work in different cities. This gave him a start in life. At that time he was just a boy of sixteen.
+Thomas Edison was born in 1847. When he was a child, he liked to find out how things worked. One day when he was five, his father saw him sitting on some eggs, and asked what he was doing that for. Tom did not reply. Instead, he asked his father why he was not able to hatch chickens while hens could.
+  
+Young Tom was in school for only three months. During those three months, he asked a lot of questions. Most of them had nothing to do with his lessons. His teacher did not understand why the boy had so many strange questions. He told Tom's mother that Tom was not bright and was not worth teaching. His mother took him out of school and taught him herself. The boy read a lot. He became very interested in science.
+  
+By the time he was ten, he had already built a chemistry lab for himself. He planted vegetables in his garden and sold them to buy what he needed for his lab.
+  
+Once his mother was ill and she sent for a doctor. The doctor said she needed an operation at once. But it was night and the lamp in the room gave poor light. Edison thought hard. Finally he had an idea. He collected all the lamps in the house and put them on a long table. Then he placed a big mirror behind them. Now there was enough light, so the doctor could operate. Edison's mother was saved.
+  
+At the age of twelve, Edison began selling newspapers on a train. When he was free, he printed a newspaper and sold copies to the railway workers.
+  
+One day in August, 1862, Edison saw a little boy playing on the tracks at a station. A train was coming near quickly, and the boy was too frightened to move. Edison rushed out and carried the boy to safety. The boy's father was so thankful that he taught Edison how to send messages by railway telegraph. Edison soon became very good at it and later he left home to work in different cities. This gave him a start in life. At that time, he was just a boy of sixteen.
 
 
 # LESSON 10
@@ -468,10 +468,10 @@ Student B: She told us [ ... ].
 ### B
  
 Granny: [ ... ].
-- Don’t play with the cat any more
-- Don’t be late for school, Xiao Hai
-- Don’t  drink this water
-- Don’t  get your hands dirty
+- Don't play with the cat any more
+- Don't be late for school, Xiao Hai
+- Don't drink this water
+- Don't get your hands dirty
 
 Xiao Hai: What did Granny say just now?  
 Yu Lin: Granny told you [ ... ].
@@ -483,24 +483,21 @@ Yu Lin: Granny told you [ ... ].
 
 DR BETHUNE
 
-It was late on the night of October 20, 1939, when Dr Bethune was busy working in a field hospital. An Eighth Route Army man riding a horse came from the front. He told Dr Bethune that the front was in great need of medical workers. Immediately, Dr Bethune set off with a medical team.  
-
-On their way, they met a group of wounded Eighth Route Army men. They took the wounded soldiers into a small temple at once and Bethune began to operate on them.  
-
+It was late on the night of October 20, 1939, when Dr Bethune was busy working in a field hospital. An Eighth Route Army man riding a horse came from the front. He told Dr Bethune that the front was in great need of medical workers. Immediately, Dr Bethune set off with a medical team.
+  
+On their way, they met a group of wounded Eighth Route Army men. They took the wounded soldiers into a small temple at once and Bethune began to operate on them.
+  
 Dr Bethune went on working throughout the night. When someone asked him to have a rest, he just went on working. To him, the most important thing was to save lives. He had no time to think about rest.
-
-The next day while an operation was going on, a young man ran in and said to the doctors, "Several hundred enemy soldiers are coming." Soon they heard the sound of guns. But Dr Bethune still went on with his work.  
-
-Twenty minutes later, when Bethune was operating on the leg of the last soldier, the guns sounded much closer. Again the young man rushed in and told Dr Bethune not to go on operating any more. "Comrade Bethune, you must leave now!" he cried.  
- 
+  
+The next day while an operation was going on, a young man ran in and said to the doctors, "Several hundred enemy soldiers are coming." Soon they heard the sound of guns. But Dr Bethune still went on with his work.
+  
+Twenty minutes later, when Bethune was operating on the leg of the last soldier, the guns sounded much closer. Again the young man rushed in and told Dr Bethune not to go on operating any more. "Comrade Bethune, you must leave now!" he cried.
+   
 "Let me go on with the operation"  
-
 "right now, Dr Bethune. Hurry!" said one of the doctors. "You must leave"  
-
 "Please go, Doctor," begged the wounded soldier himself. "It's not a bad wound. Take me with you, or leave me here, but please go before the enemy comes".  
-
-"Never mind, my boy, it won't take long," said Dr Bethune. "If I spend a few more minutes on it now, I can save your leg. But if I don't, you'll lose it."  
-
+"Never mind, my boy, it won't take long," said Dr Bethune. "If I spend a few more minutes on it now, I can save your leg. But if I don't, you'll lose it."
+  
 The guns sounded still closer now, but Dr Bethune worked on. He and the other doctors did not leave until the operation was over.  
 By that time the Japanese were already very near. As Bethune and the other doctors were climbing the hills, they could see the enemy entering the village in the valley below.
 
@@ -529,13 +526,9 @@ I promised that if anyone came to set me free, I would make him king over the ea
 "Still no one came. Then I became very angry, and decided that if anyone should set me free I would kill him at once. Now you have come and set me free. So you must die, but I will let you say how you want to die."
 
 The fisherman was not frightened. He said: "Since I must die, I must. But before I die, answer me one question."  
-
 "All right, but be quick."  
-
 "Were you really in the jar? You are so big and the jar is so small that it could hardly hold one of your feet."  
-
 "Of course I was in the jar. Don't you believe me?"  
-
 "No, and I won't until I've seen you in the jar with my own eyes."  
 
 When he heard this, the Genie changed again into smoke. Slowly the smoke went back into the jar. When all of it was in the jar, the fisherman quickly put

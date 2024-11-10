@@ -59,16 +59,16 @@ Is it green? Yes, it is.
 
 ### C
 
-Is this a ship? Yes, it is. What colour is it? It's yellow.  
-Is that a plane? Yes, it is. What colour is it? It's white. 
+Is this a ship? Yes, it is. What color is it? It's yellow.  
+Is that a plane? Yes, it is. What color is it? It's white. 
 
 ## DIALOGUE
 
-A: What colour is this apple?  
+A: What color is this apple?  
 B: It's red.  
-A: What colour is that banana?  
+A: What color is that banana?  
 B: It's yellow.  
-A: What colour is an orange?  
+A: What color is an orange?  
 B: Why, it's orange. An orange is orange
 
 
@@ -82,13 +82,13 @@ This is my cup.
 It isn't your cup.  
 My cup is white.  
 Your cup is yellow.  
-  
+
 That isn't his bike. It's Hers.  
 Her bike is green.  
-  
+
 Is this your desk? Yes, it is.  
 Is that your chair? No, it isn't. It's his chair.  
-  
+
 Is this your rubber? Yes, it is.  
 Is that your ruler? No, it isn't. It's her ruler.
 
@@ -116,7 +116,7 @@ one ship
 two ships  
 three cakes  
 four coats  
-five beds
+five beds  
 six bees  
 seven bananas  
 eight oranges  
@@ -231,7 +231,7 @@ A: Yes. He's a teacher. And this is my mother.
 B: Is she a teacher, too?  
 A: No. she's a worker.  
 B: Who's this baby?  
-A: Guess!
+A: Guess!  
 B: Is it your brother?  
 A: No.  
 B: Your sister?  
@@ -247,8 +247,8 @@ A: Yes, it's me.
 ### A
 
 I'm a boy. You're a girl. She is a girl. You're girls.  
-I’m a student.  
-  
+I'm a student.  
+
 What's your name?   
 My name is Li Ping.  
 How old are you?  
@@ -260,7 +260,7 @@ Are you middle-school students?
 Yes, we are.  
 No, we aren't.  
 We're in Grade One.  
-  
+
 Are you Young Pioneers?  
 Yes, we are.  
 
@@ -289,17 +289,17 @@ My little brother's name is Jack. He is only four. We all like Jack.
 
 Where's Kate?  
 She's near the window.  
-  
+
 Where's her bag?  
 It's on the desk.  
-  
+
 Where are her books?  
 They're in the bag.  
-  
+
 Where are her pencils?  
 What's on the table?  
 There's a glass on it.  
-  
+
 What's under the table?  
 There are two balls under it.  
 What's on the chair?  
@@ -322,7 +322,7 @@ Mike: Are they on the table?
 Grandma: No, they aren't.  
 Mike: Are they in your bag?  
 Grandma: No, they aren't.  
-Mike: Why, Grandma, they are right on your nose!   
+Mike: Why, Grandma, they are right on your nose!
 
 
 # LESSON 16
@@ -370,7 +370,7 @@ A: How many people are there in your family, Wang Lin?
 B: There are five, my grandpa, my father, my mother, my sister and I.  
 A: Is your grandpa a worker?  
 B: Oh, no. He's old. He's seventy.  
-  
+
 A: Are there many students in his class?  
 B: Yes. There are forty-six.  
 A: Is your mother a teacher, too?  
@@ -402,11 +402,11 @@ Teacher: Good morning, boys and girls.
 Student: Good morning, teacher!  
 Teacher: Sit down, please. Li Ping?  
 Li: Yes.  
-  
-Teacher: Oh, Wei Fang, How are you today?  
+
+Teacher: Oh, Wei Fang, how are you today?  
 Wei: I'm all right, thank you.  
 Teacher: That's all right.  
-  
+
 Teacher: How many days are there in this month?  
 Wang: There are thirty-one.  
 Teacher: That's right. Come to the blackboard, Liu Ying. Write "Monday" and "month" on it, please.  
@@ -439,4 +439,4 @@ Class
 I am a middle-school student. My name is Wei Fang. I study every day.  
 There are twenty boys and twenty-three girls in my class.  
 I come to school at seven thirty.  
-We study Chinese, maths, English and other lessons. We like maths. We like English, too. Some of us are good at it. We work hard. We study for the people.
+We study Chinese, math, English and other lessons. We like math. We like English, too. Some of us are good at it. We work hard. We study for the people.

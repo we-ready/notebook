@@ -87,7 +87,7 @@ ALL THESE THINGS ARE TO BE ANSWERED FOR(Ⅰ)
 
 ALL THESE THINGS ARE TO BE ANSWERED FOR(Ⅱ)
 
-　　"We were robbed by that man who is standing there, taxed by him without mercy, obliged to work for him without pay, obliged to feed scores of his tame birds on our wretched crops, and forbidden to keep a single bird of our own - I say, we were so robbed, and were made so poor, that our father told us it was a  dreadful thing to bring a child into the world."
+　　"We were robbed by that man who is standing there, taxed by him without mercy, obliged to work for him without pay, obliged to feed scores of his tame birds on our wretched crops, and forbidden to keep a single bird of our own - I say, we were so robbed, and were made so poor, that our father told us it was a dreadful thing to bring a child into the world."
 
 　　I had never before seen the feeling of being oppressed, bursting forth like a fire. I had supposed that it must be latest somewhere in the people, but I had never seen it break out until I saw it in the dying boy.
 
@@ -101,7 +101,7 @@ ALL THESE THINGS ARE TO BE ANSWERED FOR(Ⅱ)
 
 　　I did so, raising the boy's head against my knee. But, filled for the moment with extraordinary strength, he raised himself completely, obliging me to rise too, or I could not have supported him.
 
-　　"Marquis," said the boy, turning to the man, and his right hand raised, "in the days when all these things are to be answered for, I summon you and yours, to the last of your bad race, to answer for them. In the days when all these things are to be answered for, I summon your brother, the worst of your  bad race, to answer for them separately."
+　　"Marquis," said the boy, turning to the man, and his right hand raised, "in the days when all these things are to be answered for, I summon you and yours, to the last of your bad race, to answer for them. In the days when all these things are to be answered for, I summon your brother, the worst of your bad race, to answer for them separately."
 
 　　He stood there for an instant with his hand still raised. Then, as it dropped, he dropped with it, and I laid him down dead.
 
@@ -147,7 +147,7 @@ ALBERT EINSTEIN(Ⅱ)
 
 　　When Hitler came into power in Germany, Einstein, who was a Jew, found the doors of study closed to him. Not only was everything that he had taken away from him, but also his German citizenship. He became a man without a country.
 
-　　Fleeing Germany, Einstein went first to France, then to Belgium, and then to Britain. There he received a letter inviting him to go to the United States to teach at a well-known research institute in Princeton. He accepted, but asked for a very small salary. Einstein cared little for money, though he could have been very rich. He once refused to speak on the radio for $1000  a minute. Another time he was seen using a check for $1500 as a bookmark. Then he lost the book!
+　　Fleeing Germany, Einstein went first to France, then to Belgium, and then to Britain. There he received a letter inviting him to go to the United States to teach at a well-known research institute in Princeton. He accepted, but asked for a very small salary. Einstein cared little for money, though he could have been very rich. He once refused to speak on the radio for $1000 a minute. Another time he was seen using a check for $1500 as a bookmark. Then he lost the book!
 
 　　Like many scientists, Einstein loved music; he played the violin fairly well. In Princeton, he lived quietly, working at the institute and enjoying himself by playing his violin in his simple home. Often there were visitors like the twelve-year-old girl who, for a time, formed the habit of visiting him on her way home from school. After some time, the puzzled mother met Dr. Einstein and asked him what he and her daughter talked about. The doctor smelled and explained:" Oh, she brings me cookies and I do her arithmetic homework for her."
 
@@ -210,7 +210,7 @@ THE PROFESSOR AND HIS INVENTION
 **P**: Er, no, thanks. I'll ring if I need you.
 
 (Miss Green goes out of the room.)
-  
+
 **P (talking to himself)**: These women! They don't think I can look after myself. 
 
 (He begins to read his papers.)
@@ -223,7 +223,7 @@ THE PROFESSOR AND HIS INVENTION
 **G(very excited)**: Professor! They've arrived!  
 **P(looking up)**: Who, Miss Green? What are you talking about?  
 **G**: The men from the government, of course.  
-**P(looking at his watch)**:  But it's only half past ten. You said they were coming at eleven.  
+**P(looking at his watch)**: But it's only half past ten. You said they were coming at eleven.  
 **G**: Well, they've come early. Shall I bring them in?  
 **P**: Yes, bring them in of course. But give me five minutes. I want to finish this page.
 
@@ -249,7 +249,7 @@ THE PROFESSOR AND HIS INVENTION
 (Dr Brown is rather surprised. He looks at Mr. Rose.)
 
 **B**: Those papers on your desk, professor, are they the ones?  
-**P**: Oh, these?  No, they're not the papers for you. These are only some old papers. Ah, I remember now. I put the papers behind some books. (He stands up.)  
+**P**: Oh, these? No, they're not the papers for you. These are only some old papers. Ah, I remember now. I put the papers behind some books. (He stands up.)  
 **B**: Behind your books? That's not a very good place for papers, isn't it?  
 **P**: Yes, it is. No one touches my books. (He takes down some books. There are some papers behind them.) Yes, here they are. (He gives the papers to Dr Brown.) You know about my invention, don't you?  
 **B**: Of course, professor. This invention of yours will greatly benefit the whole world. We've talked a lot about it. You'll be famous, sir. And of course you will be well rewarded.  
@@ -374,7 +374,7 @@ Alphonse Daudet
 
 　　My books that a short time ago had seemed so tiresome, so heavy to carry, now seemed to me like old friends.
 
-　　I was thinking of this when I heard my name called. It was my turn to recite. How I wish I had  been able to say the rules without a mistake! But I could not say a word, and stood at my bench without daring to lift my head. Then I heard the master speaking to me.
+　　I was thinking of this when I heard my name called. It was my turn to recite. How I wish I had been able to say the rules without a mistake! But I could not say a word, and stood at my bench without daring to lift my head. Then I heard the master speaking to me.
 
 　　"I shall not scold you, little Franz. You are punished enough now. Every day you have said to yourself: 'I have plenty of time. I will learn my lessons tomorrow.' Now you see what has happened."
 
@@ -447,7 +447,7 @@ THE GIFTS（Ⅰ）
 
 　　There was clearly nothing left to do but drop herself onto the shabby little couch and weep. So Della did. You see, life is made up of sobs, sniffles, and smiles, but mainly of sniffles.
 
-　　When Della had finished her crying she went to the window and looked out sadly at a grey cat walking along a grey fence in a grey backyard. Tomorrow would be Christmas Day, and she had only $1.87 with which to buy Jim, her husband, a present. She had been saving every cent she could for months, but twenty dollars a week - which was the total of  their income - doesn't leave much for saving. Expenses had been greater than she had calculated. They always are. And now she had only $1.87 to buy a present for Jim. Many happy hours she had spent planning for something nice for him. Something fine and rare - something worthy of the honor of being owned by Jim.
+　　When Della had finished her crying she went to the window and looked out sadly at a grey cat walking along a grey fence in a grey backyard. Tomorrow would be Christmas Day, and she had only $1.87 with which to buy Jim, her husband, a present. She had been saving every cent she could for months, but twenty dollars a week - which was the total of their income - doesn't leave much for saving. Expenses had been greater than she had calculated. They always are. And now she had only $1.87 to buy a present for Jim. Many happy hours she had spent planning for something nice for him. Something fine and rare - something worthy of the honor of being owned by Jim.
 
 　　There was a mirror between the windows of the room. Suddenly she whirled from the window and stood before the glass. Her eyes were shining brilliantly, but soon her face lost its color. Rapidly she pulled down her hair and let it fall to its full length.
 

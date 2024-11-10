@@ -34,7 +34,7 @@ A: [ ... ] going to have geography, too?
 - Is Kate
 - Are they
 - Is your brother
-  
+
 B: Yes, I think so. (No, I don't think so.)
 
 ### C
@@ -57,7 +57,7 @@ THE NEW SCHOOL YEAR
 
 It's September, and we're back at school. It's good to see all my teachers and friends again. They all look fine.  
 
-We're in Grade Two this year. We're going to have a new subject-physics. I hear physics isn't easy. I'm going to work hard at it. I'm not very good at maths, but Wei Fang says she's going to help me. I think I can do better than last year.  
+We're in Grade Two this year. We're going to have a new subject-physics. I hear physics isn't easy. I'm going to work hard at it. I'm not very good at math, but Wei Fang says she's going to help me. I think I can do better than last year.  
 
 I like English very much. I always work hard at it. This year I'm going to do more speaking. Zhang Hong likes English too, but he needs help. I'm going to help him.  
 
@@ -79,14 +79,14 @@ A: What are you doing over there? Are you [ ... ]?
 - drawing a picture
 - doing your homework
 - writing a letter to Grandpa
-    
+
 B: No. I'm reading the newspaper.  
 
 A: When are you going to [ ... ]?
 - draw the picture then
 - do your homework
 - write the letter
-  
+
 B: This evening.
 
 ### B
@@ -95,7 +95,7 @@ A: What are they going to do [ ... ]?
 - the day after tomorrow
 - this Sunday morning
 - next Saturday afternoon
-  
+
 B: They're going to have a volleyball match.  
 A: Where are they going to have it?  
 B: They are going to have it [ ... ].
@@ -115,7 +115,7 @@ A: Who's going to [ ... ]?
 - speak at the meeting
 - give the talk
 - buy the tickets
-  
+
 B: [ ... ] is, I think.
 - Our teacher
 - Comrade Wu
@@ -181,7 +181,7 @@ A: Excuse me, may I [ ... ]?
 - look at that book
 - have a glass of water
 - use your pen
-  
+
 B: Certainly. Here you are.
 
 ### D
@@ -223,7 +223,7 @@ I was ill in bed.
 ### A
 
 A: Where [ ... ]?
-- is Mr Green
+- is Mr. Green
 - is Mary
 - are Jack and Mike
 
@@ -238,7 +238,7 @@ A: Was your father at home ?
 - yesterday morning
 - yesterday afternoon
 - last night?
-  
+
 B: Yes, he was. (No, he wasn't. He was at work)
 
 ### C
@@ -268,19 +268,19 @@ B: I was born in [ ... ].
 
 A TELEPHONE CALL
 
-Mrs Black: Hello!  
+Mrs. Black: Hello!  
 Mary: Hello! May I speak to John?  
-Mrs Black: Sorry, John isn't in.  
-Mary: Is that Mrs Black speaking?  
-Mrs Black: Yes. Who's that?  
-Mary: This Mary, Mrs Black. I called at four thirty this afternoon, but nobody was in.  
-Mrs Black: Oh, we were all out. John wasn't back then. Mr Black and I were at the cinema. Can I take a message for John?  
+Mrs. Black: Sorry, John isn't in.  
+Mary: Is that Mrs. Black speaking?  
+Mrs. Black: Yes. Who's that?  
+Mary: This Mary, Mrs. Black. I called at four thirty this afternoon, but nobody was in.  
+Mrs. Black: Oh, we were all out. John wasn't back then. Mr. Black and I were at the cinema. Can I take a message for John?  
 Mary: Yes, please. John asked me to help him with lessons this evening. I'm afraid I can't do that today. Mother is ill. I have to look after her at home.   
-Mrs Black: I'm sorry to hear that. Just stay at home and take good care of your mother. Don't worry about John. You can help him later, can't you?  
+Mrs. Black: I'm sorry to hear that. Just stay at home and take good care of your mother. Don't worry about John. You can help him later, can't you?  
 Mary: Yes. Please tell John about it.  
-Mrs Black: OK.  
+Mrs. Black: OK.  
 Mary: Thanks a lot. Bye-bye!  
-Mrs Black: Good-bye!
+Mrs. Black: Good-bye!
 
 
 # LESSON 5
@@ -359,7 +359,7 @@ B: It was [ ... ].
 - August 2nd
 - November 3rd
 - December 1st
-  
+
 ### B
 
 A: How many classes did you have yesterday afternoon?  
@@ -400,9 +400,9 @@ B: They stayed there [ ... ].
  
 More than one hundred years ago there was a great French scientist with the name Ampere.  
 
-One day, Mr Ampere went out for a walk in the street. There were a lot of people and much noise there. But all this was nothing to him. He was thinking about a maths problem. He had no paper with him. How could he work it out?  
+One day, Mr. Ampere went out for a walk in the street. There were a lot of people and much noise there. But all this was nothing to him. He was thinking about a math problem. He had no paper with him. How could he work it out?  
 
-Just then, he saw a blackboard in front of him. He ran up to it at once. He took out a piece of chalk and wrote his problem on the blackboard. Then he started to work on it. The blackboard moved a little, but he did not notice it. The blackboard moved on. Mr Apere moved with it. The blackboard started to move away faster and faster. Mr Ampere could not keep up with it any longer. He stopped to have a look.  
+Just then, he saw a blackboard in front of him. He ran up to it at once. He took out a piece of chalk and wrote his problem on the blackboard. Then he started to work on it. The blackboard moved a little, but he did not notice it. The blackboard moved on. Mr. Ampere moved with it. The blackboard started to move away faster and faster. Mr. Ampere could not keep up with it any longer. He stopped to have a look.  
 
 What did he see? Why, the "blackboard" was NOT a blackboard. It was the back of a carriage!
 
@@ -443,19 +443,19 @@ A: Which picture is [ ... ]?
 - more beautiful
 - more interesting
 - more expensive
-  
+
 B: The [ ... ], I think.
 - one on the left
 - on the right
 - on the left
-  
+
 ### B
 
 A: Which lesson is the [ ... ] in Book Two?
 - most difficult
 - the most interesting
 - the most instructive
-  
+
 B: [ ... ] is. Don't you think so?
 - Lesson 15
 - Lesson 13
@@ -479,7 +479,7 @@ A: Is Joan as [ ... ] as Kate?
 - tall
 - strong
 - careful
-  
+
 B: No, she isn't. She isn't quite as [ ... ] as Kate. (Yes, she's just as [ ... ] as Kate.)
 - tall
 - strong
@@ -526,7 +526,7 @@ A: It was [ ... ] yesterday, wasn't it?
 - cold
 - hot
 - sunny
-  
+
 B: Yes, it was. But It's [ ... ] today.
 - much warmer
 - much cooler
@@ -538,7 +538,7 @@ A: You were tired after [ ... ], weren't you?
 - the sports meet
 - the football match
 - running
-  
+
 B: Yes, but only a little. Now I'm [ ... ].
 - fine
 - all right
@@ -578,7 +578,7 @@ Then he saw a magazine on the table next to him. There was a picture of a cock o
 "A hen, sir."  
 "And what do you call a hen's children?"  
 "Chicks, sir".  
-"And what do you call chicks before thye're born?"  
+"And what do you call chicks before they're born?"  
 "Eggs, sir".  
 "Very well," said the French student. "Bring me two eggs, two eggs and a cup of tea, please".  
  
@@ -597,7 +597,7 @@ No, I won't. We can go to the Great Wall tomorrow.
 A: You [ ... ], didn't you?
 - washed the clothes
 - answered the letter
-- called Mr Green
+- called Mr. Green
 - bought me a bottle of ink
 
 B: Sorry, I forgot! But I'll [ ... ] them after lunch.
@@ -610,7 +610,7 @@ B: Sorry, I forgot! But I'll [ ... ] them after lunch.
 
 A: Will [ ... ] this afternoon?
 - you be here
-- you help me with my maths
+- you help me with my math
 - she come home
 - they have any lessons
  
@@ -630,14 +630,14 @@ A: Will you [ ... ]?
 - Help me repair my bike
 - Make me a kite
 
-B: Centainly. I'll be glad to.
+B: Certainly. I'll be glad to.
 
 # DIALOGUE
 
 SHOPPING
 
 Alice: Mum, look at my coat. It's too short and too small. Will you buy me a new one?  
-Mrs Green: All right. I'm just going out to do some shopping now. Come on, dear.  
+Mrs. Green: All right. I'm just going out to do some shopping now. Come on, dear.  
 
 (They go into a shop for clothes).  
 
@@ -673,7 +673,7 @@ A: Can [ ... ] work out this problem?
 - you
 - Jack
 - They
-    
+
 B: Yes. It's not too difficult. [ ... ] can work it out [ ... ].
 - I ... myself
 - He ... himself.
@@ -686,7 +686,7 @@ A: What's wrong with your [ ... ]?
 - bike
 - watch
 - radio
-  
+
 B: It doesn't work.  
 A: Can you repair it yourself?  
 B: I'm afraid not. Can you help me?  
@@ -700,7 +700,7 @@ B: To John's. We're going to have [ ... ] lessons together.
 - French
 - Japanese
 - Russian
-  
+
 A: Who teaches you?  
 B: Nobody. We teach ourselves.
 
@@ -717,7 +717,7 @@ After a while there was a great noise. It was a big bear. The young men ran away
 Soon the bear came near. The bear looked at the fat young man, then it put its nose down and smelled him. The young man held his breath. The bear thought he was dead, so it went away.  
 The man in the tree came down. With a smile he asked his friend, "The bear put its mouth so near to your ear. What did it say to you?"  
 
-The friend answered, "The bear said, Don't trust your friend. He ran away from you when you needed his help most. Remember: A friend in need is a friend indeed."
+The friend answered, "The bear said, don't trust your friend. He ran away from you when you needed his help most. Remember: A friend in need is a friend indeed."
 
 
 # LESSON 13
@@ -765,7 +765,7 @@ One morning Lenin was going to his office. At the gate a guard stopped him.
 "Your pass, please".  
 "Oh, yes, my pass", said Lenin. "It's in one of my pockets". He began to look for it in his pockets.  
 
-Just then a young man came up. This young man knew Lenin. He said to the guard: "Let  him in."  
+Just then a young man came up. This young man knew Lenin. He said to the guard: "Let him in."  
 "No, I won't let him in if he has no pass. What's more, I want to see your pass, too".  
 
 The young man became angry. "This is Comrade Lenin. Let him in, I tell you!" he shouted at the guard.  
@@ -784,9 +784,9 @@ THE STORY OF LITTLE GAUSS
 
 One afternoon some boys made a lot of noise in class. The teacher got angry.
 He kept them in the classroom after school. He told them to add all the numbers from 1 to 100 together.  
- 
+
 The boys took out their exercise-books. All of them began to write the numbers down except one boy. He was new in the school. He looked out of the window for a few minutes. Then he wrote a number in his exercise-book and put up his hand.  
-"May I go home, sir?" he asked. "Iknow the answer now".  
+"May I go home, sir?" he asked. "I know the answer now".  
 
 The teacher and the other boys were very surprised.  
 "Bring it here." said the teacher.  
