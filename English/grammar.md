@@ -80,7 +80,7 @@ tomatoes, radios
 
 以辅音字母加 `y` 结尾的名词，先把 `y` 变 `i` 再加 - `es`，读 [z]
 
-stories countries
+stories, countries
 
 ---
 
@@ -125,7 +125,7 @@ sheep, fish (表示个体)
 | eleventh | 11th |
 | twelfth | 12th |
 | twentieth | 20th |
-| twenty-first | 21th |
+| twenty-first | 21st |
 | thirtieth | 30th |
 | thirty-ninth | 39th |
 | fortieth | 40th |
@@ -468,6 +468,8 @@ A car goes (the) fastest of the three.
 | little | less | least|
 | far | farther, further | farthest, furthest | 
 | old | older, elder | oldest, eldest |
+
+> `elder` 和 `eldest` 用来形容人，尤其是一个家庭里面的长幼顺序。
 
 多音节形容词和副词的比较级和最高级的用法。如：  
 
