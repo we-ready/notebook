@@ -33,6 +33,7 @@
 - [ ] Special Folders: `c:\`, `c:\users\xxxxx`
 - [ ] `Download` folder
 - [ ] Compare local `Desktop`, `Documents`, `Pictures` with `OneDrive` folders
+- [ ] Any shortcut in `Desktop`, `Documents`, `Pictures`?
 - [ ] other folders (list here)
 
 ## Device
