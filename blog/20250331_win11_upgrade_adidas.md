@@ -7,12 +7,13 @@
 - [ ] Attention:
 
 1. All data will be removed
-1. At least 3 - 4 hours
+1. At least 4 hours (depends on: a. corp net; b. laptop performance; c. data size (backup/restore & cloud sync)
 1. MS Authenticator
 
 - [ ] Call to Action:
 
 1. Backup important data
+1. OneDrive sync completed
 1. Schedule time
 
 ## Space Check
@@ -27,13 +28,13 @@
 
 ## File Explorer
 
-- [ ] Quick Access (local)
-- [ ] Quick Access (Sharepoint)
+- [ ] Quick Access
+- [ ] Sharepoint Sync
 - [ ] Network Drive Mapping
-- [ ] Special Folders: `c:\`, `c:\users\xxxxx`
-- [ ] `Download` folder
+- [ ] `Download` backup
 - [ ] Compare local `Desktop`, `Documents`, `Pictures` with `OneDrive` folders
-- [ ] Any shortcut in `Desktop`, `Documents`, `Pictures`?
+- [ ] Any shortcuts in `Desktop`, `Documents`, `Pictures`?
+- [ ] Special Folders backup (`c:\`, `c:\users\xxxxx`)
 - [ ] other folders (list here)
 
 ## Device
@@ -42,27 +43,12 @@
 
 ## Special Apps
 
-- [ ] Chrome
-- [ ] Edge
-- [ ] OneNotes
+- [ ] OneNotes books
 - [ ] StickNotes
-- [ ] other apps
-
-## Add folder and files
-
-- [ ] backup folder (`desktop` & `OneDrive`)
-- [ ] Quick Access (local & sharepoint)
-- [ ] remote mapping drive
-- [ ] printers
+- [ ] Office (Excel, PowerPoint, ...)
 - [ ] Edge favorites
 - [ ] Chrome bookmarks
-- [ ] OneNotes links
-- [ ] StickNotes content
-- [ ] `OneDrive` sync up
-
-- [ ] backup folder (USB drive)
-- [ ] `Download` folder
-
+- [ ] other apps (Adobe Reader, Chrome, ...)
 
 
 # !!! Power Cable !!!
@@ -71,13 +57,14 @@
 
 # After
 
-## setting
+## settings
 
 - [ ] Windows Upgrade (patch 24H2)
-- [ ] Language Pack
 - [ ] Edge Upgrade
+- [ ] Language Pack
 
 ## Add
+
 - [ ] Font
 - [ ] Printer
 - [ ] Network Drive Mapping
@@ -85,14 +72,13 @@
 ## Install
 
 - [ ] Youdao
-- [ ] others (list here)
+- [ ] others apps (list above)
 
 ## Sync
 
 - [ ] `OneDrive`
 - [ ] `Desktop`, `Documents`, `Picture`
-- [ ] Edge favorite
-- [ ] Chrome Bookmarks
+- [ ] Restore all backup content (favorite, bookmarks, download, others ...)
 
 ## Active
 
