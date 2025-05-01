@@ -59,10 +59,10 @@ Write-Host 'Processing ...'
 
 Start-Process powershell.exe -ArgumentList "-File `"./fonts.ps1`""
 
-# Get-ChildItem -Filter ./fontest/*.ttf | ForEach-Object { Add-Font $_ } 
-# Get-ChildItem -Filter ./fontest/*.ttc | ForEach-Object { Add-Font $_ }
-# Get-ChildItem -Filter ./fontest/*.otf | ForEach-Object { Add-Font $_ }
-# Get-ChildItem -Filter ./fontest/*.fon | ForEach-Object { Add-Font $_ }
+# Get-ChildItem -Filter ./fonts/*.ttf | ForEach-Object { Add-Font $_ } 
+# Get-ChildItem -Filter ./fonts/*.ttc | ForEach-Object { Add-Font $_ }
+# Get-ChildItem -Filter ./fonts/*.otf | ForEach-Object { Add-Font $_ }
+# Get-ChildItem -Filter ./fonts/*.fon | ForEach-Object { Add-Font $_ }
 
 
 .\software\YoudaoDict_dict_web_banner.exe
@@ -97,7 +97,7 @@ function Install-FontsInFolder {
 }
 
 # Set the path to the folder containing the fonts
-$fontFolderPath = "./fontest"
+$fontFolderPath = "./fonts"
 
 # Call the function to install the fonts
 Install-FontsInFolder -folderPath $fontFolderPath
